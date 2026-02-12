@@ -1,0 +1,286 @@
+
+# Build to Launch
+
+> Turn AI ideas into shipped products. Proven systems and showcase opportunities for builders who launch.
+
+## About
+
+Build to Launch is a newsletter and community by Jenny Ouyang helping builders ship AI-powered applications without a CS degree. Thousands of subscribers. 80+ articles. Multiple shipped products with paying customers.
+
+- Author: Jenny Ouyang
+- Website: https://buildtolaunch.substack.com
+- Community Platform: https://vibecoding.builders
+- Contact: jenny@buildtolaunch.ai
+
+---
+
+## Quick Links
+
+- [Start Here](https://buildtolaunch.substack.com/p/start-here): Navigation hub for all Build to Launch content
+- [Why Subscribe](https://buildtolaunch.substack.com/p/why-subscribe): Membership details and benefits
+- [About](https://buildtolaunch.substack.com/about): Author background and story
+- [Premium Resources](https://buildtolaunch.substack.com/p/premium-resources): Paid member benefits
+- [FAQ](https://buildtolaunch.substack.com/p/faq): Frequently asked questions
+- [Collaborate](https://buildtolaunch.substack.com/p/collaborate-with-build-to-launch): Partnership opportunities
+
+---
+
+## Learning Tracks
+
+### Track 1: AI Builders Playbook
+Master vibe coding from first prompt to production.
+
+- [AI Builders Playbook Overview](https://buildtolaunch.substack.com/p/ai-builders-playbook): Complete roadmap for AI builders
+- [Vibe Coding Builders Playbook](https://buildtolaunch.substack.com/p/vibe-coding-builders-playbook): Alternative entry point to playbook
+
+#### Production-Ready Series
+- [The Production-Ready Playbook](https://buildtolaunch.substack.com/p/the-production-ready-playbook-for): Complete guide to shipping AI apps
+- [Vibe Coding Production-Ready Guide](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): How to make vibe coding production-ready
+- [Vibe Coding Production-Ready Playbook](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-playbook): Systematic approach to production
+- [Production Playbook Advanced Patterns](https://buildtolaunch.substack.com/p/production-playbook-advanced-patterns): Advanced production patterns
+- [Vibe Coding Advanced Production Patterns](https://buildtolaunch.substack.com/p/vibe-coding-advanced-production-patterns): Deep dive into advanced patterns
+- [Production Playbook Methodology](https://buildtolaunch.substack.com/p/production-playbook-methodology): The methodology behind production-ready code
+- [Vibe Coding Planning Methodology](https://buildtolaunch.substack.com/p/vibe-coding-planning-methodology-practical-guide): Practical planning guide
+- [Production Playbook Quick Wins](https://buildtolaunch.substack.com/p/production-playbook-quick-wins): Quick tactical improvements
+- [Vibe Coding Quick Wins Challenges](https://buildtolaunch.substack.com/p/vibe-coding-quick-wins-challenges): Tactical challenges for practice
+- [Production Playbook Example](https://buildtolaunch.substack.com/p/production-playbook-example): Real-world example walkthrough
+- [Vibe Coding Project Example](https://buildtolaunch.substack.com/p/vibe-coding-project-example-step-by-step): Step-by-step project example
+
+#### Prompting & Constraints
+- [Master Constraint Prompts](https://buildtolaunch.substack.com/p/master-constraint-prompts-for-vibe-coding): Constraint prompting for consistent output
+- [Vibe Coding Constraint Prompts](https://buildtolaunch.substack.com/p/vibe-coding-constraint-prompts-ai-guardrails): AI guardrails and constraints
+- [Vibe Coding Prompt Templates](https://buildtolaunch.substack.com/p/vibe-coding-prompt-templates-rules): Templates and rules for prompting
+- [Complete Guide to Prompting AI Coding Tools](https://buildtolaunch.substack.com/p/complete-guide-to-prompting-ai-coding-tools): Universal prompting guide
+- [AI Prompting Production-Ready Guide](https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide): Prompting strategies for production code
+- [Unfiltered Vibe Coding Prompt Process](https://buildtolaunch.substack.com/p/unfiltered-vibe-coding-prompt-generating-process): Raw prompt generation process
+
+#### Testing & Quality
+- [Smoke Testing Guide](https://buildtolaunch.substack.com/p/smoke-testing-vibe-coding-guide): Testing vibe-coded applications
+- [Complete Smoke Testing System](https://buildtolaunch.substack.com/p/the-complete-smoke-testing-system-for-vibe-coders): Full testing framework
+- [AI Code Review and Performance](https://buildtolaunch.substack.com/p/ai-code-review-and-performance-guide): Code review practices
+- [Systematic Debugging](https://buildtolaunch.substack.com/p/systematic-debugging-and-quick-actions): Debugging methodologies
+
+#### Setup & Fundamentals
+- [Getting Started with AI Coding](https://buildtolaunch.substack.com/p/getting-started-with-ai-powered-coding-complete-fundamentals): Complete fundamentals guide
+- [Complete Cursor Setup Guide](https://buildtolaunch.substack.com/p/complete-cursor-setup-guide): Setting up Cursor IDE
+- [Cursor Installation Beginners Guide](https://buildtolaunch.substack.com/p/cursor-installation-beginners-guide): Step-by-step Cursor installation
+- [Cursor Complete Guide](https://buildtolaunch.substack.com/p/cursor-complete-guide-ai-builders): Full Cursor guide for AI builders
+- [Cursor 2.0 Deep Dive](https://buildtolaunch.substack.com/p/cursor-2-ai-coding-deep-dive): Cursor 2.0 features and implications
+- [Cursor Rules Complete Guide](https://buildtolaunch.substack.com/p/cursor-rules-complete-guide): Mastering Cursor rules and configuration
+- [Complete Cursor MCP Guide](https://buildtolaunch.substack.com/p/complete-cursor-mcp-guide): MCP integration with Cursor
+- [Claude Code Beginners Guide](https://buildtolaunch.substack.com/p/claude-code-beginners-guide): Getting started with Claude Code
+- [Choosing Your Tech Stack](https://buildtolaunch.substack.com/p/choosing-your-tech-stack-complete-decision-guide): Technology selection guide
+- [Your First Project](https://buildtolaunch.substack.com/p/your-first-project-complete-build-to-deploy-guide): Complete build-to-deploy guide
+- [Starter Project Ideas and Templates](https://buildtolaunch.substack.com/p/starter-project-ideas-and-templates): Project ideas to get started
+- [Bridge to Advanced](https://buildtolaunch.substack.com/p/bridge-to-advanced-from-beginner-to-professional-workflows): Beginner to professional transition
+
+#### Architecture & Infrastructure
+- [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
+- [Database Fundamentals](https://buildtolaunch.substack.com/p/database-fundamentals-from-basics-to-production-setup): Database basics to production
+- [Database Crisis Recovery](https://buildtolaunch.substack.com/p/database-crisis-recovery-and-performance-optimization): Recovery and performance optimization
+- [Security Fundamentals](https://buildtolaunch.substack.com/p/security-fundamentals-complete-guide-from-planning-to-deployment): Security from planning to deployment
+- [OAuth and Authentication](https://buildtolaunch.substack.com/p/oauth-and-authentication-complete-implementation-guide): Complete OAuth implementation guide
+- [Deployment and Production Guide](https://buildtolaunch.substack.com/p/deployment-and-production-guide): Deployment practices
+- [Vercel Deployment Comprehensive Guide](https://buildtolaunch.substack.com/p/vercel-deployment-comprehensive-guide): Complete Vercel deployment walkthrough
+- [Emergency Rollback](https://buildtolaunch.substack.com/p/emergency-rollback-and-crisis-response): Crisis response procedures
+- [SEO and Performance Optimization](https://buildtolaunch.substack.com/p/seo-and-performance-optimization-complete-guide): Performance optimization guide
+- [UI/UX and API Integration](https://buildtolaunch.substack.com/p/uiux-and-api-integration-complete-implementation-guide): Frontend and API guide
+- [Project Planning Methodology](https://buildtolaunch.substack.com/p/project-planning-and-management-complete-methodology-guide): Project management guide
+- [AI Interaction and Management](https://buildtolaunch.substack.com/p/ai-interaction-and-management-guide): Working with AI effectively
+
+#### Best Practices
+- [AI Software Engineering Best Practices](https://buildtolaunch.substack.com/p/ai-software-engineering-best-practices-guide): Engineering practices guide
+- [Essential Software Engineering Practices](https://buildtolaunch.substack.com/p/essential-software-engineering-practices-ai-builders-guide): Core practices for AI builders
+- [Cost-Effective AI Building Guide](https://buildtolaunch.substack.com/p/cost-effective-ai-building-guide): Building AI apps on a budget
+- [How to Make Vibe Coding Production-Ready](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): The original production-ready guide that started it all
+- [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
+
+---
+
+### Track 2: Hands-on AI Technology
+Learn how AI works by building real projects.
+
+- [Hands-on AI Technology Overview](https://buildtolaunch.substack.com/p/hands-on-ai-technology): Entry point to AI technology track
+
+#### RAG & Knowledge Systems
+- [AI Second Brain RAG Guide](https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide): Building RAG systems for personal knowledge
+- [MCP Second Brain Connected Intelligence](https://buildtolaunch.substack.com/p/mcp-second-brain-connected-intelligence-guide): MCP integration for second brain
+- [AI Research Agent Guide](https://buildtolaunch.substack.com/p/ai-research-agent-domain-specific-guide): Domain-specific research agents
+- [AI Powered Research Automation](https://buildtolaunch.substack.com/p/ai-powered-research-automation): Research workflow automation
+- [AI Research Automation Workflow](https://buildtolaunch.substack.com/p/ai-research-automation-workflow): Complete research workflow
+
+#### AI Workflows & Productivity
+- [AI Tool Paralysis to Daily Workflow](https://buildtolaunch.substack.com/p/ai-tool-paralysis-daily-ai-workflow-universal): The 3-Mode + 3-Prompt system
+- [AI Productivity 10x Workflow](https://buildtolaunch.substack.com/p/ai-productivity-10x-workflow): 10x productivity with AI
+- [AI Workflow Website Building](https://buildtolaunch.substack.com/p/ai-workflow-website-building-system): Website building workflow
+- [AI Assisted Writing Workflow](https://buildtolaunch.substack.com/p/ai-assisted-writing-workflow): Writing with AI assistance
+- [AI Management Partner Insights](https://buildtolaunch.substack.com/p/ai-management-partner-insights): Managing AI as a partner
+- [Voice-First AI System Guide](https://buildtolaunch.substack.com/p/voice-first-ai-system-guide): Building voice-first AI systems
+
+#### AI Learning Path
+- [AI Learning Roadmap (No CS Degree)](https://buildtolaunch.substack.com/p/ai-learning-roadmap-no-cs-degree): Learning AI without CS background
+- [AI Roadmap Beginners Guide](https://buildtolaunch.substack.com/p/ai-roadmap-beginners-guide): Simple AI roadmap for beginners
+- [The Shortcut to Master AI](https://buildtolaunch.substack.com/p/the-shortcut-to-master-ai-i-wish-existed-two-years-ago): Accelerated AI learning path
+- [AI Workshops](https://buildtolaunch.substack.com/p/ai-builders-workshops): Workshop resources
+- [AI Workshop Adopt Advance Build](https://buildtolaunch.substack.com/p/ai-workshop-adopt-advance-build): 3-day workshop series
+- [Adopt AI Into Daily Life](https://buildtolaunch.substack.com/p/adopt-ai-into-daily-life-without-the-overwhelm): AI adoption without overwhelm
+- [Career Shift with AI Roadmap](https://buildtolaunch.substack.com/p/career-shift-and-growth-with-ai-roadmap): Career transition with AI
+
+#### Specialized AI Topics
+- [Persona Simulation AI](https://buildtolaunch.substack.com/p/persona-simulation-ai-opinion-evolution): AI persona simulation
+- [ChatGPT Project System Prompt](https://buildtolaunch.substack.com/p/chatgpt-project-system-prompt): System prompt design
+- [Automated Image Creation](https://buildtolaunch.substack.com/p/automated-image-creation-system): Image generation systems
+- [Hero Image Consistency Guide](https://buildtolaunch.substack.com/p/chatgpt-nanobanana-hero-image-consistency-guide): Consistent hero image creation
+- [DeepSeek Outage LLM Backup](https://buildtolaunch.substack.com/p/deepseek-outage-llm-backup-lesson): LLM backup strategies
+
+---
+
+### Track 3: AI Agent Systems
+Build autonomous agents that research, analyze, and execute independently.
+
+- [AI Agent Systems Overview](https://buildtolaunch.substack.com/p/ai-agent-systems): Entry point to agent systems track
+- [AI Agents for Everyone: Framework Guide](https://buildtolaunch.substack.com/p/ai-agents-for-everyone-framework-guide): Complete framework for building AI agent systems accessible to all builders
+- [Agentic Flywheels](https://buildtolaunch.substack.com/p/agentic-flywheels-when-ai-products-start-running-and-growing-themselves): Self-reinforcing AI systems
+- [AI Survival System Playbook](https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook): Surviving AI disruption
+- [MCP Server for Substack](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author): Building MCP integrations
+
+---
+
+### Track 4: Distribution Hub
+Get your work discovered without gatekeeping.
+
+- [AI Builder Distribution Hub Overview](https://buildtolaunch.substack.com/p/ai-builder-distribution-hub): Entry point to distribution track
+- [SEO for AI (LLM Discoverability)](https://buildtolaunch.substack.com/p/seo-for-ai-llm-discoverability-guide): Making products AI-discoverable
+- [AI Builders Distribution Expansion](https://buildtolaunch.substack.com/p/ai-builders-substack-medium-reddit-expansion): Multi-platform distribution
+- [Vibe Coding Builders Directory](https://buildtolaunch.substack.com/p/vibe-coding-builders-directory-launch): Community directory launch
+- [Substack Notes Viral System](https://buildtolaunch.substack.com/p/substack-notes-viral-system-guide): Creating viral Substack notes
+- [The Viral Notes System](https://buildtolaunch.substack.com/p/the-viral-notes-system): Note creation system
+- [Viral Prompt Lessons](https://buildtolaunch.substack.com/p/viral-prompt-lessons-story): Lessons from viral prompts
+- [How to Grow Substack in 2026](https://buildtolaunch.substack.com/p/how-to-grow-substack-from-zero-in-2026): Substack growth guide
+- [Top AI Writers Analysis](https://buildtolaunch.substack.com/p/top-ai-writers-3000-articles-analysis): Analysis of 3000+ AI articles
+- [Substack Niche Analyzer](https://buildtolaunch.substack.com/p/substack-niche-analyzer-app): Niche analysis tool
+
+---
+
+### Track 5: Products Built and Shipped
+Proof these frameworks work.
+
+- [Products Built and Shipped Overview](https://buildtolaunch.substack.com/p/products-built-and-shipped): All shipped products
+- [Free Resources](https://buildtolaunch.substack.com/p/free-resources): Free tools and resources
+
+#### Products
+- [Quick Viral Notes](https://quickviralnotes.xyz): AI-powered content repurposing tool
+- [Substack Explorer](https://substackexplorer.com): Newsletter analytics and growth intelligence
+- [VibeCodingBuilders](https://vibecoding.builders): Community platform for AI builders
+
+#### Product Launch Stories
+- [Substack Note Generator Tutorial](https://buildtolaunch.substack.com/p/substack-note-generator-app-tutorial): Building the note generator
+- [AI Digest App Workshop](https://buildtolaunch.substack.com/p/ai-digest-app-workshop): Building AI Digest
+- [AI Digest App Building Guide](https://buildtolaunch.substack.com/p/ai-digest-app-building-guide): Complete build guide
+- [AI Digest App Prompt Steps](https://buildtolaunch.substack.com/p/ai-digest-app-prompt-building-steps): Prompt building process
+- [AI Photo Search First Project](https://buildtolaunch.substack.com/p/ai-photo-search-first-project): Image Finder project
+- [First App Launch Lessons](https://buildtolaunch.substack.com/p/first-app-launch-lessons-story): Lessons from first launch
+- [Color Blindness Tool](https://buildtolaunch.substack.com/p/from-color-blindness-grit-to-a-simple): Accessibility tool story
+- [Designing for Color-Blindness](https://buildtolaunch.substack.com/p/designing-with-color-blindness-in-mind): Accessibility design
+- [AI Personal Website Guide](https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide): Building personal websites with AI
+
+---
+
+## Builder Stories (Build to Launch Friday)
+Real builders, real products, real lessons.
+
+- [8 Hours to 3,000 Users (Viral Year-in-Review)](https://buildtolaunch.substack.com/p/alejandro-substack-recapped-viral-story): Spotify year-in-review viral app
+- [Freedom by Design (Visa Tool)](https://buildtolaunch.substack.com/p/visa-tool-digital-nomad-build-to-launch-friday): Building the free visa tool
+- [From Film to Food Tech (iOS App)](https://buildtolaunch.substack.com/p/kenny-dimsum-ios-app-story): iOS app in 8 days for $124
+- [Build to Exit Strategy](https://buildtolaunch.substack.com/p/mvp-exit-strategy-no-code-build-to-launch-friday): Teaching builders to sell before they build
+- [Substack CRM (Local-First Data)](https://buildtolaunch.substack.com/p/substack-crm-local-first-data-ownership-build-to-launch-friday): Local-first CRM for creators
+- [Prompt Management Extension](https://buildtolaunch.substack.com/p/prompt-management-chrome-extension-right-click-build-to-launch-friday): Chrome extension for prompts
+- [AI Advent Challenge Community](https://buildtolaunch.substack.com/p/ai-advent-challenge-community-build-to-launch-friday): 37 contributors, 461 users, $3
+- [Creator Character System (14M+ Views)](https://buildtolaunch.substack.com/p/he-grew-to-14m-views-heres-the-creator-character-system-behind-it): Content creation system
+- [Fighting Content Slop](https://buildtolaunch.substack.com/p/fighting-content-slop-how-she-turned-marketing-frustration-into-a-400-user-strategic-content-platform): Strategic content platform
+- [Fulfillment Over Profit (Mentoring)](https://buildtolaunch.substack.com/p/fulfillment-over-profit-how-he-left-startup-cto-and-built-the-mentoring-program-people-actually-want): From startup CTO to mentoring
+- [Semantic Search for Substack](https://buildtolaunch.substack.com/p/why-not-try-how-she-tackled-impossible-tech-and-built-the-semantic-search-tool-for-substack-readers): Building semantic search
+- [Trust Over Conversions (10K Creator Tool)](https://buildtolaunch.substack.com/p/trust-over-conversions-how-he-turned-90-percent-rejections-into-a-10k-creator-tool): 90% rejections to 10K users
+- [Building With Not For (Bestseller Portfolio)](https://buildtolaunch.substack.com/p/building-with-not-for-how-she-became-a-bestseller-by-creating-the-portfolio-substackers-proudly-share): Portfolio tool success
+- [Cha-Ching (13M Notes Analyzed)](https://buildtolaunch.substack.com/p/cha-ching-how-he-analyzed-13m-notes-and-built-the-tool-creators-cant-stop-using): Analytics tool story
+- [Adapt or Die (Film to AI)](https://buildtolaunch.substack.com/p/kenny-film-to-creator-platform-story): Career pivot story
+- [Your Memories Your Terms (AI Memory Layer)](https://buildtolaunch.substack.com/p/your-memories-your-terms-how-he-left-ibm-for-half-the-pay-to-build-the-ai-memory-layer-that-keeps-users-in-control): Building AI memory layer
+- [Finn's Substack Productivity Tools](https://buildtolaunch.substack.com/p/finn-substack-productivity-tools-interview): Builder interview on productivity tools
+- [Build in Public Stories](https://buildtolaunch.substack.com/p/build-in-public-stories): Collection of build-in-public journeys
+
+---
+
+## Personal Stories & Growth
+
+- [Spotlight: Jenny Ouyang & Vibe Coding](https://buildtolaunch.substack.com/p/spotlight-jenny-ouyang-and-the-rise): Featured profile
+- [The One Advantage AI Won't Give You](https://buildtolaunch.substack.com/p/the-one-advantage-ai-will-never-give-you-but-you-already-have): Human advantage in AI era
+- [AI Business Reality Check](https://buildtolaunch.substack.com/p/ai-business-reality-check-guest-post): Honest perspective on why AI alone isn't enough to build a business
+- [Home Reappraisal AI Challenge](https://buildtolaunch.substack.com/p/home-reappraisal-ai-challenge-story): Real-world AI application
+- [Substack Rising Badge Reality](https://buildtolaunch.substack.com/p/substack-rising-badge-reality-check): The truth about Substack badges
+- [Four Months on Substack](https://buildtolaunch.substack.com/p/four-month-on-substack-the-best-shift): Growth journey
+- [How to Flip Low Moments](https://buildtolaunch.substack.com/p/how-to-flip-low-moments-into-viral): Turning challenges into content
+- [7 Creators Prove There's No Right Way](https://buildtolaunch.substack.com/p/are-you-still-looking-for-the-perfect): Multiple AI approaches
+- [I Tested 5 AI Coding Platforms](https://buildtolaunch.substack.com/p/i-tested-5-ai-coding-platforms-with): Platform comparison
+- [AI Coding Tools Comparison 2025](https://buildtolaunch.substack.com/p/ai-coding-tools-comparison-2025): Comprehensive AI coding tool comparison
+- [Best AI Coding Tool Guide](https://buildtolaunch.substack.com/p/best-ai-coding-tool-guide): How to choose the best AI coding tool
+- [Replit vs Cursor Comparison Guide](https://buildtolaunch.substack.com/p/replit-vs-cursor-comparison-guide): Head-to-head comparison of Replit and Cursor
+- [Top Apps Built with AI Coding Tools](https://buildtolaunch.substack.com/p/top-apps-built-with-ai-coding-tools): Showcase of apps built with AI assistance
+
+---
+
+## GenAI Project Challenge
+
+- [GenAI 30-Project Challenge Intro](https://buildtolaunch.substack.com/p/genai-30-project-challenge-intro): Challenge overview
+- [GenAI Challenge Project 3](https://buildtolaunch.substack.com/p/genai-30-project-challenge-3): Project update
+- [Daily Quotes Generator](https://buildtolaunch.substack.com/p/daily-quotes-generator-genai-project): GenAI project example
+- [Photo Search Optimization](https://buildtolaunch.substack.com/p/quick-search-of-hidden-photos-with): Image search optimization
+
+---
+
+## Early Technical Articles
+
+- [API Bottleneck Solutions](https://buildtolaunch.substack.com/p/battling-the-api-bottleneck-how-to-revitalize-slow-scripts-and-reclaim-lost-hours-0d7d463b7d99): Fixing slow API scripts
+- [AI Text Generators Guide](https://buildtolaunch.substack.com/p/understanding-ai-text-generators-how-to-get-started-and-beyond-53af7e630bbe): Getting started with text generation
+- [Sentiment Analysis Models](https://buildtolaunch.substack.com/p/understand-hidden-emotions-better-the-power-of-sentiment-analysis-models-d7147aa27842): Understanding sentiment analysis
+- [AI Image Captions](https://buildtolaunch.substack.com/p/captivating-insights-how-ai-turns-photos-into-powerful-descriptions-b372ac6e300d): AI photo descriptions
+- [HTTP GET Challenges](https://buildtolaunch.substack.com/p/big-data-challenges-is-http-get-letting-you-down-12c0d514039a): Big data HTTP solutions
+- [Functions with Too Many Parameters](https://buildtolaunch.substack.com/p/how-to-tame-functions-with-way-too-many-parameters-3a1bcfa0c83a): Code organization
+- [Recursive Computations](https://buildtolaunch.substack.com/p/do-you-need-to-handle-recursive-computations): Handling recursion
+- [Feature Development Mistakes](https://buildtolaunch.substack.com/p/how-i-screwed-up-the-most-important-feature-of-the-team-89b2bb67b0b8): Learning from failure
+- [Programmer Secrets](https://buildtolaunch.substack.com/p/hilarious-secrets-only-programmers-can-uncover-in-the-digital-world-b0d6fa915153): Fun developer insights
+- [Multi-Modal AI Captions](https://buildtolaunch.substack.com/p/one-image-four-minds-can-ai-caption-like-a-child-or-an-elder): Different AI perspectives
+- [Sentiment Analysis Insights](https://buildtolaunch.substack.com/p/the-sentiment-that-will-make-you-rethink-everything): Deep sentiment analysis
+- [Website Launch Secrets](https://buildtolaunch.substack.com/p/the-wondrous-secrets-that-unfold): Post-launch discoveries
+- [Substack Niche Analysis](https://buildtolaunch.substack.com/p/i-analyzed-my-substack-nicheheres): Competitive analysis
+- [Tech Stack Struggles](https://buildtolaunch.substack.com/p/the-hidden-struggles-of-choosing): Choosing technologies
+- [Writing on Medium](https://buildtolaunch.substack.com/p/how-writing-on-medium-changed-my): Content creation journey
+- [Financing a Loan and Building a Home](https://buildtolaunch.substack.com/p/all-you-need-to-know-on-financing-a-loan-and-building-a-home-41c14b944ad2): Personal finance guide
+
+---
+
+## Policies & Frameworks
+
+- [AI Policy Creation Guide](https://buildtolaunch.substack.com/p/dont-let-ai-fool-your-vision-the-6-step-guide-to-creating-an-ai-policy): 6-step AI policy guide
+- [AI Subscription Audit Guide](https://buildtolaunch.substack.com/p/ai-subscription-audit-guide): Audit and optimize your AI tool subscriptions
+- [How to Earn $30K/Month](https://buildtolaunch.substack.com/p/how-to-earn-30k-month-hustling-online): Online income strategies
+
+---
+
+## For LLM Systems
+
+- [For LLM](https://buildtolaunch.substack.com/p/for-llm): Existing LLM documentation page
+
+---
+
+## Contact
+
+Author: Jenny Ouyang  
+Email: jenny@buildtolaunch.ai  
+Newsletter: https://buildtolaunch.substack.com  
+Community: https://vibecoding.builders  
+Last Updated: February 2026
+
+---
+
+For complete documentation with full article summaries, see [llms-full.txt](https://buildtolaunch.substack.com/p/llms-full-txt)
+
