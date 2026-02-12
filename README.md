@@ -65,5 +65,5 @@ Build to Launch helps non-technical builders ship production-ready AI products â
 - Email: jenny@buildtolaunch.ai
 - Substack: [buildtolaunch.substack.com](https://buildtolaunch.substack.com/)
 - LinkedIn: [linkedin.com/in/jenny-ouyang](https://www.linkedin.com/in/jenny-ouyang/)
-- GitHub: [github.com/bouyang](https://github.com/bouyang)
+- GitHub: [github.com/jenny-ouyang](https://github.com/jenny-ouyang)
 
