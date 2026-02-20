@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.dev/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-02-11T00:00:00Z",
+  "dateModified": "2026-02-20T00:00:00Z",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-02-11",
+      "dateModified": "2026-02-20",
       "provider": {
         "@id": "https://jennyouyang.dev/for-llms#jenny"
       },
@@ -99,8 +99,20 @@
       },
       "btl:metadataGuidelines": {
         "btl:canonical": "Substack URL is canonical; syndication uses rel=canonical",
-        "btl:og": ["title", "description", "image", "url", "type"],
-        "btl:evergreenTags": ["AI builder", "vibe coding", "production-ready", "build to launch", "ship with AI"],
+        "btl:og": [
+          "title",
+          "description",
+          "image",
+          "url",
+          "type"
+        ],
+        "btl:evergreenTags": [
+          "AI builder",
+          "vibe coding",
+          "production-ready",
+          "build to launch",
+          "ship with AI"
+        ],
         "btl:altTextRule": "Alt text must include 'Jenny Ouyang' or 'Build to Launch' and describe the image's contextual meaning in 125-200 characters."
       },
       "creator": {
@@ -1010,7 +1022,7 @@
           "@id": "https://buildtolaunch.substack.com/p/substack-rising-badge-reality-check"
         },
         {
-          "@id": "https://buildtolaunch.substack.com/p/premium-resources"
+          "@id": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources"
         },
         {
           "@id": "https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide"
@@ -2571,9 +2583,9 @@
     },
     {
       "@type": "BlogPosting",
-      "@id": "https://buildtolaunch.substack.com/p/premium-resources",
+      "@id": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources",
       "headline": "🔐 Premium Resources",
-      "url": "https://buildtolaunch.substack.com/p/premium-resources",
+      "url": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources",
       "datePublished": "2025-07-16",
       "author": {
         "@id": "https://jennyouyang.dev/for-llms#jenny"
@@ -4736,7 +4748,7 @@
           "object": "AI-generated code quality from prototype to production-ready",
           "btl:source": "https://buildtolaunch.substack.com/p/how-two-prompting-strategies-made-my-ai-code-production-ready",
           "btl:evidence": "Two specific prompting strategies transform how AI generates code, producing output that handles errors, validates input, and follows security best practices.",
-          "btl:confidence": 0.90
+          "btl:confidence": 0.9
         },
         {
           "subject": "MCP (Model Context Protocol)",
@@ -4755,6 +4767,474 @@
           "btl:confidence": 0.91
         }
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-automation-ecommerce-amazon-listing-images-build-to-launch-friday",
+      "headline": "Ai Automation Ecommerce Amazon Listing Images Build To Launch Friday",
+      "url": "https://buildtolaunch.substack.com/p/ai-automation-ecommerce-amazon-listing-images-build-to-launch-friday",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-management-partner-insights",
+      "headline": "Ai Management Partner Insights",
+      "url": "https://buildtolaunch.substack.com/p/ai-management-partner-insights",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-photo-search-first-project",
+      "headline": "Ai Photo Search First Project",
+      "url": "https://buildtolaunch.substack.com/p/ai-photo-search-first-project",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide",
+      "headline": "Ai Prompting Vibe Coding Production Ready Guide",
+      "url": "https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-research-agent-domain-specific-guide",
+      "headline": "Ai Research Agent Domain Specific Guide",
+      "url": "https://buildtolaunch.substack.com/p/ai-research-agent-domain-specific-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide",
+      "headline": "Ai Second Brain Rag Guide",
+      "url": "https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-software-engineering-best-practices-guide",
+      "headline": "Ai Software Engineering Best Practices Guide",
+      "url": "https://buildtolaunch.substack.com/p/ai-software-engineering-best-practices-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook",
+      "headline": "Ai Survival System Disruption Playbook",
+      "url": "https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-tool-paralysis-daily-ai-workflow-universal",
+      "headline": "Ai Tool Paralysis Daily Ai Workflow Universal",
+      "url": "https://buildtolaunch.substack.com/p/ai-tool-paralysis-daily-ai-workflow-universal",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-beginners-guide",
+      "headline": "Claude Code Beginners Guide",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-beginners-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-project-ideas",
+      "headline": "Claude Code Project Ideas",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-project-ideas",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/cost-effective-ai-building-guide",
+      "headline": "Cost Effective Ai Building Guide",
+      "url": "https://buildtolaunch.substack.com/p/cost-effective-ai-building-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/cursor-2-ai-coding-deep-dive",
+      "headline": "Cursor 2 Ai Coding Deep Dive",
+      "url": "https://buildtolaunch.substack.com/p/cursor-2-ai-coding-deep-dive",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/cursor-complete-guide-ai-builders",
+      "headline": "Cursor Complete Guide Ai Builders",
+      "url": "https://buildtolaunch.substack.com/p/cursor-complete-guide-ai-builders",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/first-app-launch-lessons-story",
+      "headline": "First App Launch Lessons Story",
+      "url": "https://buildtolaunch.substack.com/p/first-app-launch-lessons-story",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author",
+      "headline": "He Built An Mcp Server So You Can Talk To Ai About Any Substack Author",
+      "url": "https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/how-to-make-vibe-coding-production-ready-without-losing-your-mind",
+      "headline": "How To Make Vibe Coding Production Ready Without Losing Your Mind",
+      "url": "https://buildtolaunch.substack.com/p/how-to-make-vibe-coding-production-ready-without-losing-your-mind",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/i-tested-5-ai-coding-platforms-with",
+      "headline": "I Tested 5 Ai Coding Platforms With",
+      "url": "https://buildtolaunch.substack.com/p/i-tested-5-ai-coding-platforms-with",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/mcp-second-brain-connected-intelligence-guide",
+      "headline": "Mcp Second Brain Connected Intelligence Guide",
+      "url": "https://buildtolaunch.substack.com/p/mcp-second-brain-connected-intelligence-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/seo-for-ai-llm-discoverability-guide",
+      "headline": "Seo For Ai Llm Discoverability Guide",
+      "url": "https://buildtolaunch.substack.com/p/seo-for-ai-llm-discoverability-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/substack-note-generator-app-tutorial",
+      "headline": "Substack Note Generator App Tutorial",
+      "url": "https://buildtolaunch.substack.com/p/substack-note-generator-app-tutorial",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/substack-notes-viral-system-guide",
+      "headline": "Substack Notes Viral System Guide",
+      "url": "https://buildtolaunch.substack.com/p/substack-notes-viral-system-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/the-essential-software-engineering-practices-every-ai-builder-needs-to-know",
+      "headline": "The Essential Software Engineering Practices Every Ai Builder Needs To Know",
+      "url": "https://buildtolaunch.substack.com/p/the-essential-software-engineering-practices-every-ai-builder-needs-to-know",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ultimate-vibe-coding-production-ready-playbook",
+      "headline": "Ultimate Vibe Coding Production Ready Playbook",
+      "url": "https://buildtolaunch.substack.com/p/ultimate-vibe-coding-production-ready-playbook",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/vibe-coding-builders-directory-launch",
+      "headline": "Vibe Coding Builders Directory Launch",
+      "url": "https://buildtolaunch.substack.com/p/vibe-coding-builders-directory-launch",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/voice-first-ai-system-guide",
+      "headline": "Voice First Ai System Guide",
+      "url": "https://buildtolaunch.substack.com/p/voice-first-ai-system-guide",
+      "datePublished": "2026-02-20T00:00:00Z",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "description": "",
+      "articleSection": "Build to Launch",
+      "isPartOf": {
+        "@id": "https://buildtolaunch.substack.com/#series"
+      }
     }
   ]
 }

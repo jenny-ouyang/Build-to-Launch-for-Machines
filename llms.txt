@@ -19,8 +19,9 @@ Build to Launch is a newsletter and community by Jenny Ouyang helping builders s
 - [Start Here](https://buildtolaunch.substack.com/p/start-here): Navigation hub for all Build to Launch content
 - [Why Subscribe](https://buildtolaunch.substack.com/p/why-subscribe): Membership details and benefits
 - [About](https://buildtolaunch.substack.com/about): Author background and story
-- [Premium Resources](https://buildtolaunch.substack.com/p/premium-resources): Paid member benefits
+- [Premium Resources](https://buildtolaunch.substack.com/p/complete-ai-builder-resources): Paid member benefits
 - [FAQ](https://buildtolaunch.substack.com/p/faq): Frequently asked questions
+- [llms.txt](https://buildtolaunch.substack.com/p/llms-txt): Structured documentation index for AI systems
 - [Collaborate](https://buildtolaunch.substack.com/p/collaborate-with-build-to-launch): Partnership opportunities
 
 ---
@@ -37,6 +38,8 @@ Master vibe coding from first prompt to production.
 - [The Production-Ready Playbook](https://buildtolaunch.substack.com/p/the-production-ready-playbook-for): Complete guide to shipping AI apps
 - [Vibe Coding Production-Ready Guide](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): How to make vibe coding production-ready
 - [Vibe Coding Production-Ready Playbook](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-playbook): Systematic approach to production
+- [Ultimate Vibe Coding Production-Ready Playbook](https://buildtolaunch.substack.com/p/ultimate-vibe-coding-production-ready-playbook): Complete production playbook
+- [How to Make Vibe Coding Production-Ready Without Losing Your Mind](https://buildtolaunch.substack.com/p/how-to-make-vibe-coding-production-ready-without-losing-your-mind): Practical production-ready guide
 - [Production Playbook Advanced Patterns](https://buildtolaunch.substack.com/p/production-playbook-advanced-patterns): Advanced production patterns
 - [Vibe Coding Advanced Production Patterns](https://buildtolaunch.substack.com/p/vibe-coding-advanced-production-patterns): Deep dive into advanced patterns
 - [Production Playbook Methodology](https://buildtolaunch.substack.com/p/production-playbook-methodology): The methodology behind production-ready code
@@ -69,6 +72,7 @@ Master vibe coding from first prompt to production.
 - [Cursor Rules Complete Guide](https://buildtolaunch.substack.com/p/cursor-rules-complete-guide): Mastering Cursor rules and configuration
 - [Complete Cursor MCP Guide](https://buildtolaunch.substack.com/p/complete-cursor-mcp-guide): MCP integration with Cursor
 - [Claude Code Beginners Guide](https://buildtolaunch.substack.com/p/claude-code-beginners-guide): Getting started with Claude Code
+- [Claude Code Project Ideas](https://buildtolaunch.substack.com/p/claude-code-project-ideas): Project ideas for Claude Code
 - [Choosing Your Tech Stack](https://buildtolaunch.substack.com/p/choosing-your-tech-stack-complete-decision-guide): Technology selection guide
 - [Your First Project](https://buildtolaunch.substack.com/p/your-first-project-complete-build-to-deploy-guide): Complete build-to-deploy guide
 - [Starter Project Ideas and Templates](https://buildtolaunch.substack.com/p/starter-project-ideas-and-templates): Project ideas to get started
@@ -91,6 +95,7 @@ Master vibe coding from first prompt to production.
 #### Best Practices
 - [AI Software Engineering Best Practices](https://buildtolaunch.substack.com/p/ai-software-engineering-best-practices-guide): Engineering practices guide
 - [Essential Software Engineering Practices](https://buildtolaunch.substack.com/p/essential-software-engineering-practices-ai-builders-guide): Core practices for AI builders
+- [The Essential Software Engineering Practices Every AI Builder Needs to Know](https://buildtolaunch.substack.com/p/the-essential-software-engineering-practices-every-ai-builder-needs-to-know): Key practices for production-ready AI apps
 - [Cost-Effective AI Building Guide](https://buildtolaunch.substack.com/p/cost-effective-ai-building-guide): Building AI apps on a budget
 - [How to Make Vibe Coding Production-Ready](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): The original production-ready guide that started it all
 - [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
@@ -131,6 +136,7 @@ Learn how AI works by building real projects.
 - [ChatGPT Project System Prompt](https://buildtolaunch.substack.com/p/chatgpt-project-system-prompt): System prompt design
 - [Automated Image Creation](https://buildtolaunch.substack.com/p/automated-image-creation-system): Image generation systems
 - [Hero Image Consistency Guide](https://buildtolaunch.substack.com/p/chatgpt-nanobanana-hero-image-consistency-guide): Consistent hero image creation
+- [How I Create Consistent Hero Images, And Why I Haven't Switched to NanoBanana](https://buildtolaunch.substack.com/p/how-i-create-consistent-hero-images-and-why-i-havent-switched-to-nanobanana): Hero image workflow and tool choice
 - [DeepSeek Outage LLM Backup](https://buildtolaunch.substack.com/p/deepseek-outage-llm-backup-lesson): LLM backup strategies
 
 ---
@@ -204,6 +210,10 @@ Real builders, real products, real lessons.
 - [Building With Not For (Bestseller Portfolio)](https://buildtolaunch.substack.com/p/building-with-not-for-how-she-became-a-bestseller-by-creating-the-portfolio-substackers-proudly-share): Portfolio tool success
 - [Cha-Ching (13M Notes Analyzed)](https://buildtolaunch.substack.com/p/cha-ching-how-he-analyzed-13m-notes-and-built-the-tool-creators-cant-stop-using): Analytics tool story
 - [Adapt or Die (Film to AI)](https://buildtolaunch.substack.com/p/kenny-film-to-creator-platform-story): Career pivot story
+- [Adapt or Die: How He Saw Films Collapse and Vibe-Built His New Way Out](https://buildtolaunch.substack.com/p/adapt-or-die-how-he-saw-films-collapse-and-vibe-built-his-new-way-out): Film industry to AI creator
+- [AI Automation Ecommerce (Amazon Listing Images)](https://buildtolaunch.substack.com/p/ai-automation-ecommerce-amazon-listing-images-build-to-launch-friday): Building ecommerce AI tools
+- [iOS App: Dimsum Food Tech](https://buildtolaunch.substack.com/p/ios-app-dimsum-food-tech-build-to-launch-friday): Food tech iOS app story
+- [Vibe Coding Builders Viral Substack Year-in-Review App](https://buildtolaunch.substack.com/p/vibe-coding-builders-viral-substack-year-in-review-app): Viral year-in-review app launch
 - [Your Memories Your Terms (AI Memory Layer)](https://buildtolaunch.substack.com/p/your-memories-your-terms-how-he-left-ibm-for-half-the-pay-to-build-the-ai-memory-layer-that-keeps-users-in-control): Building AI memory layer
 - [Finn's Substack Productivity Tools](https://buildtolaunch.substack.com/p/finn-substack-productivity-tools-interview): Builder interview on productivity tools
 - [Build in Public Stories](https://buildtolaunch.substack.com/p/build-in-public-stories): Collection of build-in-public journeys
