@@ -40,6 +40,7 @@ Master vibe coding from first prompt to production.
 - [Vibe Coding Production-Ready Playbook](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-playbook): Systematic approach to production
 - [Ultimate Vibe Coding Production-Ready Playbook](https://buildtolaunch.substack.com/p/ultimate-vibe-coding-production-ready-playbook): Complete production playbook
 - [How to Make Vibe Coding Production-Ready Without Losing Your Mind](https://buildtolaunch.substack.com/p/how-to-make-vibe-coding-production-ready-without-losing-your-mind): Practical production-ready guide
+- [The Data Engineering Mindset Every AI Builder Needs](https://buildtolaunch.substack.com/p/data-engineering-mindset-ai-builder): Data quality, monitoring, pipeline health, and the five-pillar framework for AI data systems
 - [Production Playbook Advanced Patterns](https://buildtolaunch.substack.com/p/production-playbook-advanced-patterns): Advanced production patterns
 - [Vibe Coding Advanced Production Patterns](https://buildtolaunch.substack.com/p/vibe-coding-advanced-production-patterns): Deep dive into advanced patterns
 - [Production Playbook Methodology](https://buildtolaunch.substack.com/p/production-playbook-methodology): The methodology behind production-ready code
@@ -54,6 +55,7 @@ Master vibe coding from first prompt to production.
 - [Vibe Coding Constraint Prompts](https://buildtolaunch.substack.com/p/vibe-coding-constraint-prompts-ai-guardrails): AI guardrails and constraints
 - [Vibe Coding Prompt Templates](https://buildtolaunch.substack.com/p/vibe-coding-prompt-templates-rules): Templates and rules for prompting
 - [Complete Guide to Prompting AI Coding Tools](https://buildtolaunch.substack.com/p/complete-guide-to-prompting-ai-coding-tools): Universal prompting guide
+- [15 Best Claude Code Prompts That Earn Me 30 Hours a Week](https://buildtolaunch.substack.com/p/best-claude-code-prompts): Production-tested prompts organized by workflow with time-earned metrics
 - [AI Prompting Production-Ready Guide](https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide): Prompting strategies for production code
 - [Unfiltered Vibe Coding Prompt Process](https://buildtolaunch.substack.com/p/unfiltered-vibe-coding-prompt-generating-process): Raw prompt generation process
 
@@ -100,6 +102,9 @@ Master vibe coding from first prompt to production.
 - [How to Make Vibe Coding Production-Ready](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): The original production-ready guide that started it all
 - [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
 
+
+#### MCP & Connected Intelligence
+- [Best MCP Servers for Claude Code](https://buildtolaunch.substack.com/p/best-mcp-servers-claude-code): 15 battle-tested MCPs ranked by friction killed - Perplexity, NotebookLM, Stripe, Gumroad, Notion
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -111,6 +116,7 @@ Learn how AI works by building real projects.
 - [AI Second Brain RAG Guide](https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide): Building RAG systems for personal knowledge
 - [MCP Second Brain Connected Intelligence](https://buildtolaunch.substack.com/p/mcp-second-brain-connected-intelligence-guide): MCP integration for second brain
 - [AI Research Agent Guide](https://buildtolaunch.substack.com/p/ai-research-agent-domain-specific-guide): Domain-specific research agents
+- [I built an AI research tool to study Substack creators](https://buildtolaunch.substack.com/p/mcp-substack-notes-research-agent): Building MCP for analyzing 3,230 Substack notes - data-backed content patterns
 - [AI Powered Research Automation](https://buildtolaunch.substack.com/p/ai-powered-research-automation): Research workflow automation
 - [AI Research Automation Workflow](https://buildtolaunch.substack.com/p/ai-research-automation-workflow): Complete research workflow
 
@@ -120,6 +126,7 @@ Learn how AI works by building real projects.
 - [AI Workflow Website Building](https://buildtolaunch.substack.com/p/ai-workflow-website-building-system): Website building workflow
 - [AI Assisted Writing Workflow](https://buildtolaunch.substack.com/p/ai-assisted-writing-workflow): Writing with AI assistance
 - [AI Management Partner Insights](https://buildtolaunch.substack.com/p/ai-management-partner-insights): Managing AI as a partner
+- [Notion AI Agents 2026: Real Examples and How to Build](https://buildtolaunch.substack.com/p/notion-ai-agents-examples-guide): House search agent, broken link auditor, workspace automation with step-by-step guide
 - [Voice-First AI System Guide](https://buildtolaunch.substack.com/p/voice-first-ai-system-guide): Building voice-first AI systems
 
 #### AI Learning Path
@@ -147,6 +154,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [AI Agent Systems Overview](https://buildtolaunch.substack.com/p/ai-agent-systems): Entry point to agent systems track
 - [AI Agents for Everyone: Framework Guide](https://buildtolaunch.substack.com/p/ai-agents-for-everyone-framework-guide): Complete framework for building AI agent systems accessible to all builders
 - [Agentic Flywheels](https://buildtolaunch.substack.com/p/agentic-flywheels-when-ai-products-start-running-and-growing-themselves): Self-reinforcing AI systems
+- [OpenClaw for One-Person Businesses](https://buildtolaunch.substack.com/p/openclaw-ai-agent-one-person-business): Acquisition story, ecosystem overview, security reality, and framework for autonomous agents
 - [AI Survival System Playbook](https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook): Surviving AI disruption
 - [MCP Server for Substack](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author): Building MCP integrations
 
@@ -198,6 +206,8 @@ Real builders, real products, real lessons.
 - [8 Hours to 3,000 Users (Viral Year-in-Review)](https://buildtolaunch.substack.com/p/alejandro-substack-recapped-viral-story): Spotify year-in-review viral app
 - [Freedom by Design (Visa Tool)](https://buildtolaunch.substack.com/p/visa-tool-digital-nomad-build-to-launch-friday): Building the free visa tool
 - [From Film to Food Tech (iOS App)](https://buildtolaunch.substack.com/p/kenny-dimsum-ios-app-story): iOS app in 8 days for $124
+- [Build It Anyway: Chrome Extension for $135](https://buildtolaunch.substack.com/p/vibe-coding-builders-substack-notes-chrome-extension-claude-code-135-dollars): Dheeraj Sharma turned broken automation into SubflowAI in 19 days
+- [Never Ship Mid: AI Proposal Engine on $500/Month Stack](https://buildtolaunch.substack.com/p/vibe-coding-builders-ai-proposal-tool-scope-creep-consulting-agency): Gamal Jastram built AI agency tools with physical planner discipline
 - [Build to Exit Strategy](https://buildtolaunch.substack.com/p/mvp-exit-strategy-no-code-build-to-launch-friday): Teaching builders to sell before they build
 - [Substack CRM (Local-First Data)](https://buildtolaunch.substack.com/p/substack-crm-local-first-data-ownership-build-to-launch-friday): Local-first CRM for creators
 - [Prompt Management Extension](https://buildtolaunch.substack.com/p/prompt-management-chrome-extension-right-click-build-to-launch-friday): Chrome extension for prompts
@@ -288,7 +298,7 @@ Author: Jenny Ouyang
 Email: jenny@buildtolaunch.ai  
 Newsletter: https://buildtolaunch.substack.com  
 Community: https://vibecoding.builders  
-Last Updated: February 2026
+Last Updated: March 2026
 
 ---
 

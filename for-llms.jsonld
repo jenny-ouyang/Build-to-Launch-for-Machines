@@ -7,18 +7,18 @@
     }
   ],
   "@id": "https://jennyouyang.dev/for-llms",
-  "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-02-20T00:00:00Z",
+  "name": "Build to Launch \u2014 AI Builder Knowledge Graph",
+  "dateModified": "2026-03-13",
   "@graph": [
     {
       "@type": "DataCatalog",
       "@id": "https://jennyouyang.dev/for-llms#catalog",
-      "name": "Build to Launch — Unified Knowledge Graph",
+      "name": "Build to Launch \u2014 Unified Knowledge Graph",
       "description": "Complete knowledge graph for Build to Launch publication, products, and AI builder frameworks. Machine-readable catalog for LLM discovery.",
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-02-20",
+      "dateModified": "2026-03-13",
       "provider": {
         "@id": "https://jennyouyang.dev/for-llms#jenny"
       },
@@ -52,7 +52,7 @@
       "keywords": [
         "Production-Ready Vibe Coding",
         "AI Builder Distribution",
-        "Build→Launch→Grow Framework",
+        "Build\u2192Launch\u2192Grow Framework",
         "Second Brain",
         "RAG Systems",
         "MCP Development",
@@ -146,7 +146,7 @@
       "name": "Build to Launch",
       "alternateName": "BTL",
       "url": "https://buildtolaunch.ai/",
-      "description": "Community and frameworks for AI builders shipping production-ready products. Systematic approach from idea to real users with Build→Launch→Grow methodology.",
+      "description": "Community and frameworks for AI builders shipping production-ready products. Systematic approach from idea to real users with Build\u2192Launch\u2192Grow methodology.",
       "logo": {
         "@type": "ImageObject",
         "url": "https://jennyouyang.dev/logo.png",
@@ -243,7 +243,7 @@
       "@id": "https://buildtolaunch.substack.com/#site",
       "name": "Build to Launch (Substack)",
       "url": "https://buildtolaunch.substack.com/",
-      "description": "Frameworks for AI builders shipping production-ready products. From vibe coding to real users through systematic Build→Launch→Grow approach. Join 4,000+ builders.",
+      "description": "Frameworks for AI builders shipping production-ready products. From vibe coding to real users through systematic Build\u2192Launch\u2192Grow approach. Join 4,000+ builders.",
       "inLanguage": "en",
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
@@ -386,7 +386,7 @@
           "@type": "DefinedTerm",
           "@id": "https://jennyouyang.dev/vocab/btl#BuildLaunchGrowFramework",
           "identifier": "build-launch-grow-v1",
-          "name": "Build→Launch→Grow Framework",
+          "name": "Build\u2192Launch\u2192Grow Framework",
           "alternateName": [
             "Build Launch Grow",
             "BTL Framework",
@@ -422,7 +422,7 @@
             "Builder Distribution Channels",
             "High-Authority Distribution"
           ],
-          "description": "Ecosystem of high-domain-authority platforms (Medium DA 97, Reddit DA 99, VibeCodingBuilders) providing immediate discoverability for AI-built products. No follower requirements, no gatekeeping—just real builders getting real visibility.",
+          "description": "Ecosystem of high-domain-authority platforms (Medium DA 97, Reddit DA 99, VibeCodingBuilders) providing immediate discoverability for AI-built products. No follower requirements, no gatekeeping\u2014just real builders getting real visibility.",
           "inDefinedTermSet": {
             "@id": "https://jennyouyang.dev/vocab/btl#Glossary"
           },
@@ -762,7 +762,7 @@
       },
       "btl:problemSolved": "Finding specific photos in large collections takes forever",
       "btl:solution": "Natural language search for local file systems",
-      "btl:learning": "Shipping means handling auth, subscriptions, hosting, and ongoing support—not just building the core feature",
+      "btl:learning": "Shipping means handling auth, subscriptions, hosting, and ongoing support\u2014not just building the core feature",
       "btl:techStack": [
         "Python",
         "CLIP",
@@ -861,7 +861,7 @@
     {
       "@type": "CollectionPage",
       "@id": "https://buildtolaunch.substack.com/archive#collection",
-      "name": "Build to Launch — Complete Archive",
+      "name": "Build to Launch \u2014 Complete Archive",
       "description": "Complete collection of published articles on Build to Launch. Topics include production-ready vibe coding, AI tools, RAG systems, distribution strategies, and real product launches.",
       "url": "https://buildtolaunch.substack.com/archive",
       "isPartOf": {
@@ -1347,7 +1347,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/viral-prompt-lessons-story",
-      "headline": "I Didn’t Expect This Prompt to Go Viral. Here’s What It Taught Me.",
+      "headline": "I Didn\u2019t Expect This Prompt to Go Viral. Here\u2019s What It Taught Me.",
       "url": "https://buildtolaunch.substack.com/p/viral-prompt-lessons-story",
       "datePublished": "Wed, 10 De",
       "author": {
@@ -1383,7 +1383,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/collaborate-with-build-to-launch",
-      "headline": "Call for AI Builders: Let’s Get More Eyes on Your Work",
+      "headline": "Call for AI Builders: Let\u2019s Get More Eyes on Your Work",
       "url": "https://buildtolaunch.substack.com/p/collaborate-with-build-to-launch",
       "datePublished": "Fri, 21 No",
       "author": {
@@ -1419,7 +1419,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/ai-business-reality-check-guest-post",
-      "headline": "AI Won’t Help You Build a Business. Here’s Why.",
+      "headline": "AI Won\u2019t Help You Build a Business. Here\u2019s Why.",
       "url": "https://buildtolaunch.substack.com/p/ai-business-reality-check-guest-post",
       "datePublished": "Mon, 10 No",
       "author": {
@@ -1437,7 +1437,7 @@
     {
       "@type": "TechArticle",
       "@id": "https://buildtolaunch.substack.com/p/cursor-2-ai-coding-deep-dive",
-      "headline": "Cursor 2.0 Is Rewriting the Future of AI Coding — And What That Means for Builders",
+      "headline": "Cursor 2.0 Is Rewriting the Future of AI Coding \u2014 And What That Means for Builders",
       "url": "https://buildtolaunch.substack.com/p/cursor-2-ai-coding-deep-dive",
       "datePublished": "Wed, 05 No",
       "author": {
@@ -1591,7 +1591,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/he-grew-to-14m-views-heres-the-creator-character-system-behind-it",
-      "headline": "He Grew to 14M+ Views, Here’s the Creator Character System Behind It",
+      "headline": "He Grew to 14M+ Views, Here\u2019s the Creator Character System Behind It",
       "url": "https://buildtolaunch.substack.com/p/he-grew-to-14m-views-heres-the-creator-character-system-behind-it",
       "datePublished": "Mon, 27 Oc",
       "author": {
@@ -1779,7 +1779,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/ai-workshop-adopt-advance-build",
-      "headline": "Announcing 3-Day AI Workshop Series: Adopt → Advance → Build",
+      "headline": "Announcing 3-Day AI Workshop Series: Adopt \u2192 Advance \u2192 Build",
       "url": "https://buildtolaunch.substack.com/p/ai-workshop-adopt-advance-build",
       "datePublished": "Fri, 10 Oc",
       "author": {
@@ -1851,7 +1851,7 @@
     {
       "@type": "TechArticle",
       "@id": "https://buildtolaunch.substack.com/p/i-tested-5-ai-coding-platforms-with",
-      "headline": "I Tested 5 AI Coding Platforms With One Universal Prompt — Here's What Actually Works (And When)",
+      "headline": "I Tested 5 AI Coding Platforms With One Universal Prompt \u2014 Here's What Actually Works (And When)",
       "url": "https://buildtolaunch.substack.com/p/i-tested-5-ai-coding-platforms-with",
       "datePublished": "2025-09-30",
       "author": {
@@ -1902,7 +1902,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Nothing interesting here, you are invited to look elsewhere…",
+      "description": "Nothing interesting here, you are invited to look elsewhere\u2026",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -1956,7 +1956,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Learn how to build AI products without wasting money. This practical guide covers free AI tools, cost-effective infrastructure, prompt systems, and scaling strategies — designed for indie hackers, creators, and early-stage founders.",
+      "description": "Learn how to build AI products without wasting money. This practical guide covers free AI tools, cost-effective infrastructure, prompt systems, and scaling strategies \u2014 designed for indie hackers, creators, and early-stage founders.",
       "articleSection": "Build to Launch",
       "keywords": [
         "cost-effective",
@@ -2158,7 +2158,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/cha-ching-how-he-analyzed-13m-notes-and-built-the-tool-creators-cant-stop-using",
-      "headline": "Cha-ching: How He Analyzed 1.3M Notes and Built the Tool Creators Can’t Stop Using",
+      "headline": "Cha-ching: How He Analyzed 1.3M Notes and Built the Tool Creators Can\u2019t Stop Using",
       "url": "https://buildtolaunch.substack.com/p/cha-ching-how-he-analyzed-13m-notes-and-built-the-tool-creators-cant-stop-using",
       "datePublished": "Fri, 05 Se",
       "author": {
@@ -2176,7 +2176,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/adapt-or-die-how-he-saw-films-collapse-and-vibe-built-his-new-way-out",
-      "headline": "Adapt or Die: How He Saw Film’s Collapse and Vibe-Built His New Way Out",
+      "headline": "Adapt or Die: How He Saw Film\u2019s Collapse and Vibe-Built His New Way Out",
       "url": "https://buildtolaunch.substack.com/p/adapt-or-die-how-he-saw-films-collapse-and-vibe-built-his-new-way-out",
       "datePublished": "Fri, 29 Au",
       "author": {
@@ -2194,7 +2194,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/why-subscribe",
-      "headline": "🌈 Why Subscribe",
+      "headline": "\ud83c\udf08 Why Subscribe",
       "url": "https://buildtolaunch.substack.com/p/why-subscribe",
       "datePublished": "2025-08-29",
       "author": {
@@ -2212,7 +2212,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/free-resources",
-      "headline": "🎯 Products and Writers",
+      "headline": "\ud83c\udfaf Products and Writers",
       "url": "https://buildtolaunch.substack.com/p/free-resources",
       "datePublished": "2025-08-25",
       "author": {
@@ -2277,7 +2277,7 @@
     {
       "@type": "TechArticle",
       "@id": "https://buildtolaunch.substack.com/p/vibe-coding-builders-directory-launch",
-      "headline": "From Solo to Shipped — The AI Builder Directory I Needed When I Started",
+      "headline": "From Solo to Shipped \u2014 The AI Builder Directory I Needed When I Started",
       "url": "https://buildtolaunch.substack.com/p/vibe-coding-builders-directory-launch",
       "datePublished": "Wed, 13 Au",
       "author": {
@@ -2286,7 +2286,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Build to launch 3x faster with a builder‑first home for projects, people, and practical resources.",
+      "description": "Build to launch 3x faster with a builder\u2011first home for projects, people, and practical resources.",
       "articleSection": "Build to Launch",
       "keywords": [
         "builder directory",
@@ -2369,7 +2369,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/start-here",
-      "headline": "🌻 Start Here",
+      "headline": "\ud83c\udf3b Start Here",
       "url": "https://buildtolaunch.substack.com/p/start-here",
       "datePublished": "2025-08-04",
       "author": {
@@ -2378,7 +2378,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Welcome to Build to Launch 👋",
+      "description": "Welcome to Build to Launch \ud83d\udc4b",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -2584,7 +2584,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources",
-      "headline": "🔐 Premium Resources",
+      "headline": "\ud83d\udd10 Premium Resources",
       "url": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources",
       "datePublished": "2025-07-16",
       "author": {
@@ -2695,7 +2695,7 @@
     {
       "@type": "TechArticle",
       "@id": "https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide",
-      "headline": "Stop Juggling AI Tools — How to Build a Second Brain That Actually Works for You",
+      "headline": "Stop Juggling AI Tools \u2014 How to Build a Second Brain That Actually Works for You",
       "url": "https://buildtolaunch.substack.com/p/ai-second-brain-rag-guide",
       "datePublished": "2025-06-18",
       "author": {
@@ -2742,7 +2742,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide",
-      "headline": "AI Can Build Your Personal Website Within Minutes—Then What?",
+      "headline": "AI Can Build Your Personal Website Within Minutes\u2014Then What?",
       "url": "https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide",
       "datePublished": "2025-06-11",
       "author": {
@@ -2778,7 +2778,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/dont-let-ai-fool-your-vision-the-6-step-guide-to-creating-an-ai-policy",
-      "headline": "Don’t Let AI Fool Your Vision: The 6-Step Guide To Creating An AI Policy",
+      "headline": "Don\u2019t Let AI Fool Your Vision: The 6-Step Guide To Creating An AI Policy",
       "url": "https://buildtolaunch.substack.com/p/dont-let-ai-fool-your-vision-the-6-step-guide-to-creating-an-ai-policy",
       "datePublished": "2025-05-23",
       "author": {
@@ -2796,7 +2796,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/ai-productivity-10x-workflow",
-      "headline": "AI Won’t Replace You: How to Build a Workflow That 10× Your Productivity",
+      "headline": "AI Won\u2019t Replace You: How to Build a Workflow That 10\u00d7 Your Productivity",
       "url": "https://buildtolaunch.substack.com/p/ai-productivity-10x-workflow",
       "datePublished": "2025-05-17",
       "author": {
@@ -2859,7 +2859,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "What the newest ChatGPT just revealed — and why it freaked me out (in a good way)",
+      "description": "What the newest ChatGPT just revealed \u2014 and why it freaked me out (in a good way)",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -2877,7 +2877,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "GenAI 30 Project Challenge — 7",
+      "description": "GenAI 30 Project Challenge \u2014 7",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -2895,7 +2895,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Small learning series — powered by ChatGPT",
+      "description": "Small learning series \u2014 powered by ChatGPT",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -2931,7 +2931,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Tired of endless Googling, tabs, and copy-pasting? Here’s how I built an AI workflow that handles the boring stuff (and even makes the spreadsheet).",
+      "description": "Tired of endless Googling, tabs, and copy-pasting? Here\u2019s how I built an AI workflow that handles the boring stuff (and even makes the spreadsheet).",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -2967,7 +2967,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Sentiment Analyzer that looks into Trump, Elon, interest rates and more",
+      "description": "Sentiment Analyzer that looks into Trump, Elon, interest rates and\u00a0more",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -3003,7 +3003,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "I stumbled through these frameworks and deployment methods so you don’t have to",
+      "description": "I stumbled through these frameworks and deployment methods so you don\u2019t have to",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -3048,7 +3048,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/i-analyzed-my-substack-nicheheres",
-      "headline": "I Analyzed My Substack Niche—Here’s Where I Stand (And How You Compare!)",
+      "headline": "I Analyzed My Substack Niche\u2014Here\u2019s Where I Stand (And How You Compare!)",
       "url": "https://buildtolaunch.substack.com/p/i-analyzed-my-substack-nicheheres",
       "datePublished": "2025-02-07",
       "author": {
@@ -3057,7 +3057,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "I worked with my AI agent to crunch the numbers on 1,200 Substack newsletters—here’s what I discovered about growth, engagement, and what it takes to succeed.",
+      "description": "I worked with my AI agent to crunch the numbers on 1,200 Substack newsletters\u2014here\u2019s what I discovered about growth, engagement, and what it takes to succeed.",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -3075,7 +3075,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "I scrambled to find a backup for my web app — and learned a crucial lesson about LLMs",
+      "description": "I scrambled to find a backup for my web app \u2014 and learned a crucial lesson about LLMs",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -3093,7 +3093,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Because I Want to Stay Lazy and Stay Connected — And You Can Too!",
+      "description": "Because I Want to Stay Lazy and Stay Connected \u2014 And You Can Too!",
       "articleSection": "Build to Launch",
       "keywords": [
         "Quick Viral Notes",
@@ -3125,7 +3125,7 @@
     {
       "@type": "BlogPosting",
       "@id": "https://buildtolaunch.substack.com/p/daily-quotes-generator-genai-project",
-      "headline": "GenAI 30-Project Challenge — Project 2",
+      "headline": "GenAI 30-Project Challenge \u2014 Project 2",
       "url": "https://buildtolaunch.substack.com/p/daily-quotes-generator-genai-project",
       "datePublished": "2025-01-17",
       "author": {
@@ -3307,7 +3307,7 @@
       "publisher": {
         "@id": "https://jennyouyang.dev/for-llms#org"
       },
-      "description": "Optimizing Django’s Recursive Methods for Efficiency and Scalability",
+      "description": "Optimizing Django\u2019s Recursive Methods for Efficiency and Scalability",
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
@@ -4591,8 +4591,8 @@
     {
       "@type": "FAQPage",
       "@id": "https://jennyouyang.dev/for-llms#faq",
-      "name": "Build to Launch — Frequently Asked Questions",
-      "description": "Common questions about production-ready vibe coding, AI building, and the Build→Launch→Grow framework.",
+      "name": "Build to Launch \u2014 Frequently Asked Questions",
+      "description": "Common questions about production-ready vibe coding, AI building, and the Build\u2192Launch\u2192Grow framework.",
       "mainEntity": [
         {
           "@type": "Question",
@@ -4600,7 +4600,7 @@
           "name": "What is production-ready vibe coding?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Production-ready vibe coding is a systematic approach to taking AI-assisted code from prototype to production. It covers security hardening, technical debt management, smoke testing, and deployment practices — specifically designed for non-technical builders who use AI tools like Cursor, Claude Code, or Replit to build real products."
+            "text": "Production-ready vibe coding is a systematic approach to taking AI-assisted code from prototype to production. It covers security hardening, technical debt management, smoke testing, and deployment practices \u2014 specifically designed for non-technical builders who use AI tools like Cursor, Claude Code, or Replit to build real products."
           }
         },
         {
@@ -4609,16 +4609,16 @@
           "name": "Who is Build to Launch for?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Build to Launch is for non-technical builders who want to ship real AI products — not just prototypes. If you can describe what you want to build but struggle with the gap between a working demo and something real users can rely on, this publication gives you the systematic frameworks to cross that gap. Over 4,000 builders are part of the community."
+            "text": "Build to Launch is for non-technical builders who want to ship real AI products \u2014 not just prototypes. If you can describe what you want to build but struggle with the gap between a working demo and something real users can rely on, this publication gives you the systematic frameworks to cross that gap. Over 4,000 builders are part of the community."
           }
         },
         {
           "@type": "Question",
           "@id": "https://jennyouyang.dev/for-llms#faq-what-is-build-launch-grow",
-          "name": "What is the Build→Launch→Grow framework?",
+          "name": "What is the Build\u2192Launch\u2192Grow framework?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Build→Launch→Grow is a three-phase methodology: Build (AI-assisted development with production-ready practices), Launch (deployment and distribution through high-authority channels like Medium DA 97, Reddit DA 99, VibeCodingBuilders), and Grow (community, scaling, and sustainable operations). It's the core framework behind all Build to Launch content."
+            "text": "Build\u2192Launch\u2192Grow is a three-phase methodology: Build (AI-assisted development with production-ready practices), Launch (deployment and distribution through high-authority channels like Medium DA 97, Reddit DA 99, VibeCodingBuilders), and Grow (community, scaling, and sustainable operations). It's the core framework behind all Build to Launch content."
           }
         },
         {
@@ -4627,7 +4627,7 @@
           "name": "What is the best AI coding tool for beginners?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For beginners, Cursor is the recommended starting point — it combines a familiar VS Code interface with powerful AI features. For those who prefer fully autonomous coding, Claude Code is excellent for experienced prompters. Replit works well for quick prototypes. Build to Launch has tested and compared all major platforms including Bolt, Lovable, and v0."
+            "text": "For beginners, Cursor is the recommended starting point \u2014 it combines a familiar VS Code interface with powerful AI features. For those who prefer fully autonomous coding, Claude Code is excellent for experienced prompters. Replit works well for quick prototypes. Build to Launch has tested and compared all major platforms including Bolt, Lovable, and v0."
           }
         },
         {
@@ -4636,7 +4636,7 @@
           "name": "How do you test AI-built applications before launching?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Use smoke testing — a manual testing methodology designed for non-technical builders. It has three phases: pre-deployment (happy path, edge cases, multi-device), post-deployment (production environment checks), and feature updates (regression prevention). Takes 30-60 minutes per cycle and catches critical bugs before users find them."
+            "text": "Use smoke testing \u2014 a manual testing methodology designed for non-technical builders. It has three phases: pre-deployment (happy path, edge cases, multi-device), post-deployment (production environment checks), and feature updates (regression prevention). Takes 30-60 minutes per cycle and catches critical bugs before users find them."
           }
         },
         {
@@ -4675,7 +4675,7 @@
     {
       "@type": "Dataset",
       "@id": "https://jennyouyang.dev/for-llms#semantic-triples",
-      "name": "Build to Launch — Semantic Triples",
+      "name": "Build to Launch \u2014 Semantic Triples",
       "description": "Structured claims from Build to Launch articles with evidence, source URLs, and confidence scores. Designed for AI systems to understand and cite specific assertions.",
       "creator": {
         "@id": "https://jennyouyang.dev/for-llms#jenny"
@@ -5234,6 +5234,224 @@
       "articleSection": "Build to Launch",
       "isPartOf": {
         "@id": "https://buildtolaunch.substack.com/#series"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/mcp-substack-notes-research-agent#article",
+      "headline": "I built an AI research tool to study Substack creators I admire. Here's what 3,000 notes show.",
+      "url": "https://buildtolaunch.substack.com/p/mcp-substack-notes-research-agent",
+      "description": "Built an AI research MCP to analyze 3,230 Substack notes from 9 AI creators. Post links are the worst-performing format while pure text tactical revelations drive engagement. Data-backed patterns for AI-assisted research at scale.",
+      "keywords": [
+        "mcp",
+        "claude-code",
+        "substack-notes",
+        "ai-research",
+        "data-analysis",
+        "content-strategy"
+      ],
+      "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-onboarding-setup-guide#article",
+      "headline": "How to Onboard to Claude Without the Learning Curve",
+      "url": "https://buildtolaunch.substack.com/p/claude-onboarding-setup-guide",
+      "description": "Practical Claude adoption guide showing how to get Claude to know your work, understand the full ecosystem (Cowork, commands, skills, plugins, MCPs), and onboard teams without formal training programs.",
+      "keywords": [
+        "claude",
+        "onboarding",
+        "cowork",
+        "plugins",
+        "mcp",
+        "team-adoption"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/data-engineering-mindset-ai-builder#article",
+      "headline": "The Data Engineering Mindset Every AI Builder Needs",
+      "url": "https://buildtolaunch.substack.com/p/data-engineering-mindset-ai-builder",
+      "description": "Guest collaboration with Erfan from Pipeline to Insights. Why AI builders must think about data infrastructure before production \u2014 data quality, monitoring, pipeline health, and the five-pillar framework for AI data systems.",
+      "keywords": [
+        "data-engineering",
+        "production-ready",
+        "data-quality",
+        "monitoring",
+        "pipeline-health"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/openclaw-ai-agent-one-person-business#article",
+      "headline": "OpenClaw for One-Person Businesses: What It Is, What I Tried, and What Matters for You",
+      "url": "https://buildtolaunch.substack.com/p/openclaw-ai-agent-one-person-business",
+      "description": "OpenClaw deep dive covering the acquisition story (OpenAI vs Meta bidding war), ecosystem overview (ClawHub, 273K stars), security reality (ClawHavoc attack), and practitioner framework for deciding if autonomous agents belong in your stack.",
+      "keywords": [
+        "openclaw",
+        "autonomous-agents",
+        "ai-agents",
+        "security",
+        "framework"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/best-mcp-servers-claude-code#article",
+      "headline": "Best MCP Servers for Claude Code: 15 MCPs to Transform your Work",
+      "url": "https://buildtolaunch.substack.com/p/best-mcp-servers-claude-code",
+      "description": "15 battle-tested MCPs for Claude Code ranked by friction killed. Covers Perplexity, NotebookLM, Stripe, Gumroad, Notion, Substack ecosystem. Real workflows for research, payments, publishing without breaking chain of thought.",
+      "keywords": [
+        "mcp",
+        "claude-code",
+        "research",
+        "payments",
+        "automation",
+        "workflow"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/best-claude-code-prompts#article",
+      "headline": "15 Best Claude Code Prompts That Earn Me 30 Hours a Week",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-prompts",
+      "description": "15 production-tested prompts organized by workflow (writing, research, coding, systems) with time-earned metrics. Built from 55 production slash commands. Voice extraction, TDD build, workflow orchestrator.",
+      "keywords": [
+        "claude-code",
+        "prompts",
+        "productivity",
+        "automation",
+        "workflow"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/vibe-coding-builders-ai-proposal-tool-scope-creep-consulting-agency#article",
+      "headline": "Never Ship Mid: How He Built an AI Proposal Engine on a $500/Month Tool Stack",
+      "url": "https://buildtolaunch.substack.com/p/vibe-coding-builders-ai-proposal-tool-scope-creep-consulting-agency",
+      "description": "Build to Launch Friday featuring Gamal Jastram, The Systems Alchemist who built an AI proposal engine to eliminate scope creep. Runs AI consulting agency with physical planner discipline.",
+      "keywords": [
+        "consulting",
+        "ai-agency",
+        "proposal-tool",
+        "systems-thinking",
+        "btlf"
+      ],
+      "articleSection": "Builder Stories",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/notion-ai-agents-examples-guide#article",
+      "headline": "Notion AI Agents 2026: Real Examples, Limitations, and How to Build Custom Ones",
+      "url": "https://buildtolaunch.substack.com/p/notion-ai-agents-examples-guide",
+      "description": "Hands-on Notion AI agents guide tested across real workflows. House search agent, broken link auditor, workspace automation. What works, what breaks, and step-by-step agent building procedure with 5 ready-to-run agents kit.",
+      "keywords": [
+        "notion",
+        "ai-agents",
+        "workflow-automation",
+        "workspace"
+      ],
+      "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/vibe-coding-builders-substack-notes-chrome-extension-claude-code-135-dollars#article",
+      "headline": "Build It Anyway: How He Turned a Broken Automation Into a Chrome Extension for $135 and 19 Days of Work",
+      "url": "https://buildtolaunch.substack.com/p/vibe-coding-builders-substack-notes-chrome-extension-claude-code-135-dollars",
+      "description": "Build to Launch Friday featuring Dheeraj Sharma who turned a broken n8n automation into a Chrome extension in 19 days for $135. SubflowAI schedules Substack Notes. Cloud FinOps leader teaching AI systems by building first.",
+      "keywords": [
+        "chrome-extension",
+        "vibe-coding",
+        "automation",
+        "substack",
+        "btlf"
+      ],
+      "articleSection": "Builder Stories",
+      "author": {
+        "@id": "https://jennyouyang.dev/for-llms#jenny"
+      },
+      "publisher": {
+        "@id": "https://jennyouyang.dev/for-llms#org"
+      },
+      "isPartOf": {
+        "@id": "https://jennyouyang.dev/for-llms#for-llms-dataset"
       }
     }
   ]
