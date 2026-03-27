@@ -1,79 +1,41 @@
 # How to Install OpenClaw and Run Your First Autonomous Agent
 
-**Published:** March 25, 2026  
 **URL:** https://buildtolaunch.substack.com/p/openclaw-setup-guide  
-**Engagement:** 34 likes, 0 comments, 5 restacks  
-**Word count:** 3,924  
-**Status:** Paid article
+**Published:** March 25, 2026 | **Track:** AI Agent Systems  
+**Word count:** 3,924 | **Engagement:** 34 likes
 
 ---
 
-*Complete walkthrough for local and cloud installation — plus the cron job that messages you without being asked*
+## Summary
 
-Most OpenClaw setup guides stop when the gateway starts. Getting to an agent that actually does things (runs cron jobs, messages you on Telegram, operates on a schedule) takes four steps most tutorials skip entirely.
+This tutorial closes the gap between "autonomous agent" hype and a working, trusted setup. Jenny Ouyang documents her path from zero to 12 active cron jobs on Oracle ARM — briefings, content research, Substack engagement monitoring, social posts — and shows exactly what most tutorials skip.
 
-This covers all of them: local and Oracle ARM install side by side, identity files that constrain the agent safely, Telegram including the pairing step the wizard doesn't mention, and your first cron job firing without you asking.
+The article covers two parallel install paths (local laptop and Oracle ARM free tier) side by side, so readers can start locally and migrate without retracing steps. A core premise: the tool works, but identity files and proper Telegram pairing are what most setups skip and where most agents fail to become useful.
 
-## What "done" actually looks like
+**The five gaps most tutorials miss:** (1) the gateway starts but cron jobs don't fire without `--announce --channel telegram`; (2) identity files (SOUL.md, AGENTS.md) aren't optional — a blank agent improvises poorly; (3) Telegram pairing requires a manual step the setup wizard doesn't surface; (4) `openclaw cron run` uses UUIDs, not names; (5) the CLI timeout at 30 seconds doesn't mean the job failed — it keeps running in the background.
 
-Most OpenClaw tutorials declare success the moment the gateway starts. That's step one. There are three more.
+The workspace playbook pattern is the core productivity unlock: instead of cramming instructions into cron job messages, create markdown files (e.g., `substack-review.md`) that the agent reads and executes. The cron message stays short; the playbook is where logic lives and can be updated without modifying the job.
 
-The complete loop has four stages:
-
-> Your machine → OpenClaw gateway → Telegram → you
-
-Done means all four are working:
-
-1. **Gateway running** — installed, starts cleanly, `openclaw gateway status` shows `runtime: running` and `RPC probe: ok`
-2. **Identity configured** — SOUL.md, AGENTS.md, and USER.md are filled in with real constraints, not default placeholders
-3. **Telegram connected** — you can message the bot and get a response; the bot can message *you* first
-4. **Cron job firing** — the agent sends you something without you asking
-
-Stage 4 is the whole point. Everything before it is setup. A gateway that starts but has no identity, no Telegram, and no scheduled work is an expensive chatbot.
-
-## The installation paths
-
-Pick your path. Which install method fits your situation, without the sales pitch:
-
-- **Local (Mac/Linux):** ~20 min setup, not always-on, good for testing
-- **Oracle ARM free tier:** ~45 min setup, always-on, best free production option
-- **Generic VPS (Hetzner/Vultr/Linode):** $4-6/mo, always-on, same steps as Oracle
-- **Railway:** ~$5/mo, always-on (may scale to zero on some plans)
-- **Fly.io:** $10-15/mo, always-on, one-command deploy
-- **Render:** ~$7/mo, always-on on paid plan, free tier spins down
-- **DigitalOcean:** UI currently broken, skip for now
-
-**Just want to try it?** Local. You'll have it running in 20 minutes with zero infrastructure decisions.
-
-**Free and permanent?** Oracle ARM — if you can get one. The always-free tier gives you 4 OCPU and 24GB RAM, but ARM capacity is heavily contested. If you land one, it runs 24/7 without a bill.
-
-**Willing to pay?** Railway or Fly.io for the shortest path. Render works well on a paid plan.
-
-## What most tutorials skip
-
-Five production gaps worth knowing that most tutorials skip entirely:
-
-1. **SOUL.md without hard constraints is incomplete.** The docs show you how to define a personality. They don't tell you what happens at 3am when a cron job hits an ambiguous situation with no explicit rules. A SOUL.md without a hard constraints section is incomplete.
-
-2. **The Telegram pairing step isn't in the wizard.** The first time you message your bot after setup, you won't get a response. You'll see a pairing code. Most people assume the bot is broken and restart everything. The fix: run one command.
-
-3. **Asking the agent to "work on this" and closing the chat doesn't work.** Sessions are stateful only while open. Background tasks need cron jobs with an isolated session target.
-
-4. **For cron jobs: use the UUID, not the job name.** `openclaw cron run "substack-notes-review"` won't work. The UUID is what the scheduler uses internally.
-
-5. **Scoped credentials before you give it database access.** Create a read-only or scoped credential specifically for the agent before connecting to real systems.
+Next-steps tiers are clearly scoped: beginners get the gateway running and fill in one SOUL.md hard constraint; intermediate users move to Oracle ARM and set up one genuinely useful cron job; advanced users run dual agents with separate `OPENCLAW_PROFILE` values and Supabase for cross-session persistence.
 
 ---
 
-## Next steps
+## Key Sections
 
-- Get it running locally (20 minutes)
-- Give your agent an identity (SOUL.md, AGENTS.md, USER.md)
-- Connect Telegram
-- Create your first cron job
-
-Templates and step-by-step setup available in the paid section of this article at Build to Launch.
+1. **What "done" actually looks like** — The finish line is an agent that messages you on schedule without being asked. Everything before that is setup.
+2. **Pick your path** — Local install vs Oracle ARM: local is fastest to start, Oracle runs 24/7 without depending on a laptop.
+3. **What most tutorials skip** — Five production gaps: announcement flags, identity files, Telegram pairing step, UUID requirement for cron run, CLI timeout misread as failure.
+4. **Install OpenClaw** — Side-by-side local and Oracle ARM walkthrough.
+5. **Give your agent an identity** — SOUL.md (who the agent is, hard constraints), AGENTS.md (how it operates, what needs approval), USER.md (who it's helping).
+6. **Connect Telegram** — Gateway → bot token → pairing step the wizard doesn't mention → group ID configuration.
+7. **Your first cron job** — The workspace playbook pattern: short cron message pointing to a markdown file. Full command with `--announce --channel telegram --to [CHAT_ID]`.
+8. **FAQ** — Laptop vs server, SOUL.md vs AGENTS.md, job not firing, dual agents with `OPENCLAW_PROFILE`, groups not responding.
 
 ---
 
-*See the full guide at: https://buildtolaunch.substack.com/p/openclaw-setup-guide*
+## Key Frameworks
+
+- **Identity file hierarchy:** SOUL.md (identity + constraints) → AGENTS.md (operating procedures) → USER.md (human context)
+- **Workspace playbook pattern:** cron message = pointer, markdown file = logic. Decouples scheduling from instructions.
+- **Three-tier progression:** Local → Oracle ARM → Multi-agent with Supabase persistence
+- **Production SOUL.md template** (included in article and resources page): persona, hard constraints, memory rules, tool boundaries

@@ -66,6 +66,7 @@ Master vibe coding from first prompt to production.
 - [Systematic Debugging](https://buildtolaunch.substack.com/p/systematic-debugging-and-quick-actions): Debugging methodologies
 
 #### Setup & Fundamentals
+- [What Is Practical AI Building?](https://buildtolaunch.substack.com/p/what-is-practical-ai-building): Defines 'vibe building' as the shift from AI user to builder. Why domain expertise beats tool-hopping and how compounding systems outperform one-off builds.
 - [Getting Started with AI Coding](https://buildtolaunch.substack.com/p/getting-started-with-ai-powered-coding-complete-fundamentals): Complete fundamentals guide
 - [Complete Cursor Setup Guide](https://buildtolaunch.substack.com/p/complete-cursor-setup-guide): Setting up Cursor IDE
 - [Cursor Installation Beginners Guide](https://buildtolaunch.substack.com/p/cursor-installation-beginners-guide): Step-by-step Cursor installation
@@ -102,10 +103,12 @@ Master vibe coding from first prompt to production.
 - [Cost-Effective AI Building Guide](https://buildtolaunch.substack.com/p/cost-effective-ai-building-guide): Building AI apps on a budget
 - [How to Make Vibe Coding Production-Ready](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): The original production-ready guide that started it all
 - [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
+- [I Tested Claude Code Against 7 AI Coding Tools on the Same Website](https://buildtolaunch.substack.com/p/claude-code-ai-tools-audit-deep-dive): 3-stage audit of 8 tools on the same spec — build speed, design, SEO, code quality. CLI tools won; all 8 failed social SEO.
 
 
 #### MCP & Connected Intelligence
 - [Best MCP Servers for Claude Code](https://buildtolaunch.substack.com/p/best-mcp-servers-claude-code): 15 battle-tested MCPs ranked by friction killed - Perplexity, NotebookLM, Stripe, Gumroad, Notion
+- [Stop Installing Every Claude Code Plugin — Here's How to Tell What's Actually Worth It](https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review): 11 plugins tested across real workflows. 4 worth keeping, 5 situational, 2 to skip. Judgment scorecard included.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -157,6 +160,8 @@ Build autonomous agents that research, analyze, and execute independently.
 - [Agentic Flywheels](https://buildtolaunch.substack.com/p/agentic-flywheels-when-ai-products-start-running-and-growing-themselves): Self-reinforcing AI systems
 - [OpenClaw for One-Person Businesses](https://buildtolaunch.substack.com/p/openclaw-ai-agent-one-person-business): Acquisition story, ecosystem overview, security reality, and framework for autonomous agents
 - [4 Levels of AI Automation: When Claude, n8n, and OpenClaw Each Win](https://buildtolaunch.substack.com/p/openclaw-claude-n8n-ai-automation-agent): Decision framework for choosing between chatbox, workflow engine, and agent-based automation
+- [How to Install OpenClaw and Run Your First Autonomous Agent](https://buildtolaunch.substack.com/p/openclaw-setup-guide): Step-by-step local and Oracle ARM setup, identity files, Telegram pairing, and first cron job. Includes production SOUL.md and AGENTS.md templates.
+- [What Happened When I Let OpenClaw Run My Business for Four Weeks](https://buildtolaunch.substack.com/p/openclaw-autonomous-agent-live-demo): Live office hour: 18 cron jobs, MCP integrations, GitHub skills. The agent updated its own strategy without being asked.
 - [AI Survival System Playbook](https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook): Surviving AI disruption
 - [MCP Server for Substack](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author): Building MCP integrations
 
@@ -300,7 +305,7 @@ Author: Jenny Ouyang
 Email: jenny@buildtolaunch.ai  
 Newsletter: https://buildtolaunch.substack.com  
 Community: https://vibecoding.builders  
-Last Updated: March 2026
+Last Updated: March 2026 (27 March 2026)
 
 ---
 

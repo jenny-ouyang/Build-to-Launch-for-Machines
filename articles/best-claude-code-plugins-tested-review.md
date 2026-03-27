@@ -1,101 +1,41 @@
 # Stop Installing Every Claude Code Plugin — Here's How to Tell What's Actually Worth It
 
-**Published:** March 23, 2026  
 **URL:** https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review  
-**Engagement:** 31 likes, 0 comments, 3 restacks  
-**Word count:** 4,976  
-**Status:** Paid article
+**Published:** March 23, 2026 | **Track:** AI Builders Playbook  
+**Word count:** 4,976 | **Engagement:** 31 likes
 
 ---
 
-*I tested 11 plugins, fixed broken marketplace files, and built a judgment framework. This is what I'd keep, skip, and watch.*
+## Summary
 
-Claude Code's plugin marketplace launched quietly. Soon it wasn't quiet anymore.
+When Claude Code's plugin marketplace expanded to 101 official plugins, most builders either ignored it or installed everything and wondered why their sessions felt slow. This article fixes that by testing 11 plugins on real work — Jenny's actual writing system, real positioning questions, and a live feature build — rather than demos.
 
-Developers started running skills on every session. Marketers installed business plugins and expected them to know their business. Builders stacked MCP servers and wondered why things felt slow.
+The core finding is that "working" means different things for different plugin types. Content plugins tested on an actual writing system. Business plugins tested on real positioning questions. Coding plugins tested on a real feature build. Each produced different value in different session types — which is why the article's main output is a judgment scorecard rather than a static ranked list.
 
-## What Claude Code plugins actually are
+Results: 4 plugins worth keeping always (they add value regardless of session context), 5 worth enabling situationally (they slow things down when the context doesn't match), and 2 that weren't worth the friction in any tested scenario. Marketplace files for some plugins were broken on first install — the article documents what broke and how to fix it.
 
-People use "plugin" to mean several different things inside Claude. They do not behave the same way.
+The article begins by clarifying what Claude Code plugins actually are, since most builders conflate skills, hooks, MCP servers, and marketplace entries into a single fuzzy category. These are distinct layers with different scopes, update cycles, and trust implications. Understanding the architecture is what makes the scorecard useful — without it, you're just copying someone else's list.
 
-A Claude Code plugin bundles one or more of these:
-
-- **Skills** — triggered with slash commands (`/brand-voice:enforce-voice`). Runs once, does its job, stops. Cost: per use.
-- **Hooks** — run automatically in the background. They attach to events and fire every time. Cost: every session they're active.
-- **Commands** — the management layer. `/plugin install`, `/plugin disable`. Free. Not the plugin itself.
-- **MCP servers** — external connections to databases, APIs, file systems. Cost: per query.
-
-## The test design
-
-I tested 11 plugins on real work: content, business, coding, and life sciences. For each, three questions:
-
-1. Where does it work?
-2. Where does it break?
-3. Does it earn a place in the stack?
-
-I tested on a real feature build: adding tap-to-build sentence exercises to a kids Chinese learning app.
-
-## Plugins I'd keep
-
-### Brand Voice (Content)
-**What it is:** Discovers your brand materials, generates guidelines, enforces your voice.
-
-**Where it works:** Most creators have brand guidelines scattered across Notion, Google Docs, and random files. This plugin finds all of it and makes it usable. On my content-engine directory, it found 15 brand documents and 34 products I'd never reviewed for consistency.
-
-**Verdict:** KEEP. One-time discovery + guidelines generation pays back on every article after.
-
-### Feature-dev (Coding)
-**What it is:** 7-phase structured feature development. Explores codebase, asks clarifying questions, proposes architecture before implementing code.
-
-**Where it works:** Prevents Claude from jumping to the obvious architecture and proposing what's obvious instead of what's right. The value is changing the shape of the feature before code starts.
-
-On the sentence-exercise feature, two parallel agents explored the system first. The clarifying question that mattered: "Should tiles show only correct options or include decoys?" That one answer eliminated three database tables, migrations, and unnecessary complexity.
-
-**Verdict:** KEEP. Token cost earns back when it prevents building the wrong system first.
-
-### Marketing (Business)
-**What it is:** Six-skill plugin for content marketing: SEO audit, drafting, brand review, competitive research, campaign planning, email sequences.
-
-**Verdict:** KEEP. Enable for content planning sessions. Excellent when combined with Brand Voice.
-
-### Explanatory-output-style (Tutorial writing)
-**What it is:** Always-on hook. Modifies every Claude response with progressive disclosure, layered explanations, and teaching scaffolding.
-
-**Where it works:** For tutorial writing and technical explainers, this produces exactly the structure you want.
-
-**Where it breaks:** It's a hook, not a skill. It runs on *every* response, adding token cost to every exchange, whether structure helps or not.
-
-**Verdict:** CONDITIONAL KEEP. Strong for tutorials. Too much for everything else.
-
-## Plugins to skip
-
-### Sales (Business)
-**What it is:** Ten-skill plugin for sales workflows.
-
-**Where it breaks:** The overlap with Marketing is real. Both plugins claim similar jobs. I ran both on the same competitive-intelligence question. Marketing produced 3 comparable competitors, positioning gaps, and 10+ content opportunities. Sales produced flashy HTML, wrong data, and wrong tier.
-
-**Verdict:** SKIP for content creators. The overlap is too real.
-
-### Productivity (Task Management)
-**What it is:** Task management and daily planning.
-
-**Verdict:** SKIP if you have a working system. Try it if you have nothing.
-
-## The evaluation scorecard
-
-Before installing any plugin:
-
-1. **Workflow fit** — Does this solve a problem I still have?
-2. **Activation style** — Always-on hook, triggerable skill, or data tool?
-3. **Cost shape** — Taxes every session, or only when invoked?
-4. **Output quality** — Better than plain Claude?
-5. **Overlap risk** — Does another plugin cover this already?
-6. **Trust level** — Official, vetted, or found through a directory?
-7. **Failure mode** — If this breaks, what does it cost me?
-8. **Domain fit** — For my workflow, or for someone else's?
+The judgment framework (scorecard) asks: Does this plugin change what Claude Code can do, or just how it presents output? Does it work in the session types you actually run? Does the added capability justify the context overhead? These three questions cut through most plugin noise.
 
 ---
 
-*This is a summary. The full article includes detailed breakdowns of all 11 tested plugins, architecture analysis, and the complete decision framework.*
+## Key Sections
 
-Read the full version at: https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review
+1. **What Claude Code plugins actually are** — Skills vs hooks vs MCP servers vs marketplace entries. Different layers, different trust scopes, different performance implications.
+2. **The 11 plugins tested** — Which categories were covered: content, business/positioning, coding, and utility.
+3. **What changed (and what broke)** — Specific behaviors observed when running plugins on real work. Marketplace file breakage documented with fixes.
+4. **The results: 4 / 5 / 2 breakdown** — Always-on plugins, situational plugins, skip-list plugins.
+5. **The judgment scorecard** — Three-question framework for evaluating any plugin before installing.
+
+---
+
+## Key Frameworks
+
+- **Plugin type hierarchy:** Skills (structured instructions) → Hooks (lifecycle triggers) → MCP servers (external tool connections) → Marketplace entries (packaged combinations)
+- **Three-question scorecard:**
+  1. Does this change what Claude Code *can* do, or just *how* it presents output?
+  2. Does it work in the session types you actually run?
+  3. Does the capability justify the context overhead?
+- **Session-type matching:** The plugin that helps a content session hurts a coding session. Always evaluate against your dominant session type first.
+- **Result tiers:** Always-on (4) → Situational (5) → Skip (2)
