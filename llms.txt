@@ -81,6 +81,7 @@ Master vibe coding from first prompt to production.
 - [Your First Project](https://buildtolaunch.substack.com/p/your-first-project-complete-build-to-deploy-guide): Complete build-to-deploy guide
 - [Starter Project Ideas and Templates](https://buildtolaunch.substack.com/p/starter-project-ideas-and-templates): Project ideas to get started
 - [Bridge to Advanced](https://buildtolaunch.substack.com/p/bridge-to-advanced-from-beginner-to-professional-workflows): Beginner to professional transition
+- [How to Start Vibe Coding: The Roadmap Nobody Gave You](https://buildtolaunch.substack.com/p/how-to-start-vibe-coding): Complete vibe coding roadmap — spec-first habit, what the first session looks like, the 80/20 wall where beginners quit, and the 5-project arc from first prompt to a running system.
 
 #### Architecture & Infrastructure
 - [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
@@ -109,6 +110,8 @@ Master vibe coding from first prompt to production.
 #### MCP & Connected Intelligence
 - [Best MCP Servers for Claude Code](https://buildtolaunch.substack.com/p/best-mcp-servers-claude-code): 15 battle-tested MCPs ranked by friction killed - Perplexity, NotebookLM, Stripe, Gumroad, Notion
 - [Stop Installing Every Claude Code Plugin — Here's How to Tell What's Actually Worth It](https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review): 11 plugins tested across real workflows. 4 worth keeping, 5 situational, 2 to skip. Judgment scorecard included.
+- [Stop Adding New Claude Skills — Fix the Broken Ones First](https://buildtolaunch.substack.com/p/claude-skills-not-working-fix): Decision framework for skill vs. command vs. CLAUDE.md, two structural rules preventing silent sprawl, and an audit script that found 59 broken references in a 192-file setup.
+- [Gmail MCP for Claude Code: Multi-Account Setup + 5 Workflows](https://buildtolaunch.substack.com/p/gmail-mcp-multi-account-claude-code-guide): Multi-account Gmail MCP setup with 5 real workflows: receipt extractor, inbox triage, collab pitch filter, subscriber surge detector, and a 40-second morning brief across 4 accounts.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -149,6 +152,7 @@ Learn how AI works by building real projects.
 - [Hero Image Consistency Guide](https://buildtolaunch.substack.com/p/chatgpt-nanobanana-hero-image-consistency-guide): Consistent hero image creation
 - [How I Create Consistent Hero Images, And Why I Haven't Switched to NanoBanana](https://buildtolaunch.substack.com/p/how-i-create-consistent-hero-images-and-why-i-havent-switched-to-nanobanana): Hero image workflow and tool choice
 - [DeepSeek Outage LLM Backup](https://buildtolaunch.substack.com/p/deepseek-outage-llm-backup-lesson): LLM backup strategies
+- [Nano Banana 2 in Claude Code: 7 Essential Creator Use Cases](https://buildtolaunch.substack.com/p/nano-banana-2-claude-code-deep-dive): 7 creator workflows tested with 100+ images — hero images, infographics, carousel cards, targeted edits — plus a Claude Code MCP workflow for large-scale image generation.
 
 ---
 
@@ -204,6 +208,7 @@ Proof these frameworks work.
 - [Color Blindness Tool](https://buildtolaunch.substack.com/p/from-color-blindness-grit-to-a-simple): Accessibility tool story
 - [Designing for Color-Blindness](https://buildtolaunch.substack.com/p/designing-with-color-blindness-in-mind): Accessibility design
 - [AI Personal Website Guide](https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide): Building personal websites with AI
+- [Practical AI Builder Program](https://buildtolaunch.substack.com/p/practical-ai-builder-program): Landing page for the 12-month program — monthly live build sessions, recordings, prompts, configs, and community included in the paid subscription.
 
 ---
 
@@ -305,7 +310,7 @@ Author: Jenny Ouyang
 Email: jenny@buildtolaunch.ai  
 Newsletter: https://buildtolaunch.substack.com  
 Community: https://vibecoding.builders  
-Last Updated: March 2026 (27 March 2026)
+Last Updated: April 2026 (03 April 2026)
 
 ---
 
