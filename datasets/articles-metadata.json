@@ -2062,6 +2062,20 @@
         "strategy-evolution",
         "agents"
       ]
+    },
+    {
+      "title": "Practical AI Builder Program",
+      "url": "https://buildtolaunch.substack.com/p/practical-ai-builder-program",
+      "description": "A 12-month program for people who already use AI and want to build real things with it.",
+      "articleSection": "Programs & Education",
+      "keywords": ["practical-ai-building", "ai-builder-program", "vibe-building"]
+    },
+    {
+      "title": "How to Start Vibe Coding: The Roadmap Nobody Gave You",
+      "url": "https://buildtolaunch.substack.com/p/how-to-start-vibe-coding",
+      "description": "The missing vibe coding roadmap: spec-first habit, the 80/20 wall, and a 5-project arc from zero to shipped system.",
+      "articleSection": "Vibe Coding Guides",
+      "keywords": ["vibe-coding", "claude-code", "ai-builders", "project-progression"]
     }
   ]
 }
