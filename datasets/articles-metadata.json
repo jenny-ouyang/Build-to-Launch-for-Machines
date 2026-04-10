@@ -1,10 +1,43 @@
 {
-  "generated": "2026-03-27",
+  "generated": "2026-04-10",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 175,
+  "total_articles": 177,
   "articles": [
+    {
+      "title": "Claude Dispatch: The 80% the Demos Don't Show",
+      "url": "https://buildtolaunch.substack.com/p/claude-dispatch-use-case-breakdown-demos-vs-reality",
+      "description": "18 tasks tested across all 5 Claude remote modes: Dispatch, Scheduled Tasks, Computer Use, Chrome, code triggers. Exact prompts, real times, honest verdicts.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude-dispatch",
+        "ai-automation",
+        "remote-control",
+        "computer-use",
+        "scheduled-tasks",
+        "claude-chrome",
+        "mcp",
+        "workflow-automation"
+      ]
+    },
+    {
+      "title": "Perplexity + Claude in Chrome: How I Built a Competitor Research Workflow in 2 Hours",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-chrome-perplexity-mcp-ai-research-agent-workflow",
+      "description": "The AI setup that scans 177 products across 5 platforms and surfaces what your own product is still missing.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "perplexity-mcp",
+        "claude-chrome",
+        "competitor-research",
+        "ai-research",
+        "market-analysis",
+        "product-validation",
+        "gumroad",
+        "app-store",
+        "amazon-kdp"
+      ]
+    },
     {
       "title": "4 Levels of AI Automation: When Claude, n8n, and OpenClaw Each Win",
       "url": "https://buildtolaunch.substack.com/p/openclaw-claude-n8n-ai-automation-agent",
@@ -49,7 +82,7 @@
       ]
     },
     {
-      "title": "I Didn’t Expect This Prompt to Go Viral. Here’s What It Taught Me.",
+      "title": "I Didn\u2019t Expect This Prompt to Go Viral. Here\u2019s What It Taught Me.",
       "url": "https://buildtolaunch.substack.com/p/viral-prompt-lessons-story",
       "description": "Story about a viral AI prompt that taught unexpected lessons about prompt engineering, distribution, and what makes content resonate with AI builder audiences.",
       "articleSection": "Build to Launch",
@@ -75,7 +108,7 @@
       ]
     },
     {
-      "title": "Call for AI Builders: Let’s Get More Eyes on Your Work",
+      "title": "Call for AI Builders: Let\u2019s Get More Eyes on Your Work",
       "url": "https://buildtolaunch.substack.com/p/collaborate-with-build-to-launch",
       "description": "Call for AI builders to collaborate with Build to Launch and get featured in the newsletter, Vibe Coding Builders directory, and Friday spotlight series.",
       "articleSection": "Build to Launch",
@@ -101,7 +134,7 @@
       ]
     },
     {
-      "title": "AI Won’t Help You Build a Business. Here’s Why.",
+      "title": "AI Won\u2019t Help You Build a Business. Here\u2019s Why.",
       "url": "https://buildtolaunch.substack.com/p/ai-business-reality-check-guest-post",
       "description": "Guest post examining the harsh reality that AI tools alone won't build your business and why builder discipline, validation, and execution still matter more than tooling.",
       "articleSection": "Build to Launch",
@@ -128,7 +161,7 @@
       ]
     },
     {
-      "title": "He Grew to 14M+ Views, Here’s the Creator Character System Behind It",
+      "title": "He Grew to 14M+ Views, Here\u2019s the Creator Character System Behind It",
       "url": "https://buildtolaunch.substack.com/p/he-grew-to-14m-views-heres-the-creator-character-system-behind-it",
       "description": "Build to Launch Friday about a creator who grew to 14M+ views using a systematic creator character system for content production and audience building.",
       "articleSection": "Build to Launch",
@@ -167,7 +200,7 @@
       ]
     },
     {
-      "title": "Announcing 3-Day AI Workshop Series: Adopt → Advance → Build",
+      "title": "Announcing 3-Day AI Workshop Series: Adopt \u2192 Advance \u2192 Build",
       "url": "https://buildtolaunch.substack.com/p/ai-workshop-adopt-advance-build",
       "description": "Announcement for Jenny's 3-day AI workshop series covering Adopt (daily AI workflows), Advance (AI-powered systems), and Build (shipping AI products).",
       "articleSection": "Build to Launch",
@@ -220,7 +253,7 @@
     {
       "title": "FAQ",
       "url": "https://buildtolaunch.substack.com/p/faq",
-      "description": "Nothing interesting here, you are invited to look elsewhere…",
+      "description": "Nothing interesting here, you are invited to look elsewhere\u2026",
       "articleSection": "Build to Launch",
       "keywords": [
         "faq",
@@ -305,7 +338,7 @@
       ]
     },
     {
-      "title": "Cha-ching: How He Analyzed 1.3M Notes and Built the Tool Creators Can’t Stop Using",
+      "title": "Cha-ching: How He Analyzed 1.3M Notes and Built the Tool Creators Can\u2019t Stop Using",
       "url": "https://buildtolaunch.substack.com/p/cha-ching-how-he-analyzed-13m-notes-and-built-the-tool-creators-cant-stop-using",
       "description": "Build to Launch Friday: Meet Finn, who built Substack's most popular productivity tools working just 4 hours per week. Learn how he turned creator pain points into $10K+ revenue using AI collaboration and effortless execution.",
       "articleSection": "Build to Launch",
@@ -318,7 +351,7 @@
       ]
     },
     {
-      "title": "Adapt or Die: How He Saw Film’s Collapse and Vibe-Built His New Way Out",
+      "title": "Adapt or Die: How He Saw Film\u2019s Collapse and Vibe-Built His New Way Out",
       "url": "https://buildtolaunch.substack.com/p/adapt-or-die-how-he-saw-films-collapse-and-vibe-built-his-new-way-out",
       "description": "Build to Launch Friday: Meet Kenny, a 13-year film pro who built his own creator platform when his subscription stopped listening",
       "articleSection": "Build to Launch",
@@ -331,7 +364,7 @@
       ]
     },
     {
-      "title": "🌈 Why Subscribe",
+      "title": "\ud83c\udf08 Why Subscribe",
       "url": "https://buildtolaunch.substack.com/p/why-subscribe",
       "description": "We're living in the most exciting time for creators.",
       "articleSection": "Build to Launch",
@@ -342,7 +375,7 @@
       ]
     },
     {
-      "title": "🎯 Products and Writers",
+      "title": "\ud83c\udfaf Products and Writers",
       "url": "https://buildtolaunch.substack.com/p/free-resources",
       "description": "Tools and creators I actually use and love",
       "articleSection": "Build to Launch",
@@ -353,9 +386,9 @@
       ]
     },
     {
-      "title": "🌻 Start Here",
+      "title": "\ud83c\udf3b Start Here",
       "url": "https://buildtolaunch.substack.com/p/start-here",
-      "description": "Welcome to Build to Launch 👋",
+      "description": "Welcome to Build to Launch \ud83d\udc4b",
       "articleSection": "Build to Launch",
       "keywords": [
         "getting-started",
@@ -376,7 +409,7 @@
       ]
     },
     {
-      "title": "🔐 Premium Resources",
+      "title": "\ud83d\udd10 Premium Resources",
       "url": "https://buildtolaunch.substack.com/p/complete-ai-builder-resources",
       "description": "Last updated: 2025/09/28",
       "articleSection": "Build to Launch",
@@ -387,7 +420,7 @@
       ]
     },
     {
-      "title": "AI Can Build Your Personal Website Within Minutes—Then What?",
+      "title": "AI Can Build Your Personal Website Within Minutes\u2014Then What?",
       "url": "https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide",
       "description": "How to go from AI scaffolding to a personal site that actually reflects you.",
       "articleSection": "Build to Launch",
@@ -411,7 +444,7 @@
       ]
     },
     {
-      "title": "Don’t Let AI Fool Your Vision: The 6-Step Guide To Creating An AI Policy",
+      "title": "Don\u2019t Let AI Fool Your Vision: The 6-Step Guide To Creating An AI Policy",
       "url": "https://buildtolaunch.substack.com/p/dont-let-ai-fool-your-vision-the-6-step-guide-to-creating-an-ai-policy",
       "description": "Build guardrails before you scale, protect your mission from the hidden risks of AI.",
       "articleSection": "Build to Launch",
@@ -421,7 +454,7 @@
       ]
     },
     {
-      "title": "AI Won’t Replace You: How to Build a Workflow That 10× Your Productivity",
+      "title": "AI Won\u2019t Replace You: How to Build a Workflow That 10\u00d7 Your Productivity",
       "url": "https://buildtolaunch.substack.com/p/ai-productivity-10x-workflow",
       "description": "Spot and Master the 4 Hidden Traps That Sabotage Most AI Users",
       "articleSection": "Build to Launch",
@@ -457,7 +490,7 @@
     {
       "title": "How to Earn $30K/month Hustling Online",
       "url": "https://buildtolaunch.substack.com/p/how-to-earn-30k-month-hustling-online",
-      "description": "What the newest ChatGPT just revealed — and why it freaked me out (in a good way)",
+      "description": "What the newest ChatGPT just revealed \u2014 and why it freaked me out (in a good way)",
       "articleSection": "Build to Launch",
       "keywords": [
         "online-income",
@@ -469,7 +502,7 @@
     {
       "title": "From Color Blindness Grit to a Simple Tool for Change",
       "url": "https://buildtolaunch.substack.com/p/from-color-blindness-grit-to-a-simple",
-      "description": "GenAI 30 Project Challenge — 7",
+      "description": "GenAI 30 Project Challenge \u2014 7",
       "articleSection": "Build to Launch",
       "keywords": [
         "genai-challenge",
@@ -481,7 +514,7 @@
     {
       "title": "Designing with Color-Blindness in Mind",
       "url": "https://buildtolaunch.substack.com/p/designing-with-color-blindness-in-mind",
-      "description": "Small learning series — powered by ChatGPT",
+      "description": "Small learning series \u2014 powered by ChatGPT",
       "articleSection": "Build to Launch",
       "keywords": [
         "accessibility",
@@ -507,7 +540,7 @@
     {
       "title": "How I Outsourced My Google Research to AI (And You Can Too)",
       "url": "https://buildtolaunch.substack.com/p/ai-research-automation-workflow",
-      "description": "Tired of endless Googling, tabs, and copy-pasting? Here’s how I built an AI workflow that handles the boring stuff (and even makes the spreadsheet).",
+      "description": "Tired of endless Googling, tabs, and copy-pasting? Here\u2019s how I built an AI workflow that handles the boring stuff (and even makes the spreadsheet).",
       "articleSection": "Build to Launch",
       "keywords": [
         "research-automation",
@@ -531,7 +564,7 @@
     {
       "title": "The Sentiment That Will Make You Rethink Everything",
       "url": "https://buildtolaunch.substack.com/p/the-sentiment-that-will-make-you-rethink-everything",
-      "description": "Sentiment Analyzer that looks into Trump, Elon, interest rates and more",
+      "description": "Sentiment Analyzer that looks into Trump, Elon, interest rates and\u00a0more",
       "articleSection": "Build to Launch",
       "keywords": [
         "sentiment-analysis",
@@ -553,7 +586,7 @@
     {
       "title": "The Hidden Struggles of Choosing the Right Building Stack",
       "url": "https://buildtolaunch.substack.com/p/the-hidden-struggles-of-choosing",
-      "description": "I stumbled through these frameworks and deployment methods so you don’t have to",
+      "description": "I stumbled through these frameworks and deployment methods so you don\u2019t have to",
       "articleSection": "Build to Launch",
       "keywords": [
         "tech-stack",
@@ -586,9 +619,9 @@
       ]
     },
     {
-      "title": "I Analyzed My Substack Niche—Here’s Where I Stand (And How You Compare!)",
+      "title": "I Analyzed My Substack Niche\u2014Here\u2019s Where I Stand (And How You Compare!)",
       "url": "https://buildtolaunch.substack.com/p/i-analyzed-my-substack-nicheheres",
-      "description": "I worked with my AI agent to crunch the numbers on 1,200 Substack newsletters—here’s what I discovered about growth, engagement, and what it takes to succeed.",
+      "description": "I worked with my AI agent to crunch the numbers on 1,200 Substack newsletters\u2014here\u2019s what I discovered about growth, engagement, and what it takes to succeed.",
       "articleSection": "Build to Launch",
       "keywords": [
         "niche-analysis",
@@ -600,7 +633,7 @@
     {
       "title": "The Breakdown Of DeepSeek Was An Unusual Nightmare",
       "url": "https://buildtolaunch.substack.com/p/deepseek-outage-llm-backup-lesson",
-      "description": "I scrambled to find a backup for my web app — and learned a crucial lesson about LLMs",
+      "description": "I scrambled to find a backup for my web app \u2014 and learned a crucial lesson about LLMs",
       "articleSection": "Build to Launch",
       "keywords": [
         "deepseek",
@@ -610,7 +643,7 @@
       ]
     },
     {
-      "title": "GenAI 30-Project Challenge — Project 2",
+      "title": "GenAI 30-Project Challenge \u2014 Project 2",
       "url": "https://buildtolaunch.substack.com/p/daily-quotes-generator-genai-project",
       "description": "Daily Inspirational Quotes Generator",
       "articleSection": "Build to Launch",
@@ -669,7 +702,7 @@
     {
       "title": "Do You Need To Handle Recursive Computations?",
       "url": "https://buildtolaunch.substack.com/p/do-you-need-to-handle-recursive-computations",
-      "description": "Optimizing Django’s Recursive Methods for Efficiency and Scalability",
+      "description": "Optimizing Django\u2019s Recursive Methods for Efficiency and Scalability",
       "articleSection": "Build to Launch",
       "keywords": [
         "django",
@@ -1765,7 +1798,7 @@
     {
       "title": "Mcp Second Brain Connected Intelligence Guide",
       "url": "https://buildtolaunch.substack.com/p/mcp-second-brain-connected-intelligence-guide",
-      "description": "Complete MCP (Model Context Protocol) guide covering the three-level transformation from isolated AI chat to connected intelligence: basic tool connections, custom MCP servers for 30-min → 3-min research, and enterprise knowledge systems.",
+      "description": "Complete MCP (Model Context Protocol) guide covering the three-level transformation from isolated AI chat to connected intelligence: basic tool connections, custom MCP servers for 30-min \u2192 3-min research, and enterprise knowledge systems.",
       "articleSection": "Build to Launch",
       "keywords": [
         "mcp",
@@ -1900,7 +1933,7 @@
     {
       "title": "The Data Engineering Mindset Every AI Builder Needs",
       "url": "https://buildtolaunch.substack.com/p/data-engineering-mindset-ai-builder",
-      "description": "Guest collaboration with Erfan from Pipeline to Insights. Why AI builders must think about data infrastructure before production — data quality, monitoring, pipeline health, and the five-pillar framework for AI data systems.",
+      "description": "Guest collaboration with Erfan from Pipeline to Insights. Why AI builders must think about data infrastructure before production \u2014 data quality, monitoring, pipeline health, and the five-pillar framework for AI data systems.",
       "articleSection": "AI Builders Playbook",
       "keywords": [
         "data-engineering",
@@ -1991,7 +2024,7 @@
     {
       "title": "What Is Practical AI Building?",
       "url": "https://buildtolaunch.substack.com/p/what-is-practical-ai-building",
-      "description": "Defines 'vibe building' as the shift from AI user to builder — encountering friction and instinctively asking what AI can remove. Explains why domain expertise beats tool-hopping, and how compounding systems outperform one-off builds.",
+      "description": "Defines 'vibe building' as the shift from AI user to builder \u2014 encountering friction and instinctively asking what AI can remove. Explains why domain expertise beats tool-hopping, and how compounding systems outperform one-off builds.",
       "articleSection": "AI Builders Playbook",
       "keywords": [
         "practical-ai-building",
@@ -2005,7 +2038,7 @@
     {
       "title": "How to Install OpenClaw and Run Your First Autonomous Agent",
       "url": "https://buildtolaunch.substack.com/p/openclaw-setup-guide",
-      "description": "Step-by-step OpenClaw setup for local and Oracle ARM, covering identity files (SOUL.md, AGENTS.md), Telegram pairing, and first cron job — with production templates from Jenny's 12-job live setup.",
+      "description": "Step-by-step OpenClaw setup for local and Oracle ARM, covering identity files (SOUL.md, AGENTS.md), Telegram pairing, and first cron job \u2014 with production templates from Jenny's 12-job live setup.",
       "articleSection": "AI Agent Systems",
       "keywords": [
         "openclaw",
@@ -2018,7 +2051,7 @@
       ]
     },
     {
-      "title": "Stop Installing Every Claude Code Plugin — Here's How to Tell What's Actually Worth It",
+      "title": "Stop Installing Every Claude Code Plugin \u2014 Here's How to Tell What's Actually Worth It",
       "url": "https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review",
       "description": "Hands-on test of 11 Claude Code plugins across real workflows: 4 worth keeping always, 5 worth situational use, 2 to skip. Includes a judgment scorecard for evaluating any plugin before it earns a place in your stack.",
       "articleSection": "AI Builders Playbook",
@@ -2033,7 +2066,7 @@
       ]
     },
     {
-      "title": "I Tested Claude Code Against 7 AI Coding Tools on the Same Website — The Deep Audit Changed the Rankings",
+      "title": "I Tested Claude Code Against 7 AI Coding Tools on the Same Website \u2014 The Deep Audit Changed the Rankings",
       "url": "https://buildtolaunch.substack.com/p/claude-code-ai-tools-audit-deep-dive",
       "description": "3-stage audit of 8 AI coding tools (Claude Code, Cursor, v0, Lovable, Bolt, Replit, Firebase, Gemini CLI) on the same 12-section website spec. CLI tools claimed the top two spots. One platform crashed on load; all 8 failed social SEO metadata.",
       "articleSection": "AI Builders Playbook",
@@ -2066,7 +2099,7 @@
     {
       "title": "Practical AI Builder Program",
       "url": "https://buildtolaunch.substack.com/p/practical-ai-builder-program",
-      "description": "Landing page for the 12-month Practical AI Builder Program — monthly live build sessions, recordings, prompts, configs, and community, all included in the paid Build to Launch subscription.",
+      "description": "Landing page for the 12-month Practical AI Builder Program \u2014 monthly live build sessions, recordings, prompts, configs, and community, all included in the paid Build to Launch subscription.",
       "articleSection": "Products Built and Shipped",
       "keywords": [
         "practical-ai-builder",
@@ -2079,7 +2112,7 @@
       ]
     },
     {
-      "title": "Stop Adding New Claude Skills — Fix the Broken Ones First",
+      "title": "Stop Adding New Claude Skills \u2014 Fix the Broken Ones First",
       "url": "https://buildtolaunch.substack.com/p/claude-skills-not-working-fix",
       "description": "Architecture guide for Claude Code skills: decision framework for skill vs. command vs. CLAUDE.md, two structural rules that prevent silent skill sprawl, and an audit script that found 59 broken references in a 192-file setup.",
       "articleSection": "AI Builders Playbook",
@@ -2113,7 +2146,7 @@
     {
       "title": "Nano Banana 2 in Claude Code: 7 Essential Creator Use Cases",
       "url": "https://buildtolaunch.substack.com/p/nano-banana-2-claude-code-deep-dive",
-      "description": "Hands-on test of Nano Banana 2 (Google Gemini image model) across 7 creator workflows — hero images, infographics, surface-led text, carousel cards, targeted edits, multi-image assembly — with 100+ generated images and a Claude Code MCP workflow.",
+      "description": "Hands-on test of Nano Banana 2 (Google Gemini image model) across 7 creator workflows \u2014 hero images, infographics, surface-led text, carousel cards, targeted edits, multi-image assembly \u2014 with 100+ generated images and a Claude Code MCP workflow.",
       "articleSection": "Hands-on AI Technology",
       "keywords": [
         "nano-banana-2",
@@ -2128,7 +2161,7 @@
     {
       "title": "Gmail MCP for Claude Code: Multi-Account Setup + 5 Workflows",
       "url": "https://buildtolaunch.substack.com/p/gmail-mcp-multi-account-claude-code-guide",
-      "description": "Multi-account Gmail MCP setup for Claude Code: one Google Cloud project, named connections, and 5 real workflows — receipt extractor, inbox triage, collab pitch filter, subscriber surge detector, and a 40-second morning brief across 4 accounts.",
+      "description": "Multi-account Gmail MCP setup for Claude Code: one Google Cloud project, named connections, and 5 real workflows \u2014 receipt extractor, inbox triage, collab pitch filter, subscriber surge detector, and a 40-second morning brief across 4 accounts.",
       "articleSection": "AI Builders Playbook",
       "keywords": [
         "gmail-mcp",
