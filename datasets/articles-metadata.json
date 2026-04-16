@@ -3,7 +3,7 @@
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 177,
+  "total_articles": 182,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2171,6 +2171,85 @@
         "morning-brief",
         "inbox-triage",
         "mcp"
+      ]
+    },
+    {
+      "title": "Every Way to Build an MCP Server (From the Ones I Actually Shipped)",
+      "url": "https://buildtolaunch.substack.com/p/how-to-build-mcp-server-complete-guide",
+      "description": "Everyway to build MCP servers \u2014 local, npm, .mcpb, HTTP, and OAuth. Verified step-by-step builds, real gotchas, and live examples from 6 shipped MCPs.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "mcp-server",
+        "mcp-patterns",
+        "http-mcp",
+        "oauth-mcp",
+        "local-mcp",
+        "npm-mcp",
+        "tutorial",
+        "claude-code"
+      ]
+    },
+    {
+      "title": "I got a $1,600 Claude Code bill. Here's the system I built to stop it.",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-token-optimization",
+      "description": "Claude Code token optimization: 19 changes across setup and session habits. Context-mode, /effort, model matching, and Claude Desktop tips included.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-code",
+        "token-optimization",
+        "cost-control",
+        "context-mode",
+        "model-matching",
+        "setup",
+        "session-habits"
+      ]
+    },
+    {
+      "title": "The Custom MCPs Included in Your Build to Launch Subscription",
+      "url": "https://buildtolaunch.substack.com/p/custom-mcps-claude-code-cursor",
+      "description": "The custom MCPs behind my research, Substack, Gmail, and distribution workflows in Claude Code and Cursor, including the tools available to Build to Launch paid members.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "custom-mcp",
+        "claude-code",
+        "cursor",
+        "substack-mcp",
+        "gmail-mcp",
+        "research-mcp",
+        "distribution-workflow",
+        "paid-members"
+      ]
+    },
+    {
+      "title": "How to Do Research With AI Effectively: 3 Questions Walked Through Live",
+      "url": "https://buildtolaunch.substack.com/p/how-to-do-research-with-ai",
+      "description": "The first Practical AI Builder cohort: 3 research types, a 5-stage AI research process, live demos, and how Perplexity MCP and Build to Launch MCP work together.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "ai-research",
+        "research-framework",
+        "perplexity-mcp",
+        "practical-ai-builder",
+        "cohort",
+        "live-demo",
+        "research-process"
+      ]
+    },
+    {
+      "title": "How to Install Any MCP Server in Claude: The Complete Setup Guide",
+      "url": "https://buildtolaunch.substack.com/p/mcp-server-types-installation-guide-claude-cursor",
+      "description": "How to install MCP servers in Claude Desktop, Claude Code, and Cursor. Covers the three MCP types (stdio, HTTP, OAuth), exact config file locations, JSON format explained, and fixes for common connection errors.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "mcp",
+        "installation",
+        "claude-desktop",
+        "claude-code",
+        "cursor",
+        "stdio",
+        "http",
+        "oauth",
+        "setup-guide"
       ]
     }
   ]

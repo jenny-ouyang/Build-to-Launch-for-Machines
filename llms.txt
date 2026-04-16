@@ -105,6 +105,7 @@ Master vibe coding from first prompt to production.
 - [How to Make Vibe Coding Production-Ready](https://buildtolaunch.substack.com/p/vibe-coding-production-ready-guide): The original production-ready guide that started it all
 - [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
 - [I Tested Claude Code Against 7 AI Coding Tools on the Same Website](https://buildtolaunch.substack.com/p/claude-code-ai-tools-audit-deep-dive): 3-stage audit of 8 tools on the same spec — build speed, design, SEO, code quality. CLI tools won; all 8 failed social SEO.
+- [I got a $1,600 Claude Code bill. Here's the system I built to stop it.](https://buildtolaunch.substack.com/p/claude-code-token-optimization): Claude Code token optimization: 19 changes across setup and session habits. Context-mode, /effort, model matching, and Claude Desktop tips included.
 
 
 #### MCP & Connected Intelligence
@@ -112,6 +113,8 @@ Master vibe coding from first prompt to production.
 - [Stop Installing Every Claude Code Plugin — Here's How to Tell What's Actually Worth It](https://buildtolaunch.substack.com/p/best-claude-code-plugins-tested-review): 11 plugins tested across real workflows. 4 worth keeping, 5 situational, 2 to skip. Judgment scorecard included.
 - [Stop Adding New Claude Skills — Fix the Broken Ones First](https://buildtolaunch.substack.com/p/claude-skills-not-working-fix): Decision framework for skill vs. command vs. CLAUDE.md, two structural rules preventing silent sprawl, and an audit script that found 59 broken references in a 192-file setup.
 - [Gmail MCP for Claude Code: Multi-Account Setup + 5 Workflows](https://buildtolaunch.substack.com/p/gmail-mcp-multi-account-claude-code-guide): Multi-account Gmail MCP setup with 5 real workflows: receipt extractor, inbox triage, collab pitch filter, subscriber surge detector, and a 40-second morning brief across 4 accounts.
+- [How to Install Any MCP Server in Claude: The Complete Setup Guide](https://buildtolaunch.substack.com/p/mcp-server-types-installation-guide-claude-cursor): Install MCP servers in Claude Desktop, Claude Code, and Cursor. Covers stdio, HTTP, and OAuth types, exact config file locations, and fixes for common connection errors.
+- [The Custom MCPs Included in Your Build to Launch Subscription](https://buildtolaunch.substack.com/p/custom-mcps-claude-code-cursor): The custom MCPs behind research, Substack, Gmail, and distribution workflows in Claude Code and Cursor, including tools available to paid members.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -135,6 +138,7 @@ Learn how AI works by building real projects.
 - [AI Management Partner Insights](https://buildtolaunch.substack.com/p/ai-management-partner-insights): Managing AI as a partner
 - [Notion AI Agents 2026: Real Examples and How to Build](https://buildtolaunch.substack.com/p/notion-ai-agents-examples-guide): House search agent, broken link auditor, workspace automation with step-by-step guide
 - [Voice-First AI System Guide](https://buildtolaunch.substack.com/p/voice-first-ai-system-guide): Building voice-first AI systems
+- [How to Do Research With AI Effectively: 3 Questions Walked Through Live](https://buildtolaunch.substack.com/p/how-to-do-research-with-ai): 3 research types, a 5-stage AI research process, live demos, and how Perplexity MCP and Build to Launch MCP work together.
 
 #### AI Learning Path
 - [AI Learning Roadmap (No CS Degree)](https://buildtolaunch.substack.com/p/ai-learning-roadmap-no-cs-degree): Learning AI without CS background
@@ -168,6 +172,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [What Happened When I Let OpenClaw Run My Business for Four Weeks](https://buildtolaunch.substack.com/p/openclaw-autonomous-agent-live-demo): Live office hour: 18 cron jobs, MCP integrations, GitHub skills. The agent updated its own strategy without being asked.
 - [AI Survival System Playbook](https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook): Surviving AI disruption
 - [MCP Server for Substack](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author): Building MCP integrations
+- [Every Way to Build an MCP Server (From the Ones I Actually Shipped)](https://buildtolaunch.substack.com/p/how-to-build-mcp-server-complete-guide): Every MCP pattern — local, npm, HTTP, and OAuth. Step-by-step builds with real gotchas from 6 shipped MCPs.
 
 ---
 
