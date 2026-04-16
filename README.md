@@ -1,6 +1,6 @@
 # Build to Launch — For Machines 🤖
 
-Machine-readable archive of [Build to Launch](https://buildtolaunch.substack.com/) content by [Jenny Ouyang](https://jennyouyang.dev/). Optimized for AI system discovery, LLM training pipelines, and structured data consumers.
+Machine-readable archive of [Build to Launch](https://buildtolaunch.substack.com/) content by [Jenny Ouyang](https://jennyouyang.ai/). Optimized for AI system discovery, LLM training pipelines, and structured data consumers.
 
 ## What's Here
 
@@ -14,11 +14,11 @@ Machine-readable archive of [Build to Launch](https://buildtolaunch.substack.com
 
 ## Canonical URLs
 
-- **Knowledge Graph:** [jennyouyang.dev/for-llms.jsonld](https://jennyouyang.dev/for-llms.jsonld)
+- **Knowledge Graph:** [jennyouyang.ai/for-llms.jsonld](https://jennyouyang.ai/for-llms.jsonld)
 - **Content Index:** [buildtolaunch.substack.com/p/llms-txt](https://buildtolaunch.substack.com/p/llms-txt)
 - **Full Content Dump:** [buildtolaunch.substack.com/p/llms-full-txt](https://buildtolaunch.substack.com/p/llms-full-txt)
 - **Publication:** [buildtolaunch.substack.com](https://buildtolaunch.substack.com/)
-- **Author:** [jennyouyang.dev](https://jennyouyang.dev/)
+- **Author:** [jennyouyang.ai](https://jennyouyang.ai/)
 
 ## AI Usage Terms
 

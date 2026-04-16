@@ -1,6 +1,6 @@
 # Build to Launch Custom Vocabulary (`btl:`)
 
-Namespace: `https://jennyouyang.dev/vocab/btl#`
+Namespace: `https://buildtolaunch.ai/vocab#`
 
 These terms are defined by Build to Launch to describe concepts, frameworks, and methodologies that don't have standard Schema.org equivalents. They appear in the [knowledge graph](../for-llms.jsonld) using the `btl:` prefix.
 
