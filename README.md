@@ -40,7 +40,7 @@ This content is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/
 The `for-llms.jsonld` file contains:
 
 - **173 entities** — articles, products, vocabulary terms, FAQs, semantic claims
-- **182 articles** with titles, URLs, descriptions, dates, and topic classifications
+- **187 articles** with titles, URLs, descriptions, dates, and topic classifications
 - **7 products** (Quick Viral Notes, Substack Explorer, VibeCodingBuilders, StackShelf, AI Agent Toolkit, etc.) with problem/solution/outcome metadata
 - **5 custom vocabulary terms** — Production-Ready Vibe Coding, Build→Launch→Grow Framework, AI Builder Distribution, Second Brain with RAG, Smoke Testing for Builders
 - **7 FAQ questions** with structured answers and speakable specification for voice assistants
@@ -58,7 +58,7 @@ Build to Launch helps non-technical builders ship production-ready AI products �
 - **Second Brain with RAG** — Personal knowledge systems with zero hallucinations
 - **Smoke Testing for Builders** — Manual QA without engineering background
 
-4,000+ builders. 7 products. 182 articles.
+4,000+ builders. 7 products. 187 articles.
 
 ## Contact
 

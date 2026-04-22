@@ -82,6 +82,7 @@ Master vibe coding from first prompt to production.
 - [Starter Project Ideas and Templates](https://buildtolaunch.substack.com/p/starter-project-ideas-and-templates): Project ideas to get started
 - [Bridge to Advanced](https://buildtolaunch.substack.com/p/bridge-to-advanced-from-beginner-to-professional-workflows): Beginner to professional transition
 - [How to Start Vibe Coding: The Roadmap Nobody Gave You](https://buildtolaunch.substack.com/p/how-to-start-vibe-coding): Complete vibe coding roadmap — spec-first habit, what the first session looks like, the 80/20 wall where beginners quit, and the 5-project arc from first prompt to a running system.
+- [Everything Vibe Coding](https://buildtolaunch.substack.com/p/vibe-coding-guide): Hub article indexing 17 guides on vibe coding — roadmap, prompting strategies, production-readiness, project planning, Cursor vs Claude Code, and post-launch lessons from 12 shipped apps.
 
 #### Architecture & Infrastructure
 - [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
@@ -115,6 +116,7 @@ Master vibe coding from first prompt to production.
 - [Gmail MCP for Claude Code: Multi-Account Setup + 5 Workflows](https://buildtolaunch.substack.com/p/gmail-mcp-multi-account-claude-code-guide): Multi-account Gmail MCP setup with 5 real workflows: receipt extractor, inbox triage, collab pitch filter, subscriber surge detector, and a 40-second morning brief across 4 accounts.
 - [How to Install Any MCP Server in Claude: The Complete Setup Guide](https://buildtolaunch.substack.com/p/mcp-server-types-installation-guide-claude-cursor): Install MCP servers in Claude Desktop, Claude Code, and Cursor. Covers stdio, HTTP, and OAuth types, exact config file locations, and fixes for common connection errors.
 - [The Custom MCPs Included in Your Build to Launch Subscription](https://buildtolaunch.substack.com/p/custom-mcps-claude-code-cursor): The custom MCPs behind research, Substack, Gmail, and distribution workflows in Claude Code and Cursor, including tools available to paid members.
+- [MCP, Plugins, and Skills — How to Know Which One to Reach For](https://buildtolaunch.substack.com/p/claude-code-mcp-vs-plugins-vs-skills): Decision framework for choosing between MCP servers, skills, and plugins in Claude Code — explains what each layer does, real token costs, when each is overkill, and how they work together in a live stack.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -173,6 +175,8 @@ Build autonomous agents that research, analyze, and execute independently.
 - [AI Survival System Playbook](https://buildtolaunch.substack.com/p/ai-survival-system-disruption-playbook): Surviving AI disruption
 - [MCP Server for Substack](https://buildtolaunch.substack.com/p/he-built-an-mcp-server-so-you-can-talk-to-ai-about-any-substack-author): Building MCP integrations
 - [Every Way to Build an MCP Server (From the Ones I Actually Shipped)](https://buildtolaunch.substack.com/p/how-to-build-mcp-server-complete-guide): Every MCP pattern — local, npm, HTTP, and OAuth. Step-by-step builds with real gotchas from 6 shipped MCPs.
+- [AI Agents and Automation: Everything I've Built, Tested, and Run in Production](https://buildtolaunch.substack.com/p/ai-agents-automation-guide): Hub article indexing all guides on AI agents and automation — the 3-type agent framework, tool selection between Claude, n8n, and OpenClaw, OpenClaw installation, and four weeks of live production logs.
+- [How Claude Code's Redesign Reshaped My Cursor and OpenClaw Workflow](https://buildtolaunch.substack.com/p/claude-code-redesign-routines-vs-cursor-openclaw): Hands-on analysis of the April 2026 Claude Code desktop redesign — covers the new Routines automation layer, a three-tier migration framework for sorting 18 live automation jobs, and where Cursor and OpenClaw still hold the advantage.
 
 ---
 
@@ -189,6 +193,7 @@ Get your work discovered without gatekeeping.
 - [How to Grow Substack in 2026](https://buildtolaunch.substack.com/p/how-to-grow-substack-from-zero-in-2026): Substack growth guide
 - [Top AI Writers Analysis](https://buildtolaunch.substack.com/p/top-ai-writers-3000-articles-analysis): Analysis of 3000+ AI articles
 - [Substack Niche Analyzer](https://buildtolaunch.substack.com/p/substack-niche-analyzer-app): Niche analysis tool
+- [How to Grow Your Substack With Limited Time and Zero Social Energy](https://buildtolaunch.substack.com/p/grow-substack-with-claude): A 3-level Substack growth framework — recommendation exchanges, notes that perform, and compounding content — with Claude-powered workflows for each level using Substack Explorer, QuickViralNotes, and the Substack MCP.
 
 ---
 
