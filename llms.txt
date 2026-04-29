@@ -83,6 +83,7 @@ Master vibe coding from first prompt to production.
 - [Bridge to Advanced](https://buildtolaunch.substack.com/p/bridge-to-advanced-from-beginner-to-professional-workflows): Beginner to professional transition
 - [How to Start Vibe Coding: The Roadmap Nobody Gave You](https://buildtolaunch.substack.com/p/how-to-start-vibe-coding): Complete vibe coding roadmap — spec-first habit, what the first session looks like, the 80/20 wall where beginners quit, and the 5-project arc from first prompt to a running system.
 - [Everything Vibe Coding](https://buildtolaunch.substack.com/p/vibe-coding-guide): Hub article indexing 17 guides on vibe coding — roadmap, prompting strategies, production-readiness, project planning, Cursor vs Claude Code, and post-launch lessons from 12 shipped apps.
+- [How to Run Local Models in Claude Desktop](https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide): Step-by-step guide to connecting Ollama local models to Claude Desktop via the third-party inference gateway, covering model selection, configuration, and fixes for common errors.
 
 #### Architecture & Infrastructure
 - [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
@@ -117,6 +118,7 @@ Master vibe coding from first prompt to production.
 - [How to Install Any MCP Server in Claude: The Complete Setup Guide](https://buildtolaunch.substack.com/p/mcp-server-types-installation-guide-claude-cursor): Install MCP servers in Claude Desktop, Claude Code, and Cursor. Covers stdio, HTTP, and OAuth types, exact config file locations, and fixes for common connection errors.
 - [The Custom MCPs Included in Your Build to Launch Subscription](https://buildtolaunch.substack.com/p/custom-mcps-claude-code-cursor): The custom MCPs behind research, Substack, Gmail, and distribution workflows in Claude Code and Cursor, including tools available to paid members.
 - [MCP, Plugins, and Skills — How to Know Which One to Reach For](https://buildtolaunch.substack.com/p/claude-code-mcp-vs-plugins-vs-skills): Decision framework for choosing between MCP servers, skills, and plugins in Claude Code — explains what each layer does, real token costs, when each is overkill, and how they work together in a live stack.
+- [Claude Cowork Use Cases From 17 Creators: 15 That Genuinely Work, 4 Who Walked Away](https://buildtolaunch.substack.com/p/claude-cowork-use-cases-real-workflows): Workflows from 17 creators across four Cowork categories — daily reports, content pipelines, personal assistant tasks, and interface-layer architectures — plus honest accounts from four builders who found Claude Code better suited to their work.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -141,6 +143,7 @@ Learn how AI works by building real projects.
 - [Notion AI Agents 2026: Real Examples and How to Build](https://buildtolaunch.substack.com/p/notion-ai-agents-examples-guide): House search agent, broken link auditor, workspace automation with step-by-step guide
 - [Voice-First AI System Guide](https://buildtolaunch.substack.com/p/voice-first-ai-system-guide): Building voice-first AI systems
 - [How to Do Research With AI Effectively: 3 Questions Walked Through Live](https://buildtolaunch.substack.com/p/how-to-do-research-with-ai): 3 research types, a 5-stage AI research process, live demos, and how Perplexity MCP and Build to Launch MCP work together.
+- [Claude Code + NotebookLM: 9 Use Cases I Run Weekly to Save Hours and Tokens](https://buildtolaunch.substack.com/p/claude-code-notebooklm-9-workflows): How to connect NotebookLM to Claude Code via MCP in 15 minutes, with 9 weekly workflows covering research, competitive analysis, and content — saving tokens by grounding Claude in indexed source material instead of training knowledge.
 
 #### AI Learning Path
 - [AI Learning Roadmap (No CS Degree)](https://buildtolaunch.substack.com/p/ai-learning-roadmap-no-cs-degree): Learning AI without CS background
@@ -177,6 +180,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [Every Way to Build an MCP Server (From the Ones I Actually Shipped)](https://buildtolaunch.substack.com/p/how-to-build-mcp-server-complete-guide): Every MCP pattern — local, npm, HTTP, and OAuth. Step-by-step builds with real gotchas from 6 shipped MCPs.
 - [AI Agents and Automation: Everything I've Built, Tested, and Run in Production](https://buildtolaunch.substack.com/p/ai-agents-automation-guide): Hub article indexing all guides on AI agents and automation — the 3-type agent framework, tool selection between Claude, n8n, and OpenClaw, OpenClaw installation, and four weeks of live production logs.
 - [How Claude Code's Redesign Reshaped My Cursor and OpenClaw Workflow](https://buildtolaunch.substack.com/p/claude-code-redesign-routines-vs-cursor-openclaw): Hands-on analysis of the April 2026 Claude Code desktop redesign — covers the new Routines automation layer, a three-tier migration framework for sorting 18 live automation jobs, and where Cursor and OpenClaw still hold the advantage.
+- [Claude Code Routines Are Hugely Underrated. Here's How to Get Ahead of 99% of Users](https://buildtolaunch.substack.com/p/best-claude-code-routines-use-cases-guide): Practical guide to 7 Claude Code Routine use cases — weekly research digests, inbox triage, SEO reviews, social notes pipelines, doc maintenance, and strategy loops — with starter prompts and a decision framework for when Routines replace OpenClaw.
 
 ---
 
@@ -219,6 +223,7 @@ Proof these frameworks work.
 - [Designing for Color-Blindness](https://buildtolaunch.substack.com/p/designing-with-color-blindness-in-mind): Accessibility design
 - [AI Personal Website Guide](https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide): Building personal websites with AI
 - [Practical AI Builder Program](https://buildtolaunch.substack.com/p/practical-ai-builder-program): Landing page for the 12-month program — monthly live build sessions, recordings, prompts, configs, and community included in the paid subscription.
+- [Everything I've Built and Shipped: 16 AI Apps, MCPs, and Services](https://buildtolaunch.substack.com/p/everything-ive-built-and-shipped): Complete catalog of every AI app, MCP, and service Jenny has shipped — 16 products across 6 categories including Substack growth tools, developer utilities, consumer apps, a cofounded service (Unpromptable), retired projects, and internal tools.
 
 ---
 

@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-04-22",
+  "dateModified": "2026-04-29",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-04-22",
+      "dateModified": "2026-04-29",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7038,6 +7038,147 @@
         "automation"
       ],
       "articleSection": "Distribution Hub",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/best-claude-code-routines-use-cases-guide#article",
+      "headline": "Claude Code Routines Are Hugely Underrated. Here's How to Get Ahead of 99% of Users",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-routines-use-cases-guide",
+      "datePublished": "2026-04-29",
+      "description": "Practical guide to 7 Claude Code Routine use cases — weekly research digests, inbox triage, SEO reviews, social notes pipelines, doc maintenance, and strategy loops — with starter prompts and a decision framework for when Routines replace OpenClaw.",
+      "keywords": [
+        "claude-code",
+        "routines",
+        "scheduling",
+        "automation",
+        "inbox-triage",
+        "seo",
+        "content-planning",
+        "openclaw",
+        "workflows"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-9-workflows#article",
+      "headline": "Claude Code + NotebookLM: 9 Use Cases I Run Weekly to Save Hours and Tokens",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-9-workflows",
+      "datePublished": "2026-04-27",
+      "description": "How to connect NotebookLM to Claude Code via MCP in 15 minutes, with 9 weekly workflows covering research, competitive analysis, and content — saving tokens by grounding Claude in indexed source material instead of training knowledge.",
+      "keywords": [
+        "notebooklm",
+        "claude-code",
+        "mcp",
+        "workflows",
+        "research",
+        "tokens",
+        "knowledge-base",
+        "automation",
+        "productivity"
+      ],
+      "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide#article",
+      "headline": "How to Run Local Models in Claude Desktop",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide",
+      "datePublished": "2026-04-25",
+      "description": "Step-by-step guide to connecting Ollama local models to Claude Desktop via the third-party inference gateway, covering model selection, configuration, and fixes for common errors.",
+      "keywords": [
+        "ollama",
+        "local-models",
+        "claude-desktop",
+        "gateway",
+        "setup",
+        "offline",
+        "third-party-inference"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-cowork-use-cases-real-workflows#article",
+      "headline": "Claude Cowork Use Cases From 17 Creators: 15 That Genuinely Work, 4 Who Walked Away",
+      "url": "https://buildtolaunch.substack.com/p/claude-cowork-use-cases-real-workflows",
+      "datePublished": "2026-04-24",
+      "description": "Workflows from 17 creators across four Cowork categories — daily reports, content pipelines, personal assistant tasks, and interface-layer architectures — plus honest accounts from four builders who found Claude Code better suited to their work.",
+      "keywords": [
+        "claude-cowork",
+        "workflows",
+        "scheduling",
+        "automation",
+        "content-pipeline",
+        "daily-reports",
+        "claude-code",
+        "creators"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/everything-ive-built-and-shipped#article",
+      "headline": "Everything I've Built and Shipped: 16 AI Apps, MCPs, and Services",
+      "url": "https://buildtolaunch.substack.com/p/everything-ive-built-and-shipped",
+      "datePublished": "2026-04-21",
+      "description": "Complete catalog of every AI app, MCP, and service Jenny has shipped — 16 products across 6 categories including Substack growth tools, developer utilities, consumer apps, a cofounded service (Unpromptable), retired projects, and internal tools.",
+      "keywords": [
+        "products",
+        "apps",
+        "mcp",
+        "services",
+        "substack",
+        "portfolio",
+        "shipped",
+        "ai-builder"
+      ],
+      "articleSection": "Products Built and Shipped",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

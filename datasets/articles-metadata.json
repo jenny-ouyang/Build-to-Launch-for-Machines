@@ -3,7 +3,7 @@
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 182,
+  "total_articles": 187,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2337,6 +2337,87 @@
         "newsletter-growth",
         "substack-mcp",
         "automation"
+      ]
+    },
+    {
+      "title": "Claude Code Routines Are Hugely Underrated. Here's How to Get Ahead of 99% of Users",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-routines-use-cases-guide",
+      "description": "Practical guide to 7 Claude Code Routine use cases — weekly research digests, inbox triage, SEO reviews, social notes pipelines, doc maintenance, and strategy loops — with starter prompts and a decision framework for when Routines replace OpenClaw.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude-code",
+        "routines",
+        "scheduling",
+        "automation",
+        "inbox-triage",
+        "seo",
+        "content-planning",
+        "openclaw",
+        "workflows"
+      ]
+    },
+    {
+      "title": "Claude Code + NotebookLM: 9 Use Cases I Run Weekly to Save Hours and Tokens",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-9-workflows",
+      "description": "How to connect NotebookLM to Claude Code via MCP in 15 minutes, with 9 weekly workflows covering research, competitive analysis, and content — saving tokens by grounding Claude in indexed source material instead of training knowledge.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "notebooklm",
+        "claude-code",
+        "mcp",
+        "workflows",
+        "research",
+        "tokens",
+        "knowledge-base",
+        "automation",
+        "productivity"
+      ]
+    },
+    {
+      "title": "How to Run Local Models in Claude Desktop",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide",
+      "description": "Step-by-step guide to connecting Ollama local models to Claude Desktop via the third-party inference gateway, covering model selection, configuration, and fixes for common errors.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "ollama",
+        "local-models",
+        "claude-desktop",
+        "gateway",
+        "setup",
+        "offline",
+        "third-party-inference"
+      ]
+    },
+    {
+      "title": "Claude Cowork Use Cases From 17 Creators: 15 That Genuinely Work, 4 Who Walked Away",
+      "url": "https://buildtolaunch.substack.com/p/claude-cowork-use-cases-real-workflows",
+      "description": "Workflows from 17 creators across four Cowork categories — daily reports, content pipelines, personal assistant tasks, and interface-layer architectures — plus honest accounts from four builders who found Claude Code better suited to their work.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-cowork",
+        "workflows",
+        "scheduling",
+        "automation",
+        "content-pipeline",
+        "daily-reports",
+        "claude-code",
+        "creators"
+      ]
+    },
+    {
+      "title": "Everything I've Built and Shipped: 16 AI Apps, MCPs, and Services",
+      "url": "https://buildtolaunch.substack.com/p/everything-ive-built-and-shipped",
+      "description": "Complete catalog of every AI app, MCP, and service Jenny has shipped — 16 products across 6 categories including Substack growth tools, developer utilities, consumer apps, a cofounded service (Unpromptable), retired projects, and internal tools.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "products",
+        "apps",
+        "mcp",
+        "services",
+        "substack",
+        "portfolio",
+        "shipped",
+        "ai-builder"
       ]
     }
   ]
