@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-04-29",
+  "dateModified": "2026-05-06",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-04-29",
+      "dateModified": "2026-05-06",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7179,6 +7179,87 @@
         "ai-builder"
       ],
       "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/what-are-mcp-apps-connectors-plugins#article",
+      "headline": "What Are MCP Apps, Connectors, and Plugins? The Ecosystem Explained",
+      "url": "https://buildtolaunch.substack.com/p/what-are-mcp-apps-connectors-plugins",
+      "description": "Maps how MCP, connectors, plugins, and MCP Apps relate as layers of one ecosystem, with a primer on the three MCP primitives, the A2A protocol, and how to manage token overhead from too many active servers.",
+      "keywords": [
+        "mcp",
+        "connectors",
+        "plugins",
+        "mcp-apps",
+        "a2a-protocol",
+        "ai-ecosystem",
+        "token-overhead",
+        "ai-architecture"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-in-chrome-use-cases-browser-automation-guide#article",
+      "headline": "How to Use Claude in Chrome Beyond Page Summaries",
+      "url": "https://buildtolaunch.substack.com/p/claude-in-chrome-use-cases-browser-automation-guide",
+      "description": "Setup paths and five tested use types for Claude in Chrome: page extraction, personalized form filling, criteria-based evaluation, product QA testing, and scheduled browser tasks, with five failure modes to know before starting.",
+      "keywords": [
+        "claude-in-chrome",
+        "browser-automation",
+        "form-filling",
+        "product-qa",
+        "scheduled-tasks",
+        "claude-extension",
+        "chrome",
+        "browser-workflows"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-cowork-scheduled-tasks-vs-routines-vs-loop#article",
+      "headline": "Claude Cowork Scheduled Tasks vs Local Routines vs /loop vs Cloud Routines: What's Actually Different (2026)",
+      "url": "https://buildtolaunch.substack.com/p/claude-cowork-scheduled-tasks-vs-routines-vs-loop",
+      "description": "Maps Claude's five surfaces and four native scheduling modes — /loop, Cowork Scheduled Tasks, Local Routines, and Cloud Routines — and offers a failure-cost framework that routes every automation job to the right tool.",
+      "keywords": [
+        "claude-cowork",
+        "scheduled-tasks",
+        "local-routines",
+        "cloud-routines",
+        "loop",
+        "claude-code",
+        "automation",
+        "openclaw"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
