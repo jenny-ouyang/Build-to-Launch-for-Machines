@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-05-06",
+  "dateModified": "2026-05-16",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-05-06",
+      "dateModified": "2026-05-16",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7260,6 +7260,60 @@
         "openclaw"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-prompts-reverse-engineer-business-model-alex-hormozi-justin-welsh#article",
+      "headline": "This Claude Code Prompt Reverse-Engineers Any Creator's Business. It Feels Illegal.",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-prompts-reverse-engineer-business-model-alex-hormozi-justin-welsh",
+      "description": "A Creator Scout skill that runs two parallel research lenses across nine layers and eight phases from one URL — surfacing offer stack, tech stack, named frameworks, and a 'What to Steal' synthesis, with full briefs on Alex Hormozi and Justin Welsh.",
+      "keywords": [
+        "creator research",
+        "competitive analysis",
+        "claude code skills",
+        "creator scout",
+        "business model teardown",
+        "alex hormozi",
+        "justin welsh",
+        "build to launch mcp"
+      ],
+      "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/make-money-with-ai-claude-code-notebooklm-guide#article",
+      "headline": "How to Make Money With AI: From Research to Act in One Loop",
+      "url": "https://buildtolaunch.substack.com/p/make-money-with-ai-claude-code-notebooklm-guide",
+      "description": "A four-tool loop connecting Perplexity, NotebookLM, the Build to Launch MCP, and Claude that turns research results into a digital mentor and a scheduled task that keeps the source notebook current. Session recap from the Practical AI Builder Program.",
+      "keywords": [
+        "make money with ai",
+        "perplexity mcp",
+        "notebooklm",
+        "digital mentor",
+        "autonomous systems",
+        "claude routines",
+        "research workflow",
+        "practical ai builder"
+      ],
+      "articleSection": "Hands-on AI Technology",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
