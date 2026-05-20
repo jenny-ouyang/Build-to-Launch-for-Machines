@@ -58,6 +58,7 @@ Master vibe coding from first prompt to production.
 - [15 Best Claude Code Prompts That Earn Me 30 Hours a Week](https://buildtolaunch.substack.com/p/best-claude-code-prompts): Production-tested prompts organized by workflow with time-earned metrics
 - [AI Prompting Production-Ready Guide](https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide): Prompting strategies for production code
 - [Unfiltered Vibe Coding Prompt Process](https://buildtolaunch.substack.com/p/unfiltered-vibe-coding-prompt-generating-process): Raw prompt generation process
+- [How I Hired Hormozi, Welsh, and Koe as AI Mentors in 30 Minutes for Free](https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide): Use these 3 prompts framework to build AI mentors from your favorite creators, so you can consult on demand
 
 #### Testing & Quality
 - [Smoke Testing Guide](https://buildtolaunch.substack.com/p/smoke-testing-vibe-coding-guide): Testing vibe-coded applications
@@ -121,6 +122,7 @@ Master vibe coding from first prompt to production.
 - [Claude Cowork Use Cases From 17 Creators: 15 That Genuinely Work, 4 Who Walked Away](https://buildtolaunch.substack.com/p/claude-cowork-use-cases-real-workflows): Workflows from 17 creators across four Cowork categories — daily reports, content pipelines, personal assistant tasks, and interface-layer architectures — plus honest accounts from four builders who found Claude Code better suited to their work.
 - [What Are MCP Apps, Connectors, and Plugins? The Ecosystem Explained](https://buildtolaunch.substack.com/p/what-are-mcp-apps-connectors-plugins): Maps how MCP, connectors, plugins, and MCP Apps relate as layers of one ecosystem, with a primer on the three MCP primitives, the A2A protocol, and how to manage token overhead from too many active servers.
 - [How to Use Claude in Chrome Beyond Page Summaries](https://buildtolaunch.substack.com/p/claude-in-chrome-use-cases-browser-automation-guide): Setup paths and five tested use types for Claude in Chrome — page extraction, personalized form filling, criteria-based evaluation, product QA testing, and scheduled browser tasks — with five failure modes to know before starting.
+- [Claude Cowork for Professionals: The Complete Guide for Practical Use](https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide): Claude Cowork for professionals. Complete guide to what skills, MCP connectors, and agents actually do, and how to start a real project in 10 minutes.
 ---
 
 ### Track 2: Hands-on AI Technology

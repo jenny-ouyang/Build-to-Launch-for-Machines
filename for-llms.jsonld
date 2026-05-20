@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-05-16",
+  "dateModified": "2026-05-20",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-05-16",
+      "dateModified": "2026-05-20",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7314,6 +7314,63 @@
         "practical ai builder"
       ],
       "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide#article",
+      "headline": "Claude Cowork for Professionals: The Complete Guide for Practical Use",
+      "url": "https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide",
+      "description": "Claude Cowork for professionals. Complete guide to what skills, MCP connectors, and agents actually do, and how to start a real project in 10 minutes.",
+      "keywords": [
+        "claude-cowork",
+        "mcp",
+        "skills",
+        "plugins",
+        "agents",
+        "scheduling",
+        "professionals",
+        "setup-guide",
+        "claude-desktop",
+        "workflow"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide#article",
+      "headline": "How I Hired Hormozi, Welsh, and Koe as AI Mentors in 30 Minutes for Free",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide",
+      "description": "Use these 3 prompts framework to build AI mentors from your favorite creators, so you can consult on demand",
+      "keywords": [
+        "claude-code",
+        "prompts",
+        "ai-mentors",
+        "notebooklm",
+        "creator-research",
+        "3-prompt-framework",
+        "mentor-compiler",
+        "hormozi",
+        "justin-welsh"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

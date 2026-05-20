@@ -2499,6 +2499,41 @@
         "research workflow",
         "practical ai builder"
       ]
+    },
+    {
+      "title": "Claude Cowork for Professionals: The Complete Guide for Practical Use",
+      "url": "https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide",
+      "description": "Claude Cowork for professionals. Complete guide to what skills, MCP connectors, and agents actually do, and how to start a real project in 10 minutes.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-cowork",
+        "mcp",
+        "skills",
+        "plugins",
+        "agents",
+        "scheduling",
+        "professionals",
+        "setup-guide",
+        "claude-desktop",
+        "workflow"
+      ]
+    },
+    {
+      "title": "How I Hired Hormozi, Welsh, and Koe as AI Mentors in 30 Minutes for Free",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide",
+      "description": "Use these 3 prompts framework to build AI mentors from your favorite creators, so you can consult on demand",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-code",
+        "prompts",
+        "ai-mentors",
+        "notebooklm",
+        "creator-research",
+        "3-prompt-framework",
+        "mentor-compiler",
+        "hormozi",
+        "justin-welsh"
+      ]
     }
   ]
 }
