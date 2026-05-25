@@ -123,6 +123,7 @@ Master vibe coding from first prompt to production.
 - [What Are MCP Apps, Connectors, and Plugins? The Ecosystem Explained](https://buildtolaunch.substack.com/p/what-are-mcp-apps-connectors-plugins): Maps how MCP, connectors, plugins, and MCP Apps relate as layers of one ecosystem, with a primer on the three MCP primitives, the A2A protocol, and how to manage token overhead from too many active servers.
 - [How to Use Claude in Chrome Beyond Page Summaries](https://buildtolaunch.substack.com/p/claude-in-chrome-use-cases-browser-automation-guide): Setup paths and five tested use types for Claude in Chrome — page extraction, personalized form filling, criteria-based evaluation, product QA testing, and scheduled browser tasks — with five failure modes to know before starting.
 - [Claude Cowork for Professionals: The Complete Guide for Practical Use](https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide): Claude Cowork for professionals. Complete guide to what skills, MCP connectors, and agents actually do, and how to start a real project in 10 minutes.
+- [How to Build a Claude Skill That Works](https://buildtolaunch.substack.com/p/claude-skills-building-complete-guide): The full sequence for building Claude skills that hold up — trigger-friendly descriptions, choosing the right skill type, placing each rule where it fires, structuring references across three layers, testing with discriminating assertions, and maintaining against three kinds of decay.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -261,6 +262,7 @@ Real builders, real products, real lessons.
 - [Your Memories Your Terms (AI Memory Layer)](https://buildtolaunch.substack.com/p/your-memories-your-terms-how-he-left-ibm-for-half-the-pay-to-build-the-ai-memory-layer-that-keeps-users-in-control): Building AI memory layer
 - [Finn's Substack Productivity Tools](https://buildtolaunch.substack.com/p/finn-substack-productivity-tools-interview): Builder interview on productivity tools
 - [Build in Public Stories](https://buildtolaunch.substack.com/p/build-in-public-stories): Collection of build-in-public journeys
+- [How I 8X'd My Digital Product Conversion Rate With Simple 3 Fixes](https://buildtolaunch.substack.com/p/how-to-fix-digital-product-conversion-rate): A guest builder's three-month conversion experiment that took a digital product from 1% to 8% by testing one variable at a time — urgency and a feedback loop, removing a promo video, then cutting the price — with five lessons on selling digital products.
 
 ---
 

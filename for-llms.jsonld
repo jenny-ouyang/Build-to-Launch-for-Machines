@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-05-20",
+  "dateModified": "2026-05-25",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-05-20",
+      "dateModified": "2026-05-25",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -1325,6 +1325,63 @@
           "@id": "https://buildtolaunch.substack.com/p/your-first-project-complete-build-to-deploy-guide"
         }
       ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-skills-building-complete-guide#article",
+      "headline": "How to Build a Claude Skill That Works",
+      "url": "https://buildtolaunch.substack.com/p/claude-skills-building-complete-guide",
+      "datePublished": "2026-05-21",
+      "description": "The full sequence for building Claude skills that hold up: writing trigger-friendly descriptions, picking the right skill type, placing each rule where it fires, structuring references across three layers, testing with discriminating assertions, and maintaining against three kinds of decay.",
+      "keywords": [
+        "claude-skills",
+        "skill-architecture",
+        "triggers",
+        "skill-body",
+        "references",
+        "testing",
+        "evals",
+        "maintenance",
+        "claude-code"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/how-to-fix-digital-product-conversion-rate#article",
+      "headline": "How I 8X'd My Digital Product Conversion Rate With Simple 3 Fixes",
+      "url": "https://buildtolaunch.substack.com/p/how-to-fix-digital-product-conversion-rate",
+      "datePublished": "2026-05-22",
+      "description": "A guest builder's three-month conversion experiment that took a digital product from 1% to 8% by testing one variable at a time: adding urgency and a feedback loop, removing a promo video, then cutting the price, with five lessons on selling digital products.",
+      "keywords": [
+        "conversion-rate",
+        "digital-products",
+        "pricing",
+        "urgency",
+        "landing-page",
+        "ab-testing",
+        "monetization",
+        "substack"
+      ],
+      "articleSection": "Builder Stories",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
     },
     {
       "@type": "BlogPosting",

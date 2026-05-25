@@ -2534,6 +2534,39 @@
         "hormozi",
         "justin-welsh"
       ]
+    },
+    {
+      "title": "How to Build a Claude Skill That Works",
+      "url": "https://buildtolaunch.substack.com/p/claude-skills-building-complete-guide",
+      "description": "The full sequence for building Claude skills that hold up: writing trigger-friendly descriptions, picking the right skill type, placing each rule where it fires, structuring references across three layers, testing with discriminating assertions, and maintaining against three kinds of decay.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-skills",
+        "skill-architecture",
+        "triggers",
+        "skill-body",
+        "references",
+        "testing",
+        "evals",
+        "maintenance",
+        "claude-code"
+      ]
+    },
+    {
+      "title": "How I 8X'd My Digital Product Conversion Rate With Simple 3 Fixes",
+      "url": "https://buildtolaunch.substack.com/p/how-to-fix-digital-product-conversion-rate",
+      "description": "A guest builder's three-month conversion experiment that took a digital product from 1% to 8% by testing one variable at a time: adding urgency and a feedback loop, removing a promo video, then cutting the price, with five lessons on selling digital products.",
+      "articleSection": "Builder Stories",
+      "keywords": [
+        "conversion-rate",
+        "digital-products",
+        "pricing",
+        "urgency",
+        "landing-page",
+        "ab-testing",
+        "monetization",
+        "substack"
+      ]
     }
   ]
 }
