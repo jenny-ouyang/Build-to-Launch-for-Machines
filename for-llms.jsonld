@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-05-25",
+  "dateModified": "2026-06-03",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-05-25",
+      "dateModified": "2026-06-03",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7428,6 +7428,61 @@
         "justin-welsh"
       ],
       "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/things-to-build-with-claude-code#article",
+      "headline": "How to Use Claude Code for Real Problems, Not Just App Ideas",
+      "url": "https://buildtolaunch.substack.com/p/things-to-build-with-claude-code",
+      "description": "19 real-world Claude Code starting points drawn from daily work, personal life, and family time, each mapped to four build levels (Task, Workflow, App, and Agent) for people looking to fix actual friction rather than build portfolio apps.",
+      "keywords": [
+        "claude-code",
+        "practical-use-cases",
+        "daily-work",
+        "four-build-levels",
+        "automation",
+        "workflows",
+        "family",
+        "task-workflow-app-agent"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-mcp-recordings-reuse-guide#article",
+      "headline": "How to Query Any Recording Without Rewatching It (Claude + NotebookLM)",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-mcp-recordings-reuse-guide",
+      "description": "Build a queryable recording library using NotebookLM and Claude Code via MCP — four source types (YouTube, paid courses via DevTools/ffmpeg, meeting recordings, audio files) with the two-layer prompt structure that returns cited specific answers instead of generic summaries.",
+      "keywords": [
+        "notebooklm",
+        "claude-code",
+        "mcp",
+        "recordings",
+        "knowledge-retrieval",
+        "ffmpeg",
+        "hls",
+        "query-library",
+        "content-repurpose"
+      ],
+      "articleSection": "Hands-on AI Technology",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

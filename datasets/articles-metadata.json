@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-06",
+  "generated": "2026-06-03",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 195,
+  "total_articles": 197,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2566,6 +2566,39 @@
         "ab-testing",
         "monetization",
         "substack"
+      ]
+    },
+    {
+      "title": "How to Use Claude Code for Real Problems, Not Just App Ideas",
+      "url": "https://buildtolaunch.substack.com/p/things-to-build-with-claude-code",
+      "description": "19 real-world Claude Code starting points drawn from daily work, personal life, and family time, each mapped to four build levels (Task, Workflow, App, and Agent) for people looking to fix actual friction rather than build portfolio apps.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-code",
+        "practical-use-cases",
+        "daily-work",
+        "four-build-levels",
+        "automation",
+        "workflows",
+        "family",
+        "task-workflow-app-agent"
+      ]
+    },
+    {
+      "title": "How to Query Any Recording Without Rewatching It (Claude + NotebookLM)",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-notebooklm-mcp-recordings-reuse-guide",
+      "description": "Build a queryable recording library using NotebookLM and Claude Code via MCP — covers four source types (YouTube, paid course platforms via DevTools/ffmpeg, meeting recordings, audio files), the two-layer prompt structure for cited specific answers, and repurposing indexed recordings into content without rewatching.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "notebooklm",
+        "claude-code",
+        "mcp",
+        "recordings",
+        "knowledge-retrieval",
+        "ffmpeg",
+        "hls",
+        "query-library",
+        "content-repurpose"
       ]
     }
   ]
