@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-06-03",
+  "dateModified": "2026-06-09",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-06-03",
+      "dateModified": "2026-06-09",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7483,6 +7483,61 @@
         "content-repurpose"
       ],
       "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/apify-mcp-pay-per-result-guide#article",
+      "headline": "This MCP resolves 99% of your search problems. And it can pay you money.",
+      "url": "https://buildtolaunch.substack.com/p/apify-mcp-pay-per-result-guide",
+      "description": "How Apify's MCP-connected actor marketplace lets an AI agent find and pay for a tool by the result — a fraction of a cent per run, no checkout, no human in the loop. Covers what actors are, what pay-per-result pricing means for users and builders, how to find the right actor without overpaying, and a playbook for building and monetizing your own.",
+      "keywords": [
+        "apify",
+        "mcp",
+        "ai-agents",
+        "pay-per-result",
+        "actors",
+        "monetization",
+        "web-scraping",
+        "research-tools",
+        "agent-economy"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-dynamic-workflows-guide#article",
+      "headline": "Claude Code Dynamic Workflows: How 100 Agents Research, Write, and Build in One Session",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-dynamic-workflows-guide",
+      "description": "Breaks down Claude Code dynamic workflows, where one request becomes a self-written program that runs ~100 parallel agents — most of them fact-checking each finding — before returning verified results. Explains what the agents do, when the tokens are worth it, and how to reproduce the same fan-out-and-verify pattern in any AI tool without the built-in feature.",
+      "keywords": [
+        "claude-code",
+        "dynamic-workflows",
+        "multi-agent",
+        "deep-research",
+        "agent-orchestration",
+        "parallel-agents",
+        "fact-checking",
+        "workflow-design"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

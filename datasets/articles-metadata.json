@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-03",
+  "generated": "2026-06-09",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 197,
+  "total_articles": 205,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2599,6 +2599,39 @@
         "hls",
         "query-library",
         "content-repurpose"
+      ]
+    },
+    {
+      "title": "This MCP resolves 99% of your search problems. And it can pay you money.",
+      "url": "https://buildtolaunch.substack.com/p/apify-mcp-pay-per-result-guide",
+      "description": "How Apify's MCP-connected actor marketplace lets an AI agent find and pay for a tool by the result — a fraction of a cent per run, no checkout, no human in the loop. Covers what actors are, what pay-per-result pricing means for users and builders, how to find the right actor without overpaying, and a playbook for building and monetizing your own.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "apify",
+        "mcp",
+        "ai-agents",
+        "pay-per-result",
+        "actors",
+        "monetization",
+        "web-scraping",
+        "research-tools",
+        "agent-economy"
+      ]
+    },
+    {
+      "title": "Claude Code Dynamic Workflows: How 100 Agents Research, Write, and Build in One Session",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-dynamic-workflows-guide",
+      "description": "Breaks down Claude Code dynamic workflows, where one request becomes a self-written program that runs ~100 parallel agents — most of them fact-checking each finding — before returning verified results. Explains what the agents do, when the tokens are worth it, and how to reproduce the same fan-out-and-verify pattern in any AI tool without the built-in feature.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude-code",
+        "dynamic-workflows",
+        "multi-agent",
+        "deep-research",
+        "agent-orchestration",
+        "parallel-agents",
+        "fact-checking",
+        "workflow-design"
       ]
     }
   ]
