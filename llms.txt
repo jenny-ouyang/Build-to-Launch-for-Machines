@@ -59,6 +59,7 @@ Master vibe coding from first prompt to production.
 - [AI Prompting Production-Ready Guide](https://buildtolaunch.substack.com/p/ai-prompting-vibe-coding-production-ready-guide): Prompting strategies for production code
 - [Unfiltered Vibe Coding Prompt Process](https://buildtolaunch.substack.com/p/unfiltered-vibe-coding-prompt-generating-process): Raw prompt generation process
 - [How I Hired Hormozi, Welsh, and Koe as AI Mentors in 30 Minutes for Free](https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide): Use these 3 prompts framework to build AI mentors from your favorite creators, so you can consult on demand
+- [How to Prompt AI to Build Any App](https://buildtolaunch.substack.com/p/how-to-prompt-ai-to-build-any-app): A seven-round conversation system that turns any app idea into a production-ready prompt chain, taking the model from problem statement through architecture to a final master prompt. Works with any AI coding tool.
 
 #### Testing & Quality
 - [Smoke Testing Guide](https://buildtolaunch.substack.com/p/smoke-testing-vibe-coding-guide): Testing vibe-coded applications
@@ -86,6 +87,7 @@ Master vibe coding from first prompt to production.
 - [Everything Vibe Coding](https://buildtolaunch.substack.com/p/vibe-coding-guide): Hub article indexing 17 guides on vibe coding — roadmap, prompting strategies, production-readiness, project planning, Cursor vs Claude Code, and post-launch lessons from 12 shipped apps.
 - [How to Run Local Models in Claude Desktop](https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide): Step-by-step guide to connecting Ollama local models to Claude Desktop via the third-party inference gateway, covering model selection, configuration, and fixes for common errors.
 - [How to Use Claude Code for Real Problems, Not Just App Ideas](https://buildtolaunch.substack.com/p/things-to-build-with-claude-code): 19 starting points from daily work, personal life, and family time — each mapped to Task, Workflow, App, and Agent build levels — for people looking to fix actual friction rather than build portfolio apps.
+- [What is Claude Code? Is it for Non-Developers?](https://buildtolaunch.substack.com/p/claude-code-non-developer-explained): A plain-English explanation of Claude Code for non-developers: how it works, what a real session looks like step by step, and three concrete examples from organizing 2,400 photos to analyzing emails for patterns.
 
 #### Architecture & Infrastructure
 - [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
@@ -110,6 +112,8 @@ Master vibe coding from first prompt to production.
 - [Is Your App Worth Building?](https://buildtolaunch.substack.com/p/app-worth-building-ai-validation-guide): AI validation framework to decide if your app idea is worth pursuing
 - [I Tested Claude Code Against 7 AI Coding Tools on the Same Website](https://buildtolaunch.substack.com/p/claude-code-ai-tools-audit-deep-dive): 3-stage audit of 8 tools on the same spec — build speed, design, SEO, code quality. CLI tools won; all 8 failed social SEO.
 - [I got a $1,600 Claude Code bill. Here's the system I built to stop it.](https://buildtolaunch.substack.com/p/claude-code-token-optimization): Claude Code token optimization: 19 changes across setup and session habits. Context-mode, /effort, model matching, and Claude Desktop tips included.
+- [8 Vibe Coding Mistakes That Break Apps After You Ship](https://buildtolaunch.substack.com/p/8-vibe-coding-mistakes-that-break-production): Eight intermediate vibe-coding mistakes that pass every test in development and break in production — from handing AI the full brief at once to skipping version control and CLAUDE.md, with the fix for each.
+- [When Your AI API Goes Down: 6 Backup Lessons From a Real LLM Outage](https://buildtolaunch.substack.com/p/llm-api-backup-strategy-6-lessons-cursor-claude-code): Six lessons from a live LLM provider outage that hit a production app mid-session — covering API token limits, model degradation, cost ceilings that rule out backups, and why the fallback has to be built before the outage.
 
 
 #### MCP & Connected Intelligence
@@ -125,6 +129,11 @@ Master vibe coding from first prompt to production.
 - [How to Use Claude in Chrome Beyond Page Summaries](https://buildtolaunch.substack.com/p/claude-in-chrome-use-cases-browser-automation-guide): Setup paths and five tested use types for Claude in Chrome — page extraction, personalized form filling, criteria-based evaluation, product QA testing, and scheduled browser tasks — with five failure modes to know before starting.
 - [Claude Cowork for Professionals: The Complete Guide for Practical Use](https://buildtolaunch.substack.com/p/claude-cowork-professionals-complete-guide): Claude Cowork for professionals. Complete guide to what skills, MCP connectors, and agents actually do, and how to start a real project in 10 minutes.
 - [How to Build a Claude Skill That Works](https://buildtolaunch.substack.com/p/claude-skills-building-complete-guide): The full sequence for building Claude skills that hold up — trigger-friendly descriptions, choosing the right skill type, placing each rule where it fires, structuring references across three layers, testing with discriminating assertions, and maintaining against three kinds of decay.
+- [What Is an MCP Server? Plain-English Guide With Examples](https://buildtolaunch.substack.com/p/what-is-mcp-server-plain-english): A plain-English guide to MCP servers: what Model Context Protocol is, how tools, resources, and prompts differ, real examples with Gmail, Notion, and Perplexity, and whether you need to code to use or build one.
+- [MCP Servers in Every AI Client: Claude, ChatGPT, VS Code, and Cursor](https://buildtolaunch.substack.com/p/mcp-setup-claude-chatgpt-vscode-cursor): A setup guide for MCP servers across seven AI clients — Claude Desktop, Claude Code, ChatGPT, Cursor, Windsurf, VS Code with Copilot, and remote connectors — with exact config snippets, a team-sharing option, and a decision table for each.
+- [What is Claude Plugins?](https://buildtolaunch.substack.com/p/claude-plugins-vs-custom-gpt-vs-gemini-gem): An explainer on Claude plugins: the two separate plugin systems for Claude Code and Cowork, what a plugin bundles, how installation compares to GPTs and Gems, and when to skip plugins entirely.
+- [Claude Skills: What They Are, How They Actually Work, and How They Compare to GPTs and Gems](https://buildtolaunch.substack.com/p/claude-skills-claude-code-vs-chatgpt-gpts-gemini-gems): A deep guide to Claude Skills: the four types, how a SKILL.md file works, how skills compare to GPTs and Gems across ten dimensions, and lessons from running 30+ skills daily for six months.
+- [What Is Claude Cowork?](https://buildtolaunch.substack.com/p/what-is-claude-cowork): An explainer on Claude Cowork: the Claude Desktop mode for handing off multi-step tasks, how its task flow and scheduled tasks work, how it compares to ChatGPT, Gemini, and Microsoft 365, and who it fits by role.
 ---
 
 ### Track 2: Hands-on AI Technology
@@ -193,6 +202,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [Claude Cowork Scheduled Tasks vs Local Routines vs /loop vs Cloud Routines: What's Actually Different (2026)](https://buildtolaunch.substack.com/p/claude-cowork-scheduled-tasks-vs-routines-vs-loop): Maps Claude's five surfaces and four native scheduling modes — /loop, Cowork Scheduled Tasks, Local Routines, and Cloud Routines — and offers a failure-cost framework that routes every automation job to the right tool.
 - [This MCP Resolves 99% of Your Search Problems (And Can Pay You Money)](https://buildtolaunch.substack.com/p/apify-mcp-pay-per-result-guide): How Apify's MCP-connected actor marketplace lets an AI agent find and pay for a tool by the result — what actors are, what pay-per-result pricing means for users and builders, finding the right actor without overpaying, and a playbook for building and monetizing your own.
 - [Claude Code Dynamic Workflows: How 100 Agents Research, Write, and Build in One Session](https://buildtolaunch.substack.com/p/claude-code-dynamic-workflows-guide): What dynamic workflows are, what ~100 parallel agents actually do (most of them fact-checking each finding), when the tokens are worth it, and how to run the same fan-out-and-verify pattern without the built-in feature.
+- [What Are Claude Code Subagents? (And How to Make the Most of Them)](https://buildtolaunch.substack.com/p/claude-code-subagents-explained): A guide to Claude Code subagents: the three built-in ones most people miss, when to run them in parallel versus sequence, five common failure modes with fixes, and starter configs.
 
 ---
 
@@ -210,6 +220,7 @@ Get your work discovered without gatekeeping.
 - [Top AI Writers Analysis](https://buildtolaunch.substack.com/p/top-ai-writers-3000-articles-analysis): Analysis of 3000+ AI articles
 - [Substack Niche Analyzer](https://buildtolaunch.substack.com/p/substack-niche-analyzer-app): Niche analysis tool
 - [How to Grow Your Substack With Limited Time and Zero Social Energy](https://buildtolaunch.substack.com/p/grow-substack-with-claude): A 3-level Substack growth framework — recommendation exchanges, notes that perform, and compounding content — with Claude-powered workflows for each level using Substack Explorer, QuickViralNotes, and the Substack MCP.
+- [Substack Growth Hub: Everything I've Learned About Growing on Substack —Notes, Niche, and 10x Growth Patterns](https://buildtolaunch.substack.com/p/substack-growth-hub): A chronological hub of everything learned growing on Substack from zero to 6,000+ subscribers and 200+ paid while working full-time — niche analysis, the first paid launch, the viral notes system, the Rising Badge reality, and what 3,000+ articles from top AI writers reveal.
 
 ---
 
@@ -236,6 +247,11 @@ Proof these frameworks work.
 - [AI Personal Website Guide](https://buildtolaunch.substack.com/p/ai-personal-website-customization-guide): Building personal websites with AI
 - [Practical AI Builder Program](https://buildtolaunch.substack.com/p/practical-ai-builder-program): Landing page for the 12-month program — monthly live build sessions, recordings, prompts, configs, and community included in the paid subscription.
 - [Everything I've Built and Shipped: 16 AI Apps, MCPs, and Services](https://buildtolaunch.substack.com/p/everything-ive-built-and-shipped): Complete catalog of every AI app, MCP, and service Jenny has shipped — 16 products across 6 categories including Substack growth tools, developer utilities, consumer apps, a cofounded service (Unpromptable), retired projects, and internal tools.
+- [How to Build an AI Digest App with Replit: Complete Step-by-Step Guide](https://buildtolaunch.substack.com/p/how-to-build-ai-app-vibe-coding-zero-to-launch): A complete how-to for building an AI information digest app — an RSS aggregator that summarizes and categorizes articles — built in Replit, hosted on Vercel with Supabase, from zero to a live URL in two hours with real costs and code patterns.
+- [How I Built an AI Email Digest App with Cursor](https://buildtolaunch.substack.com/p/build-ai-email-digest-app-cursor): A step-by-step build of an AI email digest app in Cursor that connects to Gmail, extracts article links, summarizes them with the Claude API, and scores them into a ranked reading list — with the spec prompt and full Python.
+- [Build an AI Content Repurposing App With Cursor and Claude Code](https://buildtolaunch.substack.com/p/build-ai-content-repurposing-app-cursor-claude-code): The build story of Quick Viral Notes, an AI content-repurposing app made in Cursor that turns long-form writing into short notes for LinkedIn, Substack, X, and Bluesky, with a 2026 update on what the author would change.
+- [Build a Substack Niche Analyzer With Python and Cursor: The App That Started as My Own Research Tool](https://buildtolaunch.substack.com/p/build-substack-niche-analyzer-cursor-python): The full build log of a Substack niche analyzer in Python and Next.js — finding the Substack API endpoints, storing data locally instead of querying live, building the dashboard, and fixing the Vercel deployment bug.
+- [7 Things Nobody Warns You About Launching Your First Vibe Coding App](https://buildtolaunch.substack.com/p/vibe-coding-app-launch-7-lessons-cursor-claude-code): Seven lessons from launching a first vibe-coded app, an image-finding tool — from cheap shared hosting failing an ML app to packaging a desktop app — with a 2026 update on what the author would build differently.
 
 ---
 

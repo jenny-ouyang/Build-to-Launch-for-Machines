@@ -7547,6 +7547,439 @@
       "isPartOf": {
         "@id": "https://buildtolaunch.ai/#for-machines-dataset"
       }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/substack-growth-hub#article",
+      "headline": "Substack Growth Hub: Everything I've Learned About Growing on Substack —Notes, Niche, and 10x Growth Patterns",
+      "url": "https://buildtolaunch.substack.com/p/substack-growth-hub",
+      "datePublished": "2026-04-09",
+      "description": "A chronological hub of everything learned growing on Substack from zero to 6,000+ subscribers and 200+ paid while working full-time — niche analysis, the first paid launch, the viral notes system, the Rising Badge reality, and what 3,000+ articles from top AI writers reveal.",
+      "keywords": [
+        "substack",
+        "growth",
+        "newsletter",
+        "substack-notes",
+        "niche-analysis",
+        "subscribers",
+        "hub"
+      ],
+      "articleSection": "Distribution Hub",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/what-is-mcp-server-plain-english#article",
+      "headline": "What Is an MCP Server? Plain-English Guide With Examples",
+      "url": "https://buildtolaunch.substack.com/p/what-is-mcp-server-plain-english",
+      "datePublished": "2025-11-26",
+      "description": "A plain-English guide to MCP servers: what Model Context Protocol is, how tools, resources, and prompts differ, real examples with Gmail, Notion, and Perplexity, and whether you need to code to use or build one.",
+      "keywords": [
+        "mcp",
+        "model-context-protocol",
+        "claude",
+        "gmail",
+        "notion",
+        "perplexity",
+        "connectors",
+        "explainer"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/mcp-setup-claude-chatgpt-vscode-cursor#article",
+      "headline": "MCP Servers in Every AI Client: Claude, ChatGPT, VS Code, and Cursor",
+      "url": "https://buildtolaunch.substack.com/p/mcp-setup-claude-chatgpt-vscode-cursor",
+      "datePublished": "2026-03-17",
+      "description": "A setup guide for MCP servers across seven AI clients — Claude Desktop, Claude Code, ChatGPT, Cursor, Windsurf, VS Code with Copilot, and remote connectors — with exact config snippets, a team-sharing option, and a decision table for each.",
+      "keywords": [
+        "mcp",
+        "setup",
+        "claude-desktop",
+        "claude-code",
+        "cursor",
+        "vscode",
+        "chatgpt",
+        "configuration"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-plugins-vs-custom-gpt-vs-gemini-gem#article",
+      "headline": "What is Claude Plugins?",
+      "url": "https://buildtolaunch.substack.com/p/claude-plugins-vs-custom-gpt-vs-gemini-gem",
+      "datePublished": "2026-02-28",
+      "description": "An explainer on Claude plugins: the two separate plugin systems for Claude Code and Cowork, what a plugin bundles, how installation compares to GPTs and Gems, and when to skip plugins entirely.",
+      "keywords": [
+        "claude-plugins",
+        "claude-code",
+        "claude-cowork",
+        "chatgpt-gpts",
+        "gemini-gems",
+        "extensions",
+        "comparison"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-skills-claude-code-vs-chatgpt-gpts-gemini-gems#article",
+      "headline": "Claude Skills: What They Are, How They Actually Work, and How They Compare to GPTs and Gems",
+      "url": "https://buildtolaunch.substack.com/p/claude-skills-claude-code-vs-chatgpt-gpts-gemini-gems",
+      "datePublished": "2025-11-25",
+      "description": "A deep guide to Claude Skills: the four types, how a SKILL.md file works, how skills compare to GPTs and Gems across ten dimensions, and lessons from running 30+ skills daily for six months.",
+      "keywords": [
+        "claude-skills",
+        "skill-md",
+        "chatgpt-gpts",
+        "gemini-gems",
+        "workflows",
+        "automation",
+        "comparison"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/what-is-claude-cowork#article",
+      "headline": "What Is Claude Cowork?",
+      "url": "https://buildtolaunch.substack.com/p/what-is-claude-cowork",
+      "datePublished": "2026-01-27",
+      "description": "An explainer on Claude Cowork: the Claude Desktop mode for handing off multi-step tasks, how its task flow and scheduled tasks work, how it compares to ChatGPT, Gemini, and Microsoft 365, and who it fits by role.",
+      "keywords": [
+        "claude-cowork",
+        "task-automation",
+        "scheduled-tasks",
+        "claude-desktop",
+        "productivity",
+        "comparison"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-subagents-explained#article",
+      "headline": "What Are Claude Code Subagents? (And How to Make the Most of Them)",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-subagents-explained",
+      "datePublished": "2025-12-22",
+      "description": "A guide to Claude Code subagents: the three built-in ones most people miss, when to run them in parallel versus sequence, five common failure modes with fixes, and starter configs.",
+      "keywords": [
+        "claude-code",
+        "subagents",
+        "parallel-agents",
+        "agent-orchestration",
+        "automation",
+        "troubleshooting"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-non-developer-explained#article",
+      "headline": "What is Claude Code? Is it for Non-Developers?",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-non-developer-explained",
+      "datePublished": "2025-07-25",
+      "description": "A plain-English explanation of Claude Code for non-developers: how it works, what a real session looks like step by step, and three concrete examples from organizing 2,400 photos to analyzing emails for patterns.",
+      "keywords": [
+        "claude-code",
+        "non-developer",
+        "beginners",
+        "ai-tools",
+        "explainer",
+        "getting-started"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/8-vibe-coding-mistakes-that-break-production#article",
+      "headline": "8 Vibe Coding Mistakes That Break Apps After You Ship",
+      "url": "https://buildtolaunch.substack.com/p/8-vibe-coding-mistakes-that-break-production",
+      "datePublished": "2025-12-30",
+      "description": "Eight intermediate vibe-coding mistakes that pass every test in development and break in production — from handing AI the full brief at once to skipping version control and CLAUDE.md, with the fix for each.",
+      "keywords": [
+        "vibe-coding",
+        "production",
+        "mistakes",
+        "claude-md",
+        "version-control",
+        "security",
+        "intermediate"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/how-to-prompt-ai-to-build-any-app#article",
+      "headline": "How to Prompt AI to Build Any App",
+      "url": "https://buildtolaunch.substack.com/p/how-to-prompt-ai-to-build-any-app",
+      "datePublished": "2025-12-23",
+      "description": "A seven-round conversation system that turns any app idea into a production-ready prompt chain, taking the model from problem statement through architecture to a final master prompt. Works with any AI coding tool.",
+      "keywords": [
+        "prompting",
+        "app-building",
+        "claude-code",
+        "cursor",
+        "architecture",
+        "prompt-chain",
+        "master-prompt"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/how-to-build-ai-app-vibe-coding-zero-to-launch#article",
+      "headline": "How to Build an AI Digest App with Replit: Complete Step-by-Step Guide",
+      "url": "https://buildtolaunch.substack.com/p/how-to-build-ai-app-vibe-coding-zero-to-launch",
+      "datePublished": "2026-01-28",
+      "description": "A complete how-to for building an AI information digest app — an RSS aggregator that summarizes and categorizes articles — built in Replit, hosted on Vercel with Supabase, from zero to a live URL in two hours with real costs and code patterns.",
+      "keywords": [
+        "replit",
+        "vibe-coding",
+        "rss-aggregator",
+        "openai",
+        "supabase",
+        "vercel",
+        "deployment",
+        "how-to"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/build-ai-email-digest-app-cursor#article",
+      "headline": "How I Built an AI Email Digest App with Cursor",
+      "url": "https://buildtolaunch.substack.com/p/build-ai-email-digest-app-cursor",
+      "datePublished": "2025-03-07",
+      "description": "A step-by-step build of an AI email digest app in Cursor that connects to Gmail, extracts article links, summarizes them with the Claude API, and scores them into a ranked reading list — with the spec prompt and full Python.",
+      "keywords": [
+        "email-digest",
+        "gmail-api",
+        "cursor",
+        "claude-api",
+        "summarization",
+        "python",
+        "build-log"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/build-ai-content-repurposing-app-cursor-claude-code#article",
+      "headline": "Build an AI Content Repurposing App With Cursor and Claude Code",
+      "url": "https://buildtolaunch.substack.com/p/build-ai-content-repurposing-app-cursor-claude-code",
+      "datePublished": "2025-01-24",
+      "description": "The build story of Quick Viral Notes, an AI content-repurposing app made in Cursor that turns long-form writing into short notes for LinkedIn, Substack, X, and Bluesky, with a 2026 update on what the author would change.",
+      "keywords": [
+        "content-repurposing",
+        "cursor",
+        "claude-code",
+        "app-build",
+        "automation",
+        "substack",
+        "quick-viral-notes"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/build-substack-niche-analyzer-cursor-python#article",
+      "headline": "Build a Substack Niche Analyzer With Python and Cursor: The App That Started as My Own Research Tool",
+      "url": "https://buildtolaunch.substack.com/p/build-substack-niche-analyzer-cursor-python",
+      "datePublished": "2025-02-24",
+      "description": "The full build log of a Substack niche analyzer in Python and Next.js — finding the Substack API endpoints, storing data locally instead of querying live, building the dashboard, and fixing the Vercel deployment bug.",
+      "keywords": [
+        "substack",
+        "python",
+        "cursor",
+        "nextjs",
+        "vercel",
+        "api",
+        "build-log",
+        "dashboard"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/vibe-coding-app-launch-7-lessons-cursor-claude-code#article",
+      "headline": "7 Things Nobody Warns You About Launching Your First Vibe Coding App",
+      "url": "https://buildtolaunch.substack.com/p/vibe-coding-app-launch-7-lessons-cursor-claude-code",
+      "datePublished": "2025-01-10",
+      "description": "Seven lessons from launching a first vibe-coded app, an image-finding tool — from cheap shared hosting failing an ML app to packaging a desktop app — with a 2026 update on what the author would build differently.",
+      "keywords": [
+        "vibe-coding",
+        "app-launch",
+        "first-app",
+        "mvp",
+        "deployment",
+        "hosting",
+        "lessons"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/llm-api-backup-strategy-6-lessons-cursor-claude-code#article",
+      "headline": "When Your AI API Goes Down: 6 Backup Lessons From a Real LLM Outage",
+      "url": "https://buildtolaunch.substack.com/p/llm-api-backup-strategy-6-lessons-cursor-claude-code",
+      "datePublished": "2025-01-31",
+      "description": "Six lessons from a live LLM provider outage that hit a production app mid-session — covering API token limits, model degradation, cost ceilings that rule out backups, and why the fallback has to be built before the outage.",
+      "keywords": [
+        "llm-api",
+        "outage",
+        "backup-strategy",
+        "reliability",
+        "deepseek",
+        "production",
+        "lessons"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
     }
   ]
 }
