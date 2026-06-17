@@ -3,7 +3,7 @@
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 221,
+  "total_articles": 224,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2873,6 +2873,57 @@
         "deepseek",
         "production",
         "lessons"
+      ]
+    },
+    {
+      "title": "The 4 Best Research MCPs for Claude (and the Job Each One Owns)",
+      "url": "https://buildtolaunch.substack.com/p/claude-best-research-mcps",
+      "description": "A field guide to four research MCPs for Claude and the job each one owns: Tavily finds where the signal lives, Exa matches by meaning, Apify pulls data from locked platforms, and Firecrawl deep-reads a URL you already have. Tested across 15 platforms with real runs, real costs, and the free-tier limits for each, plus a routing card for picking the right one in 30 seconds.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "MCP",
+        "research MCP",
+        "Tavily",
+        "Exa",
+        "Apify",
+        "Firecrawl",
+        "Claude",
+        "web scraping",
+        "voice of customer",
+        "free tier"
+      ]
+    },
+    {
+      "title": "3 Levels of Claude Workflow Stack That Close the Knowledge Work Loop",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-workflow-guide-knowledge-work",
+      "description": "A Practical AI Builder live-session recap on Model Context Protocol: the three stages of AI use (chatbox, advisor, hand-off), the three types of MCP work (Retrieve, Change, Execute), and three live workflows — Apify voice-of-customer research, Canva visual creation, and a Stripe-plus-Vercel product page deployed in ten minutes — followed by nine ready-to-run workflow prompts, one for every level.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "MCP",
+        "Claude",
+        "workflows",
+        "knowledge work",
+        "Apify",
+        "Canva",
+        "Stripe",
+        "Vercel",
+        "automation",
+        "Practical AI Builder"
+      ]
+    },
+    {
+      "title": "Production Playbook: Templates",
+      "url": "https://buildtolaunch.substack.com/p/production-playbook-templates",
+      "description": "A chapter of the Ultimate Vibe Coding Production-Ready Playbook: copy-paste planning templates and .cursorrules files for Next.js and Flask.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "production playbook",
+        "templates",
+        "cursorrules",
+        "Next.js",
+        "Flask",
+        "vibe coding",
+        "planning templates"
       ]
     }
   ]

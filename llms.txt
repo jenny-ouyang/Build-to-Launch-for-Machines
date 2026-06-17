@@ -49,6 +49,7 @@ Master vibe coding from first prompt to production.
 - [Vibe Coding Quick Wins Challenges](https://buildtolaunch.substack.com/p/vibe-coding-quick-wins-challenges): Tactical challenges for practice
 - [Production Playbook Example](https://buildtolaunch.substack.com/p/production-playbook-example): Real-world example walkthrough
 - [Vibe Coding Project Example](https://buildtolaunch.substack.com/p/vibe-coding-project-example-step-by-step): Step-by-step project example
+- [Production Playbook: Templates](https://buildtolaunch.substack.com/p/production-playbook-templates): Copy-paste planning templates and .cursorrules files for Next.js and Flask, a chapter of the Ultimate Vibe Coding Production-Ready Playbook.
 
 #### Prompting & Constraints
 - [Master Constraint Prompts](https://buildtolaunch.substack.com/p/master-constraint-prompts-for-vibe-coding): Constraint prompting for consistent output
@@ -203,6 +204,8 @@ Build autonomous agents that research, analyze, and execute independently.
 - [This MCP Resolves 99% of Your Search Problems (And Can Pay You Money)](https://buildtolaunch.substack.com/p/apify-mcp-pay-per-result-guide): How Apify's MCP-connected actor marketplace lets an AI agent find and pay for a tool by the result — what actors are, what pay-per-result pricing means for users and builders, finding the right actor without overpaying, and a playbook for building and monetizing your own.
 - [Claude Code Dynamic Workflows: How 100 Agents Research, Write, and Build in One Session](https://buildtolaunch.substack.com/p/claude-code-dynamic-workflows-guide): What dynamic workflows are, what ~100 parallel agents actually do (most of them fact-checking each finding), when the tokens are worth it, and how to run the same fan-out-and-verify pattern without the built-in feature.
 - [What Are Claude Code Subagents? (And How to Make the Most of Them)](https://buildtolaunch.substack.com/p/claude-code-subagents-explained): A guide to Claude Code subagents: the three built-in ones most people miss, when to run them in parallel versus sequence, five common failure modes with fixes, and starter configs.
+- [The 4 Best Research MCPs for Claude (and the Job Each One Owns)](https://buildtolaunch.substack.com/p/claude-best-research-mcps): Four research MCPs and the job each owns — Tavily finds sources, Exa matches by meaning, Apify cracks locked platforms, Firecrawl reads a URL you already have. Tested across 15 platforms with real runs, costs, and free-tier limits, plus a 30-second routing card.
+- [3 Levels of Claude Workflow Stack That Close the Knowledge Work Loop](https://buildtolaunch.substack.com/p/claude-code-workflow-guide-knowledge-work): A Practical AI Builder session on MCP — three stages of AI use, three types of MCP work (Retrieve, Change, Execute), and three live workflows ending in a Stripe-plus-Vercel product page deployed in ten minutes, with nine workflow prompts.
 
 ---
 

@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-06-09",
+  "dateModified": "2026-06-17",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-06-09",
+      "dateModified": "2026-06-17",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -7969,6 +7969,92 @@
         "deepseek",
         "production",
         "lessons"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-best-research-mcps#article",
+      "headline": "The 4 Best Research MCPs for Claude (and the Job Each One Owns)",
+      "url": "https://buildtolaunch.substack.com/p/claude-best-research-mcps",
+      "datePublished": "2026-06-15",
+      "description": "A field guide to four research MCPs for Claude and the job each one owns: Tavily finds where the signal lives, Exa matches by meaning, Apify pulls data from locked platforms, and Firecrawl deep-reads a URL you already have. Tested across 15 platforms with real runs, real costs, and the free-tier limits for each, plus a routing card for picking the right one in 30 seconds.",
+      "keywords": [
+        "MCP",
+        "research MCP",
+        "Tavily",
+        "Exa",
+        "Apify",
+        "Firecrawl",
+        "Claude",
+        "web scraping",
+        "voice of customer",
+        "free tier"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-workflow-guide-knowledge-work#article",
+      "headline": "3 Levels of Claude Workflow Stack That Close the Knowledge Work Loop",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-workflow-guide-knowledge-work",
+      "datePublished": "2026-06-13",
+      "description": "A Practical AI Builder live-session recap on Model Context Protocol: the three stages of AI use (chatbox, advisor, hand-off), the three types of MCP work (Retrieve, Change, Execute), and three live workflows — Apify voice-of-customer research, Canva visual creation, and a Stripe-plus-Vercel product page deployed in ten minutes — followed by nine ready-to-run workflow prompts, one for every level.",
+      "keywords": [
+        "MCP",
+        "Claude",
+        "workflows",
+        "knowledge work",
+        "Apify",
+        "Canva",
+        "Stripe",
+        "Vercel",
+        "automation",
+        "Practical AI Builder"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/production-playbook-templates#article",
+      "headline": "Production Playbook: Templates",
+      "url": "https://buildtolaunch.substack.com/p/production-playbook-templates",
+      "description": "A chapter of the Ultimate Vibe Coding Production-Ready Playbook: copy-paste planning templates and .cursorrules files for Next.js and Flask.",
+      "keywords": [
+        "production playbook",
+        "templates",
+        "cursorrules",
+        "Next.js",
+        "Flask",
+        "vibe coding",
+        "planning templates"
       ],
       "articleSection": "AI Builders Playbook",
       "author": {
