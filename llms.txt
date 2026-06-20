@@ -61,6 +61,7 @@ Master vibe coding from first prompt to production.
 - [Unfiltered Vibe Coding Prompt Process](https://buildtolaunch.substack.com/p/unfiltered-vibe-coding-prompt-generating-process): Raw prompt generation process
 - [How I Hired Hormozi, Welsh, and Koe as AI Mentors in 30 Minutes for Free](https://buildtolaunch.substack.com/p/best-claude-code-prompts-ai-mentor-guide): Use these 3 prompts framework to build AI mentors from your favorite creators, so you can consult on demand
 - [How to Prompt AI to Build Any App](https://buildtolaunch.substack.com/p/how-to-prompt-ai-to-build-any-app): A seven-round conversation system that turns any app idea into a production-ready prompt chain, taking the model from problem statement through architecture to a final master prompt. Works with any AI coding tool.
+- [Claude Code /loop: How to Keep It Running Until the Work Is Done](https://buildtolaunch.substack.com/p/claude-code-loop-guide): A guide to Claude Code's /loop: how to keep Claude working until a task is genuinely done instead of only looking finished, including the command to run it and a finish-line condition it cannot fake.
 
 #### Testing & Quality
 - [Smoke Testing Guide](https://buildtolaunch.substack.com/p/smoke-testing-vibe-coding-guide): Testing vibe-coded applications
@@ -89,6 +90,7 @@ Master vibe coding from first prompt to production.
 - [How to Run Local Models in Claude Desktop](https://buildtolaunch.substack.com/p/claude-code-ollama-local-model-guide): Step-by-step guide to connecting Ollama local models to Claude Desktop via the third-party inference gateway, covering model selection, configuration, and fixes for common errors.
 - [How to Use Claude Code for Real Problems, Not Just App Ideas](https://buildtolaunch.substack.com/p/things-to-build-with-claude-code): 19 starting points from daily work, personal life, and family time — each mapped to Task, Workflow, App, and Agent build levels — for people looking to fix actual friction rather than build portfolio apps.
 - [What is Claude Code? Is it for Non-Developers?](https://buildtolaunch.substack.com/p/claude-code-non-developer-explained): A plain-English explanation of Claude Code for non-developers: how it works, what a real session looks like step by step, and three concrete examples from organizing 2,400 photos to analyzing emails for patterns.
+- [Practical AI Builder Program](https://buildtolaunch.substack.com/p/practical-ai-builder-program-2): The Practical AI Builder program: a 12-month structure for people who already use AI and want to stop collecting tutorials and start solving real problems.
 
 #### Architecture & Infrastructure
 - [Architecture Patterns Guide](https://buildtolaunch.substack.com/p/architecture-patterns-complete-guide-to-architecture-decisions): Architecture decision guide
@@ -206,6 +208,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [What Are Claude Code Subagents? (And How to Make the Most of Them)](https://buildtolaunch.substack.com/p/claude-code-subagents-explained): A guide to Claude Code subagents: the three built-in ones most people miss, when to run them in parallel versus sequence, five common failure modes with fixes, and starter configs.
 - [The 4 Best Research MCPs for Claude (and the Job Each One Owns)](https://buildtolaunch.substack.com/p/claude-best-research-mcps): Four research MCPs and the job each owns — Tavily finds sources, Exa matches by meaning, Apify cracks locked platforms, Firecrawl reads a URL you already have. Tested across 15 platforms with real runs, costs, and free-tier limits, plus a 30-second routing card.
 - [3 Levels of Claude Workflow Stack That Close the Knowledge Work Loop](https://buildtolaunch.substack.com/p/claude-code-workflow-guide-knowledge-work): A Practical AI Builder session on MCP — three stages of AI use, three types of MCP work (Retrieve, Change, Execute), and three live workflows ending in a Stripe-plus-Vercel product page deployed in ten minutes, with nine workflow prompts.
+- [I Taught the Substack Author MCP to Reverse Engineer Article Covers](https://buildtolaunch.substack.com/p/substack-author-mcp-consistent-cover-image): A FastMCP-powered Substack Author MCP and skill that reverse-engineers any cover-image style and generates a per-article prompt inside one Claude session, holding brand-consistent covers without multi-agent context drift.
 
 ---
 
@@ -224,6 +227,7 @@ Get your work discovered without gatekeeping.
 - [Substack Niche Analyzer](https://buildtolaunch.substack.com/p/substack-niche-analyzer-app): Niche analysis tool
 - [How to Grow Your Substack With Limited Time and Zero Social Energy](https://buildtolaunch.substack.com/p/grow-substack-with-claude): A 3-level Substack growth framework — recommendation exchanges, notes that perform, and compounding content — with Claude-powered workflows for each level using Substack Explorer, QuickViralNotes, and the Substack MCP.
 - [Substack Growth Hub: Everything I've Learned About Growing on Substack —Notes, Niche, and 10x Growth Patterns](https://buildtolaunch.substack.com/p/substack-growth-hub): A chronological hub of everything learned growing on Substack from zero to 6,000+ subscribers and 200+ paid while working full-time — niche analysis, the first paid launch, the viral notes system, the Rising Badge reality, and what 3,000+ articles from top AI writers reveal.
+- [I Analyzed My Substack Niche—Here’s Where I Stand (And How You Compare!)](https://buildtolaunch.substack.com/p/research-substack-niche-competition-ai-claude): Worked with an AI agent to analyze 1,200 Substack newsletters and map where a newsletter stands on growth and engagement within its niche.
 
 ---
 
@@ -304,6 +308,8 @@ Real builders, real products, real lessons.
 - [Best AI Coding Tool Guide](https://buildtolaunch.substack.com/p/best-ai-coding-tool-guide): How to choose the best AI coding tool
 - [Replit vs Cursor Comparison Guide](https://buildtolaunch.substack.com/p/replit-vs-cursor-comparison-guide): Head-to-head comparison of Replit and Cursor
 - [Top Apps Built with AI Coding Tools](https://buildtolaunch.substack.com/p/top-apps-built-with-ai-coding-tools): Showcase of apps built with AI assistance
+- [Hilarious Secrets Only Programmers](https://buildtolaunch.substack.com/p/hilarious-secrets-only-programmers): Early Medium cross-post: a light, humorous take on the inside jokes and quirks of programming life.
+- [All You Need to Know on Financing](https://buildtolaunch.substack.com/p/all-you-need-to-know-on-financing): Early Medium cross-post covering the basics of financing and personal finance concepts.
 
 ---
 
@@ -334,6 +340,13 @@ Real builders, real products, real lessons.
 - [Tech Stack Struggles](https://buildtolaunch.substack.com/p/the-hidden-struggles-of-choosing): Choosing technologies
 - [Writing on Medium](https://buildtolaunch.substack.com/p/how-writing-on-medium-changed-my): Content creation journey
 - [Financing a Loan and Building a Home](https://buildtolaunch.substack.com/p/all-you-need-to-know-on-financing-a-loan-and-building-a-home-41c14b944ad2): Personal finance guide
+- [How I Screwed Up the Most Important Feature](https://buildtolaunch.substack.com/p/how-i-screwed-up-the-most-important-feature): Early Medium cross-post reflecting on a feature-development mistake and what it taught about shipping the right thing.
+- [How to Tame Functions With Way Too Many Parameters](https://buildtolaunch.substack.com/p/how-to-tame-functions-with-way-too-many-parameters): Early Medium cross-post on refactoring functions with too many parameters into cleaner, more maintainable code.
+- [Big Data Challenges](https://buildtolaunch.substack.com/p/big-data-challenges): Early Medium cross-post on the practical challenges of processing and working with big data.
+- [Captivating Insights](https://buildtolaunch.substack.com/p/captivating-insights): Early Medium cross-post on finding and presenting meaningful insights from data.
+- [Understand Hidden Emotions Better](https://buildtolaunch.substack.com/p/understand-hidden-emotions-better): Early Medium cross-post on emotional intelligence and how technology can help read underlying emotions.
+- [Understanding AI Text Generators](https://buildtolaunch.substack.com/p/understanding-ai-text-generators): Early Medium cross-post explaining how AI text generation works in plain terms.
+- [Battling the API Bottleneck](https://buildtolaunch.substack.com/p/battling-the-api-bottleneck): Early Medium cross-post on diagnosing and optimizing API performance bottlenecks.
 
 ---
 

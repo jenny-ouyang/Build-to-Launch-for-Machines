@@ -3,7 +3,7 @@
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 224,
+  "total_articles": 237,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -2924,6 +2924,182 @@
         "Flask",
         "vibe coding",
         "planning templates"
+      ]
+    },
+    {
+      "title": "I Taught the Substack Author MCP to Reverse Engineer Article Covers",
+      "url": "https://buildtolaunch.substack.com/p/substack-author-mcp-consistent-cover-image",
+      "description": "A FastMCP-powered Substack Author MCP and skill that reverse-engineers any cover-image style and generates a per-article prompt inside one Claude session, holding brand-consistent covers without multi-agent context drift.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "MCP",
+        "FastMCP",
+        "Substack",
+        "cover images",
+        "Claude skills",
+        "brand consistency",
+        "hero images"
+      ]
+    },
+    {
+      "title": "Claude Code /loop: How to Keep It Running Until the Work Is Done",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-loop-guide",
+      "description": "A guide to Claude Code's /loop: how to keep Claude working until a task is genuinely done instead of only looking finished, including the command to run it and a finish-line condition it cannot fake.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "Claude Code",
+        "loop",
+        "autonomous agents",
+        "task completion",
+        "CLI",
+        "prompting",
+        "finish line"
+      ]
+    },
+    {
+      "title": "I Analyzed My Substack Niche—Here’s Where I Stand (And How You Compare!)",
+      "url": "https://buildtolaunch.substack.com/p/research-substack-niche-competition-ai-claude",
+      "description": "Worked with an AI agent to analyze 1,200 Substack newsletters and map where a newsletter stands on growth and engagement within its niche.",
+      "articleSection": "Distribution Hub",
+      "keywords": [
+        "Substack",
+        "niche analysis",
+        "newsletter growth",
+        "AI agent",
+        "Claude",
+        "competition",
+        "data analysis"
+      ]
+    },
+    {
+      "title": "Practical AI Builder Program",
+      "url": "https://buildtolaunch.substack.com/p/practical-ai-builder-program-2",
+      "description": "The Practical AI Builder program: a 12-month structure for people who already use AI and want to stop collecting tutorials and start solving real problems.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "practical AI builder",
+        "program",
+        "cohort",
+        "AI building",
+        "structure",
+        "real projects"
+      ]
+    },
+    {
+      "title": "How I Screwed Up the Most Important Feature",
+      "url": "https://buildtolaunch.substack.com/p/how-i-screwed-up-the-most-important-feature",
+      "description": "Early Medium cross-post reflecting on a feature-development mistake and what it taught about shipping the right thing.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "feature development",
+        "mistakes",
+        "building",
+        "lessons",
+        "product"
+      ]
+    },
+    {
+      "title": "How to Tame Functions With Way Too Many Parameters",
+      "url": "https://buildtolaunch.substack.com/p/how-to-tame-functions-with-way-too-many-parameters",
+      "description": "Early Medium cross-post on refactoring functions with too many parameters into cleaner, more maintainable code.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "clean code",
+        "functions",
+        "parameters",
+        "refactoring",
+        "maintainability"
+      ]
+    },
+    {
+      "title": "Hilarious Secrets Only Programmers",
+      "url": "https://buildtolaunch.substack.com/p/hilarious-secrets-only-programmers",
+      "description": "Early Medium cross-post: a light, humorous take on the inside jokes and quirks of programming life.",
+      "articleSection": "Personal Stories & Growth",
+      "keywords": [
+        "programming",
+        "humor",
+        "developer life",
+        "inside jokes",
+        "culture"
+      ]
+    },
+    {
+      "title": "Big Data Challenges",
+      "url": "https://buildtolaunch.substack.com/p/big-data-challenges",
+      "description": "Early Medium cross-post on the practical challenges of processing and working with big data.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "big data",
+        "data processing",
+        "scale",
+        "challenges",
+        "engineering"
+      ]
+    },
+    {
+      "title": "Captivating Insights",
+      "url": "https://buildtolaunch.substack.com/p/captivating-insights",
+      "description": "Early Medium cross-post on finding and presenting meaningful insights from data.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "data insights",
+        "analysis",
+        "discovery",
+        "data science",
+        "patterns"
+      ]
+    },
+    {
+      "title": "Understand Hidden Emotions Better",
+      "url": "https://buildtolaunch.substack.com/p/understand-hidden-emotions-better",
+      "description": "Early Medium cross-post on emotional intelligence and how technology can help read underlying emotions.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "emotional intelligence",
+        "AI",
+        "sentiment",
+        "emotions",
+        "technology"
+      ]
+    },
+    {
+      "title": "Understanding AI Text Generators",
+      "url": "https://buildtolaunch.substack.com/p/understanding-ai-text-generators",
+      "description": "Early Medium cross-post explaining how AI text generation works in plain terms.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "AI text generation",
+        "NLP",
+        "language models",
+        "explainer",
+        "generative AI"
+      ]
+    },
+    {
+      "title": "Battling the API Bottleneck",
+      "url": "https://buildtolaunch.substack.com/p/battling-the-api-bottleneck",
+      "description": "Early Medium cross-post on diagnosing and optimizing API performance bottlenecks.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "API",
+        "performance",
+        "optimization",
+        "bottleneck",
+        "latency"
+      ]
+    },
+    {
+      "title": "All You Need to Know on Financing",
+      "url": "https://buildtolaunch.substack.com/p/all-you-need-to-know-on-financing",
+      "description": "Early Medium cross-post covering the basics of financing and personal finance concepts.",
+      "articleSection": "Personal Stories & Growth",
+      "keywords": [
+        "financing",
+        "personal finance",
+        "money",
+        "basics",
+        "business"
       ]
     }
   ]
