@@ -3101,6 +3101,41 @@
         "basics",
         "business"
       ]
+    },
+    {
+      "title": "LLMs Don't Read, They Parse: How to Format So AI Actually Uses Your Words",
+      "url": "https://buildtolaunch.substack.com/p/llm-format-prompts-markdown-xml-json",
+      "description": "How language models actually read text, parsing for structure and position rather than prose, and how to format any prompt, CLAUDE.md, or post so the model follows it. Covers boundary markers, where to place the important rule, which format each model prefers (Markdown, XML, JSON, YAML), and how the same moves help you get cited by AI search.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "prompt-formatting",
+        "llm-parsing",
+        "markdown",
+        "xml",
+        "json",
+        "yaml",
+        "claude-md",
+        "prompt-engineering",
+        "ai-citation",
+        "structure"
+      ]
+    },
+    {
+      "title": "Claude + Canva MCP: Make Repeatable On-Brand Designs on a Free Plan",
+      "url": "https://buildtolaunch.substack.com/p/claude-canva-mcp-free-plan-guide",
+      "description": "How the Canva MCP lets Claude build editable infographics, carousels, social posts, and thumbnails from one article, all on a free Canva plan. Maps what the connector gives you, the reusable skill workflow, the five tools that matter on free, and where the free plan stops.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "canva-mcp",
+        "claude",
+        "mcp",
+        "design-automation",
+        "free-plan",
+        "infographics",
+        "carousels",
+        "on-brand-design",
+        "ai-workflow"
+      ]
     }
   ]
 }

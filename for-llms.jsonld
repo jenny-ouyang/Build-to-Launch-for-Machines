@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-06-19",
+  "dateModified": "2026-06-27",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-06-19",
+      "dateModified": "2026-06-27",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8389,6 +8389,65 @@
         "business"
       ],
       "articleSection": "Personal Stories & Growth",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/llm-format-prompts-markdown-xml-json#article",
+      "headline": "LLMs Don't Read, They Parse: How to Format So AI Actually Uses Your Words",
+      "url": "https://buildtolaunch.substack.com/p/llm-format-prompts-markdown-xml-json",
+      "datePublished": "2026-06-26",
+      "description": "How language models actually read text, parsing for structure and position rather than prose, and how to format any prompt, CLAUDE.md, or post so the model follows it. Covers boundary markers, where to place the important rule, which format each model prefers (Markdown, XML, JSON, YAML), and how the same moves help you get cited by AI search.",
+      "keywords": [
+        "prompt-formatting",
+        "llm-parsing",
+        "markdown",
+        "xml",
+        "json",
+        "yaml",
+        "claude-md",
+        "prompt-engineering",
+        "ai-citation",
+        "structure"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-canva-mcp-free-plan-guide#article",
+      "headline": "Claude + Canva MCP: Make Repeatable On-Brand Designs on a Free Plan",
+      "url": "https://buildtolaunch.substack.com/p/claude-canva-mcp-free-plan-guide",
+      "datePublished": "2026-06-24",
+      "description": "How the Canva MCP lets Claude build editable infographics, carousels, social posts, and thumbnails from one article, all on a free Canva plan. Maps what the connector gives you, the reusable skill workflow, the five tools that matter on free, and where the free plan stops.",
+      "keywords": [
+        "canva-mcp",
+        "claude",
+        "mcp",
+        "design-automation",
+        "free-plan",
+        "infographics",
+        "carousels",
+        "on-brand-design",
+        "ai-workflow"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
