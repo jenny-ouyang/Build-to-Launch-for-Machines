@@ -152,6 +152,7 @@ Learn how AI works by building real projects.
 - [I built an AI research tool to study Substack creators](https://buildtolaunch.substack.com/p/mcp-substack-notes-research-agent): Building MCP for analyzing 3,230 Substack notes - data-backed content patterns
 - [AI Powered Research Automation](https://buildtolaunch.substack.com/p/ai-powered-research-automation): Research workflow automation
 - [AI Research Automation Workflow](https://buildtolaunch.substack.com/p/ai-research-automation-workflow): Complete research workflow
+- [Obsidian + Claude Code: Build a Second Brain That Runs Itself](https://buildtolaunch.substack.com/p/claude-code-obsidian-second-brain): Wiring an Obsidian vault to Claude Code so it reads and writes your notes, pulls one topic across your whole history, links clusters on its own, and stays in sync — with the four-step setup and a vault structure that survives hundreds of notes.
 
 #### AI Workflows & Productivity
 - [AI Tool Paralysis to Daily Workflow](https://buildtolaunch.substack.com/p/ai-tool-paralysis-daily-ai-workflow-universal): The 3-Mode + 3-Prompt system

@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-06-27",
+  "dateModified": "2026-07-08",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-06-27",
+      "dateModified": "2026-07-08",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8448,6 +8448,35 @@
         "ai-workflow"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-obsidian-second-brain#article",
+      "headline": "Obsidian + Claude Code: How to Build a Second Brain that Remembers, Connects, and Runs Itself",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-obsidian-second-brain",
+      "datePublished": "2026-07-01",
+      "description": "A full walkthrough of wiring an Obsidian vault to Claude Code so it becomes an AI-readable second brain: Claude reads and writes your notes, pulls one topic across your whole history, links clusters on its own, and keeps itself in sync. Covers the four-step setup, the vault structure that survives hundreds of notes, and the hook that makes Claude check the vault automatically.",
+      "keywords": [
+        "obsidian",
+        "claude-code",
+        "second-brain",
+        "knowledge-management",
+        "rag",
+        "note-linking",
+        "vault",
+        "automation",
+        "personal-knowledge-system"
+      ],
+      "articleSection": "Hands-on AI Technology",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

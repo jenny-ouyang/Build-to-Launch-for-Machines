@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-09",
+  "generated": "2026-07-08",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 237,
+  "total_articles": 240,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3135,6 +3135,23 @@
         "carousels",
         "on-brand-design",
         "ai-workflow"
+      ]
+    },
+    {
+      "title": "Obsidian + Claude Code: How to Build a Second Brain that Remembers, Connects, and Runs Itself",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-obsidian-second-brain",
+      "description": "A full walkthrough of wiring an Obsidian vault to Claude Code so it becomes an AI-readable second brain: Claude reads and writes your notes, pulls one topic across your whole history, links clusters on its own, and keeps itself in sync. Covers the four-step setup, the vault structure that survives hundreds of notes, and the hook that makes Claude check the vault automatically.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "obsidian",
+        "claude-code",
+        "second-brain",
+        "knowledge-management",
+        "rag",
+        "note-linking",
+        "vault",
+        "automation",
+        "personal-knowledge-system"
       ]
     }
   ]
