@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-10",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 240,
+  "total_articles": 241,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3152,6 +3152,24 @@
         "vault",
         "automation",
         "personal-knowledge-system"
+      ]
+    },
+    {
+      "title": "Open-Source LLMs in 2026: What's Actually Open, and How to Pick One",
+      "url": "https://buildtolaunch.substack.com/p/open-source-llms-2026-pricing-hosting",
+      "description": "A builder's map to the open LLM landscape in 2026: why most 'open' models are open-weight, not open source, who ships them now and why the leaderboard went Chinese, how to read a model's license before shipping, the five hosting lanes from serverless to self-host, and when to reach for an open model instead of Claude or GPT.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "open-source-llms",
+        "open-weight-models",
+        "llm-licensing",
+        "model-hosting",
+        "deepseek",
+        "llama",
+        "qwen",
+        "llm-pricing",
+        "inference-providers",
+        "model-selection"
       ]
     }
   ]

@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-07-08",
+  "dateModified": "2026-07-10",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-07-10",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8475,6 +8475,36 @@
         "vault",
         "automation",
         "personal-knowledge-system"
+      ],
+      "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/open-source-llms-2026-pricing-hosting#article",
+      "headline": "Open-Source LLMs in 2026: What's Actually Open, and How to Pick One",
+      "url": "https://buildtolaunch.substack.com/p/open-source-llms-2026-pricing-hosting",
+      "datePublished": "2026-07-08",
+      "description": "A builder's map to the open LLM landscape in 2026: why most 'open' models are open-weight, not open source, who ships them now and why the leaderboard went Chinese, how to read a model's license before shipping, the five hosting lanes from serverless to self-host, and when to reach for an open model instead of Claude or GPT.",
+      "keywords": [
+        "open-source-llms",
+        "open-weight-models",
+        "llm-licensing",
+        "model-hosting",
+        "deepseek",
+        "llama",
+        "qwen",
+        "llm-pricing",
+        "inference-providers",
+        "model-selection"
       ],
       "articleSection": "Hands-on AI Technology",
       "author": {

@@ -185,6 +185,7 @@ Learn how AI works by building real projects.
 - [How I Create Consistent Hero Images, And Why I Haven't Switched to NanoBanana](https://buildtolaunch.substack.com/p/how-i-create-consistent-hero-images-and-why-i-havent-switched-to-nanobanana): Hero image workflow and tool choice
 - [DeepSeek Outage LLM Backup](https://buildtolaunch.substack.com/p/deepseek-outage-llm-backup-lesson): LLM backup strategies
 - [Nano Banana 2 in Claude Code: 7 Essential Creator Use Cases](https://buildtolaunch.substack.com/p/nano-banana-2-claude-code-deep-dive): 7 creator workflows tested with 100+ images — hero images, infographics, carousel cards, targeted edits — plus a Claude Code MCP workflow for large-scale image generation.
+- [Open-Source LLMs in 2026: What's Actually Open, and How to Pick One](https://buildtolaunch.substack.com/p/open-source-llms-2026-pricing-hosting): A builder's map to the open LLM landscape — open-weight vs open source, who ships open models now and why the leaderboard went Chinese, reading a license before you ship, the five hosting lanes, and when to pick an open model over Claude or GPT.
 
 ---
 
