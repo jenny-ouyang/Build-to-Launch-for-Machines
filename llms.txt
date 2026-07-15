@@ -232,6 +232,7 @@ Get your work discovered without gatekeeping.
 - [How to Grow Your Substack With Limited Time and Zero Social Energy](https://buildtolaunch.substack.com/p/grow-substack-with-claude): A 3-level Substack growth framework — recommendation exchanges, notes that perform, and compounding content — with Claude-powered workflows for each level using Substack Explorer, QuickViralNotes, and the Substack MCP.
 - [Substack Growth Hub: Everything I've Learned About Growing on Substack —Notes, Niche, and 10x Growth Patterns](https://buildtolaunch.substack.com/p/substack-growth-hub): A chronological hub of everything learned growing on Substack from zero to 6,000+ subscribers and 200+ paid while working full-time — niche analysis, the first paid launch, the viral notes system, the Rising Badge reality, and what 3,000+ articles from top AI writers reveal.
 - [I Analyzed My Substack Niche—Here’s Where I Stand (And How You Compare!)](https://buildtolaunch.substack.com/p/research-substack-niche-competition-ai-claude): Worked with an AI agent to analyze 1,200 Substack newsletters and map where a newsletter stands on growth and engagement within its niche.
+- [I Handed My Substack Growth to Claude](https://buildtolaunch.substack.com/p/grow-substack-claude-code-mcp-workflows): Handing the mechanical 80% of Substack growth to Claude through one MCP — eight workflows to digest your inbox, size a niche, study a top creator, draft and schedule notes in your voice, and read what actually converts.
 
 ---
 

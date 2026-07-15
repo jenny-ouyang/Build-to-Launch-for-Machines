@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-07-10",
+  "dateModified": "2026-07-15",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-07-10",
+      "dateModified": "2026-07-15",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8507,6 +8507,36 @@
         "model-selection"
       ],
       "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/grow-substack-claude-code-mcp-workflows#article",
+      "headline": "I Handed My Substack Growth to Claude",
+      "url": "https://buildtolaunch.substack.com/p/grow-substack-claude-code-mcp-workflows",
+      "datePublished": "2026-07-11",
+      "description": "A recorded Build to Launch workshop on handing the mechanical 80% of Substack growth to Claude through one MCP. Eight workflows digest your subscription inbox, size a niche before you commit, reverse-engineer a top creator's playbook, turn one post into a week of notes in your voice, schedule them, and read which notes and subscribers actually convert.",
+      "keywords": [
+        "substack-growth",
+        "claude-code",
+        "mcp",
+        "substack-notes",
+        "newsletter-growth",
+        "ai-workflows",
+        "subscriber-analytics",
+        "niche-research",
+        "note-scheduling",
+        "conversion-optimization"
+      ],
+      "articleSection": "Distribution Hub",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

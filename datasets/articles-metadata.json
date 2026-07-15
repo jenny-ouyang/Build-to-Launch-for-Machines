@@ -3,7 +3,7 @@
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 241,
+  "total_articles": 242,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3170,6 +3170,24 @@
         "llm-pricing",
         "inference-providers",
         "model-selection"
+      ]
+    },
+    {
+      "title": "I Handed My Substack Growth to Claude",
+      "url": "https://buildtolaunch.substack.com/p/grow-substack-claude-code-mcp-workflows",
+      "description": "A recorded Build to Launch workshop on handing the mechanical 80% of Substack growth to Claude through one MCP. Eight workflows digest your subscription inbox, size a niche before you commit, reverse-engineer a top creator's playbook, turn one post into a week of notes in your voice, schedule them, and read which notes and subscribers actually convert.",
+      "articleSection": "Distribution Hub",
+      "keywords": [
+        "substack-growth",
+        "claude-code",
+        "mcp",
+        "substack-notes",
+        "newsletter-growth",
+        "ai-workflows",
+        "subscriber-analytics",
+        "niche-research",
+        "note-scheduling",
+        "conversion-optimization"
       ]
     }
   ]
