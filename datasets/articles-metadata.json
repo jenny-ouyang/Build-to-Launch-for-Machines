@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10",
+  "generated": "2026-07-25",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 242,
+  "total_articles": 246,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3188,6 +3188,74 @@
         "niche-research",
         "note-scheduling",
         "conversion-optimization"
+      ]
+    },
+    {
+      "title": "Why I Switched to the New ChatGPT Codex App: 4 Things I Shipped",
+      "url": "https://buildtolaunch.substack.com/p/chatgpt-codex-guide-4-use-cases",
+      "description": "On July 9 OpenAI folded Codex into the new ChatGPT desktop app. Jenny tested the merged Chat, Codex, and Work app against Claude Code on four real jobs, making her first YouTube video without an editor, turning it into a podcast, building three clickable prototypes, and rerunning her pipeline for free, then lays out how to use it and whether to switch.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "chatgpt-codex",
+        "claude-code",
+        "ai-coding-tools",
+        "chatgpt-desktop-app",
+        "vibe-coding",
+        "codex-vs-claude",
+        "ai-video",
+        "clickable-prototypes",
+        "coding-agents"
+      ]
+    },
+    {
+      "title": "If Your Computer Keeps Overheating While Using AI Tools, This Is Why",
+      "url": "https://buildtolaunch.substack.com/p/computer-overheat-ai-apps-mcp-servers-fix-guide",
+      "description": "A step-by-step fix for a Mac that overheats and runs high RAM while using AI tools, tracing the cause to the duplicate MCP servers each client spawns. Covers how to find the root cause, why killing processes never holds, and using an mcporter daemon so one shared server serves Claude, Cursor, and ChatGPT, taking the machine from 797 processes to 15.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "mac-overheating",
+        "mcp-servers",
+        "mcporter",
+        "high-ram-usage",
+        "runaway-processes",
+        "claude-code",
+        "cursor",
+        "ai-tool-performance",
+        "daemon-architecture"
+      ]
+    },
+    {
+      "title": "How I Built a Podcast Self-Publishing System in 13 Minutes",
+      "url": "https://buildtolaunch.substack.com/p/self-host-podcast-youtube-repurpose-guide",
+      "description": "How Jenny used an AI agent to build a podcast self-publishing system in 13 minutes that turns every approved YouTube video into an episode and streams it through her own RSS feed to Apple Podcasts and Spotify. Includes the exact agent prompt, the seven build-and-publish steps, real costs, and how each future episode ships in one loop.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "podcast-self-hosting",
+        "youtube-repurposing",
+        "rss-feed",
+        "apple-podcasts",
+        "spotify",
+        "cloudflare-r2",
+        "ai-agent-build",
+        "content-repurposing",
+        "publishing-pipeline"
+      ]
+    },
+    {
+      "title": "How to Use Hermes Agent to Get More From the AI You Already Pay For",
+      "url": "https://buildtolaunch.substack.com/p/hermes-agent-guide",
+      "description": "A hands-on review of Hermes Agent, a self-hosted AI agent for work that continues after a chat session ends. Jenny tests whether it runs on existing subscriptions, keeps rolling work moving across sessions, and improves its skills through use, with the exact setup prompts for X research and batch jobs, an honest verdict, and the three ways it will burn you plus the rules that stop it.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "hermes-agent",
+        "self-hosted-agent",
+        "autonomous-agents",
+        "claude-code",
+        "openclaw",
+        "x-research",
+        "agentic-workflows",
+        "supervised-autonomy",
+        "ai-subscriptions"
       ]
     }
   ]
