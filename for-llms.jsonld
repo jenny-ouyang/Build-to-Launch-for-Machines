@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-07-25",
+  "dateModified": "2026-07-29",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-07-25",
+      "dateModified": "2026-07-29",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8653,6 +8653,36 @@
         "ai-subscriptions"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/shared-ai-memory-second-brain-claude-chatgpt-hermes#article",
+      "headline": "How I Built a Shared AI Second Brain for Claude, ChatGPT, and Hermes",
+      "url": "https://buildtolaunch.substack.com/p/shared-ai-memory-second-brain-claude-chatgpt-hermes",
+      "datePublished": "2026-07-27",
+      "description": "How Jenny connected Claude Code, Codex desktop, and Hermes to one file-based second brain so skills, project context, and approved instructions stay current in every tool instead of drifting into three separate copies. Covers why cross-tool context drifts, the Shared AI Memory Starter Packet, the one setup prompt, a 10-minute post-setup retrieval test, how to route every AI tool to the same project, the capture-approve-fold skill feedback loop, and when the file-based system has hit a real limit worth upgrading.",
+      "keywords": [
+        "shared-ai-memory",
+        "ai-second-brain",
+        "claude-code",
+        "codex",
+        "hermes",
+        "cross-tool-context",
+        "file-based-memory",
+        "skill-management",
+        "project-routing",
+        "agent-skills"
+      ],
+      "articleSection": "Hands-on AI Technology",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-29",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 246,
+  "total_articles": 247,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3256,6 +3256,24 @@
         "agentic-workflows",
         "supervised-autonomy",
         "ai-subscriptions"
+      ]
+    },
+    {
+      "title": "How I Built a Shared AI Second Brain for Claude, ChatGPT, and Hermes",
+      "url": "https://buildtolaunch.substack.com/p/shared-ai-memory-second-brain-claude-chatgpt-hermes",
+      "description": "How Jenny connected Claude Code, Codex desktop, and Hermes to one file-based second brain so skills, project context, and approved instructions stay current in every tool instead of drifting into three separate copies. Covers why cross-tool context drifts, the Shared AI Memory Starter Packet, the one setup prompt, a 10-minute post-setup retrieval test, how to route every AI tool to the same project, the capture-approve-fold skill feedback loop, and when the file-based system has hit a real limit worth upgrading.",
+      "articleSection": "Hands-on AI Technology",
+      "keywords": [
+        "shared-ai-memory",
+        "ai-second-brain",
+        "claude-code",
+        "codex",
+        "hermes",
+        "cross-tool-context",
+        "file-based-memory",
+        "skill-management",
+        "project-routing",
+        "agent-skills"
       ]
     }
   ]
