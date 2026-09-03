@@ -1,0 +1,27 @@
+# Claude Dispatch: The 80% the Demos Don't Show
+**URL:** https://buildtolaunch.substack.com/p/claude-dispatch-use-case-breakdown-demos-vs-reality
+**Track:** AI Agent Systems
+**Published:** 2026-04-09
+
+## Summary
+
+This article is a stress test of Claude Dispatch, the remote-triggering feature that lets a phone send tasks to a Mac running Claude Desktop, built in response to the split reaction Jenny saw online: some people calling it a breakthrough, others calling it unreliable or nothing new. Rather than take either side on faith, she ran 18 real tasks across all five modes Dispatch can route through and logged the mode used, the time taken, the exact prompt, and an honest verdict for each. Her central argument going in is that Dispatch isn't a single new capability — it's a thin trigger sitting on top of a year of separately-shipped infrastructure: MCP connectors, Claude in Chrome, Computer Use (screenshot-based desktop control), skills and plugins, Claude Cowork as the session environment where tasks actually execute, and Claude Code for terminal and git work. She walks through what each layer contributes and what breaks without it — for instance, without an MCP for a given service, Claude falls back to slower, more failure-prone browser navigation, and without a live Cowork session, a dispatched task has nowhere to land at all.
+
+The task log itself is organized by reliability tier rather than by topic, and that structure carries the article's real argument. An onboarding step — telling Claude to explore the machine's apps, folders, and running processes without changing anything — surfaced organizational gaps in her own file system that she said she'd stopped noticing, like an unclear boundary between two overlapping project directories. From there, "warm-up" tasks like checking system resource usage, quitting an app, and listing or closing Chrome tabs were consistently reliable, run via AppleScript rather than the more fragile screenshot loop; Chrome tab cleanup in particular is singled out as the cleanest, most trustworthy Dispatch use case she found, something she runs daily. The "where it gets real" tier covers heavier tasks: a 20-minute unattended architecture analysis of three MCP codebases, a git operation where Dispatch succeeded at a three-way worktree merge and push after two separate Claude Code sessions had already stalled on the same job, a 30-minute Gmail sweep that read over a thousand newsletter emails and wrote a multi-thousand-line structured archive, and a Chrome-based pull of Substack subscriber and growth-source metrics into a formatted Google Doc that surfaced a real distribution insight about where her subscriber growth actually comes from.
+
+The failure tier is treated as equally instructive. A driver's-license upload to Google Voice got as far as file conversion (HEIC to JPEG) before failing outright at the upload step, because Google's identity-verification iframe is deliberately hardened against browser extensions, Computer Use, and JavaScript injection alike — her takeaway is to let Dispatch do the preparation and do the actual upload by hand. Canva was declined proactively because its canvas-based editor has no DOM elements for browser automation to grab onto, and an attempt to have Claude message Fiverr sellers on her behalf was declined by Claude itself on the grounds that creating obligations with strangers without per-message confirmation crosses a line — she treats that refusal as the correct call rather than a limitation to route around, since it's exactly the kind of unattended-outreach use case people cite as Dispatch's killer feature. A multi-hour attempt to have Code sessions build an HTTPS MCP endpoint showed a rough distribution across five parallel sessions: roughly 40% never started, 40% stalled in analysis loops, and 20% completed a genuinely strong implementation, and Dispatch itself eventually resolved the mess by comparing the competing outputs and merging the best one directly.
+
+Out of the 18 tasks, the article extracts a reusable prompt template — situation, scope, output location, and a permission line — and argues the single highest-leverage sentence is an explicit "complete all steps without asking for confirmation," since its absence is what causes Claude to pause and ask for direction at every decision point, while bounded scope (a specific search window or file boundary, not "check my email") is what prevents runaway or stalled tasks. The closing sections position Dispatch against OpenClaw, the always-on server agent she runs separately: Dispatch requires the Mac to be awake with Cowork live, so it owns the "local GUI, triggered from anywhere" surface, while OpenClaw owns jobs that must run while she's asleep or away from the machine entirely — the two are framed as complementary layers rather than competitors, with a concrete "what Monday morning looks like" walkthrough showing scheduled Gmail and content-research tasks firing on OpenClaw before she's awake, and Dispatch handling ad hoc phone-triggered cleanup during the day.
+
+## Key Sections
+- What Dispatch is built on — and why the demos suddenly make sense
+- What this changes for a one-person business
+- 18 tasks, one complete pack each
+- Before you send your first task — onboard Claude to your computer
+- Warm up — test the water
+- Where it gets real
+- Where it breaks — and when to walk away
+- The prompt structure that prevents most stalls
+- The stack — what lives where
+- What's next
+- Frequently Asked Questions
