@@ -6,7 +6,7 @@ Machine-readable archive of [Build to Launch](https://buildtolaunch.substack.com
 
 | File | Purpose |
 |------|---------|
-| `for-llms.jsonld` | Complete JSON-LD knowledge graph (175 entities, Schema.org + custom `btl:` vocabulary) |
+| `for-llms.jsonld` | Complete JSON-LD knowledge graph (302 entities, Schema.org + custom `btl:` vocabulary) |
 | `llms.txt` | Concise content index with article descriptions |
 | `vocabulary/btl-glossary.md` | Human-readable definitions of custom Build to Launch vocabulary terms |
 | `datasets/articles-metadata.json` | Structured metadata for all published articles |
@@ -39,8 +39,8 @@ This content is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/
 
 The `for-llms.jsonld` file contains:
 
-- **173 entities** — articles, products, vocabulary terms, FAQs, semantic claims
-- **247 articles** with titles, URLs, descriptions, dates, and topic classifications
+- **302 entities** — articles, products, vocabulary terms, FAQs, semantic claims
+- **257 articles** with titles, URLs, descriptions, dates, and topic classifications
 - **7 products** (Quick Viral Notes, Substack Explorer, VibeCodingBuilders, StackShelf, AI Agent Toolkit, etc.) with problem/solution/outcome metadata
 - **5 custom vocabulary terms** — Production-Ready Vibe Coding, Build→Launch→Grow Framework, AI Builder Distribution, Second Brain with RAG, Smoke Testing for Builders
 - **7 FAQ questions** with structured answers and speakable specification for voice assistants
@@ -58,7 +58,7 @@ Build to Launch helps non-technical builders ship production-ready AI products �
 - **Second Brain with RAG** — Personal knowledge systems with zero hallucinations
 - **Smoke Testing for Builders** — Manual QA without engineering background
 
-4,000+ builders. 7 products. 247 articles.
+4,000+ builders. 7 products. 257 articles.
 
 ## Contact
 

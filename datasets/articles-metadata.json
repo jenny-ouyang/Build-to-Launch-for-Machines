@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29",
+  "generated": "2026-09-03",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 247,
+  "total_articles": 257,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3274,6 +3274,142 @@
         "skill-management",
         "project-routing",
         "agent-skills"
+      ]
+    },
+    {
+      "title": "How I Built a Revenue Dashboard From Years of Messy Stripe Payments",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-project-stripe-revenue-dashboard",
+      "description": "2,147 Stripe payments mapped to products, plus the step-by-step prompts and sync workflows behind the private revenue view.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "claude",
+        "code",
+        "project",
+        "stripe",
+        "revenue",
+        "dashboard"
+      ]
+    },
+    {
+      "title": "Start using /grill-me: get 10x better results with AI",
+      "url": "https://buildtolaunch.substack.com/p/grill-me-skill-better-ai-results",
+      "description": "The best skills to get the result you want from AI. Why they work so well, how to apply them to writing, research, coding, and the steps to optimize anything else you want to build.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "grill",
+        "skill",
+        "better",
+        "results"
+      ]
+    },
+    {
+      "title": "How I Built a Local Business Finder for Any City and Niche",
+      "url": "https://buildtolaunch.substack.com/p/built-a-local-business-finder-claude-code-project",
+      "description": "Build an AI local business finder that automate scans, ranks visible web gaps, audits listed sites, and turns one scan into service opportunities.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "built",
+        "local",
+        "business",
+        "finder",
+        "claude",
+        "code",
+        "project"
+      ]
+    },
+    {
+      "title": "How I Built a Shared AI Second Brain for My Scheduled Tasks",
+      "url": "https://buildtolaunch.substack.com/p/ai-second-brain-scheduled-tasks",
+      "description": "Build a shared AI second brain for scheduled tasks, run one intake with Claude or Codex, and keep every source, historical run, and receipt visible.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "second",
+        "brain",
+        "scheduled",
+        "tasks"
+      ]
+    },
+    {
+      "title": "The 2-Rule Prompting Technique I Use With Every AI Tool",
+      "url": "https://buildtolaunch.ai/p/two-rule-prompting-technique",
+      "description": "Use two simple rules to write better AI prompts: choose the shortest accurate term, then make one single-purpose, self-contained request.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "two",
+        "rule",
+        "prompting",
+        "technique"
+      ]
+    },
+    {
+      "title": "The Complete Map of AI Scheduled Tasks",
+      "url": "https://buildtolaunch.substack.com/p/ai-scheduled-tasks-complete-map",
+      "description": "Compare AI scheduled tasks in Claude, ChatGPT, Perplexity, Gemini, n8n, agent gateways, launchd, and cron, then choose where one recurring job belongs.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "chatgpt-app",
+        "hermes-agent",
+        "claude",
+        "chatgpt",
+        "ai-scheduled-tasks",
+        "claude-code-loop",
+        "claude-code-routine",
+        "n8n",
+        "ai-automation"
+      ]
+    },
+    {
+      "title": "How I Built an SEO System That Tells Me What to Change Next",
+      "url": "https://buildtolaunch.substack.com/p/automated-seo-monitoring-claude-ai",
+      "description": "Step-by-step guide on an automated SEO monitoring system with Search Console, GA4, Bing, AI prompts, and a weekly report that tells you what to change next.",
+      "articleSection": "Distribution Hub",
+      "keywords": [
+        "google-search-console",
+        "google-analytics",
+        "ai-automation",
+        "seo-for-ai",
+        "aeo"
+      ]
+    },
+    {
+      "title": "CLAUDE.md Token Optimization: Why Claude Ignores Your Rules and Where They Should Live",
+      "url": "https://buildtolaunch.substack.com/p/claude-md-token-optimization-guide",
+      "description": "A five-layer setup for keeping the right project instructions in context, moving the rest, and checking what Claude loads.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-md",
+        "token-optimization",
+        "context-window",
+        "claude-code",
+        "claudeignore",
+        "claude-rules"
+      ]
+    },
+    {
+      "title": "How I Used Slack as a Two-Way Work Surface for Claude",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-slack-integration",
+      "description": "How to run Claude Code from Slack: the GitHub Actions workflow, the connectors, and the Gmail runner. One thread per job, answered with your laptop shut.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude",
+        "claude-code",
+        "github-action",
+        "ai-automation",
+        "slack",
+        "gmail-automation"
+      ]
+    },
+    {
+      "title": "What GitHub Actually Gives You, If You Never Write Code",
+      "url": "https://buildtolaunch.substack.com/p/github-for-non-programmers",
+      "description": "You do not need to code to use GitHub. It remembers every version, gives each job its own thread, and runs your instructions while your laptop is closed.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude",
+        "claude-code",
+        "github",
+        "vibe-coding",
+        "ai-automation"
       ]
     }
   ]

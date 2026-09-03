@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-07-29",
+  "dateModified": "2026-09-03",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-07-29",
+      "dateModified": "2026-09-03",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8683,6 +8683,262 @@
         "agent-skills"
       ],
       "articleSection": "Hands-on AI Technology",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-project-stripe-revenue-dashboard#article",
+      "headline": "How I Built a Revenue Dashboard From Years of Messy Stripe Payments",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-project-stripe-revenue-dashboard",
+      "datePublished": "2026-08-04",
+      "description": "2,147 Stripe payments mapped to products, plus the step-by-step prompts and sync workflows behind the private revenue view.",
+      "keywords": [
+        "claude",
+        "code",
+        "project",
+        "stripe",
+        "revenue",
+        "dashboard"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/grill-me-skill-better-ai-results#article",
+      "headline": "Start using /grill-me: get 10x better results with AI",
+      "url": "https://buildtolaunch.substack.com/p/grill-me-skill-better-ai-results",
+      "datePublished": "2026-08-05",
+      "description": "The best skills to get the result you want from AI. Why they work so well, how to apply them to writing, research, coding, and the steps to optimize anything else you want to build.",
+      "keywords": [
+        "grill",
+        "skill",
+        "better",
+        "results"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/built-a-local-business-finder-claude-code-project#article",
+      "headline": "How I Built a Local Business Finder for Any City and Niche",
+      "url": "https://buildtolaunch.substack.com/p/built-a-local-business-finder-claude-code-project",
+      "datePublished": "2026-08-10",
+      "description": "Build an AI local business finder that automate scans, ranks visible web gaps, audits listed sites, and turns one scan into service opportunities.",
+      "keywords": [
+        "built",
+        "local",
+        "business",
+        "finder",
+        "claude",
+        "code",
+        "project"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-second-brain-scheduled-tasks#article",
+      "headline": "How I Built a Shared AI Second Brain for My Scheduled Tasks",
+      "url": "https://buildtolaunch.substack.com/p/ai-second-brain-scheduled-tasks",
+      "datePublished": "2026-08-17",
+      "description": "Build a shared AI second brain for scheduled tasks, run one intake with Claude or Codex, and keep every source, historical run, and receipt visible.",
+      "keywords": [
+        "second",
+        "brain",
+        "scheduled",
+        "tasks"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.ai/p/two-rule-prompting-technique#article",
+      "headline": "The 2-Rule Prompting Technique I Use With Every AI Tool",
+      "url": "https://buildtolaunch.ai/p/two-rule-prompting-technique",
+      "datePublished": "2026-08-17",
+      "description": "Use two simple rules to write better AI prompts: choose the shortest accurate term, then make one single-purpose, self-contained request.",
+      "keywords": [
+        "two",
+        "rule",
+        "prompting",
+        "technique"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-scheduled-tasks-complete-map#article",
+      "headline": "The Complete Map of AI Scheduled Tasks",
+      "url": "https://buildtolaunch.substack.com/p/ai-scheduled-tasks-complete-map",
+      "datePublished": "2026-08-19",
+      "description": "Compare AI scheduled tasks in Claude, ChatGPT, Perplexity, Gemini, n8n, agent gateways, launchd, and cron, then choose where one recurring job belongs.",
+      "keywords": [
+        "chatgpt-app",
+        "hermes-agent",
+        "claude",
+        "chatgpt",
+        "ai-scheduled-tasks",
+        "claude-code-loop",
+        "claude-code-routine",
+        "n8n",
+        "ai-automation"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/automated-seo-monitoring-claude-ai#article",
+      "headline": "How I Built an SEO System That Tells Me What to Change Next",
+      "url": "https://buildtolaunch.substack.com/p/automated-seo-monitoring-claude-ai",
+      "datePublished": "2026-08-25",
+      "description": "Step-by-step guide on an automated SEO monitoring system with Search Console, GA4, Bing, AI prompts, and a weekly report that tells you what to change next.",
+      "keywords": [
+        "google-search-console",
+        "google-analytics",
+        "ai-automation",
+        "seo-for-ai",
+        "aeo"
+      ],
+      "articleSection": "Distribution Hub",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-md-token-optimization-guide#article",
+      "headline": "CLAUDE.md Token Optimization: Why Claude Ignores Your Rules and Where They Should Live",
+      "url": "https://buildtolaunch.substack.com/p/claude-md-token-optimization-guide",
+      "datePublished": "2026-08-29",
+      "description": "A five-layer setup for keeping the right project instructions in context, moving the rest, and checking what Claude loads.",
+      "keywords": [
+        "claude-md",
+        "token-optimization",
+        "context-window",
+        "claude-code",
+        "claudeignore",
+        "claude-rules"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-slack-integration#article",
+      "headline": "How I Used Slack as a Two-Way Work Surface for Claude",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-slack-integration",
+      "datePublished": "2026-09-02",
+      "description": "How to run Claude Code from Slack: the GitHub Actions workflow, the connectors, and the Gmail runner. One thread per job, answered with your laptop shut.",
+      "keywords": [
+        "claude",
+        "claude-code",
+        "github-action",
+        "ai-automation",
+        "slack",
+        "gmail-automation"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/github-for-non-programmers#article",
+      "headline": "What GitHub Actually Gives You, If You Never Write Code",
+      "url": "https://buildtolaunch.substack.com/p/github-for-non-programmers",
+      "datePublished": "2026-09-02",
+      "description": "You do not need to code to use GitHub. It remembers every version, gives each job its own thread, and runs your instructions while your laptop is closed.",
+      "keywords": [
+        "claude",
+        "claude-code",
+        "github",
+        "vibe-coding",
+        "ai-automation"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
