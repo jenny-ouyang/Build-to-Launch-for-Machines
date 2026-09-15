@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-09-03",
+  "dateModified": "2026-09-15",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-15",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8939,6 +8939,30 @@
         "ai-automation"
       ],
       "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-routines-beginner-guide#article",
+      "headline": "How to Build a Claude Code Routine That Repeats Your Work",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-routines-beginner-guide",
+      "datePublished": "2026-09-15",
+      "description": "The five-part automation map, a live Public Signal Brief, a visible AUTOMATION.md file, and the failed run that made receipts matter",
+      "keywords": [
+        "ai-agents",
+        "claude-code-routine",
+        "claude-code",
+        "ai-automation"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

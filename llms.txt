@@ -225,6 +225,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [How I Built a Shared AI Second Brain for My Scheduled Tasks](https://buildtolaunch.substack.com/p/ai-second-brain-scheduled-tasks): Build a shared AI second brain for scheduled tasks, run one intake with Claude or Codex, and keep every source, historical run, and receipt visible.
 - [The Complete Map of AI Scheduled Tasks](https://buildtolaunch.substack.com/p/ai-scheduled-tasks-complete-map): Compare AI scheduled tasks in Claude, ChatGPT, Perplexity, Gemini, n8n, agent gateways, launchd, and cron, then choose where one recurring job belongs.
 - [How I Used Slack as a Two-Way Work Surface for Claude](https://buildtolaunch.substack.com/p/claude-code-slack-integration): How to run Claude Code from Slack: the GitHub Actions workflow, the connectors, and the Gmail runner. One thread per job, answered with your laptop shut.
+- [How to Build a Claude Code Routine That Repeats Your Work](https://buildtolaunch.substack.com/p/claude-code-routines-beginner-guide): The five-part automation map, a live Public Signal Brief, a visible AUTOMATION.md file, and the failed run that made receipts matter
 
 ---
 

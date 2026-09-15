@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-03",
+  "generated": "2026-09-15",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 257,
+  "total_articles": 258,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3409,6 +3409,18 @@
         "claude-code",
         "github",
         "vibe-coding",
+        "ai-automation"
+      ]
+    },
+    {
+      "title": "How to Build a Claude Code Routine That Repeats Your Work",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-routines-beginner-guide",
+      "description": "The five-part automation map, a live Public Signal Brief, a visible AUTOMATION.md file, and the failed run that made receipts matter",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "ai-agents",
+        "claude-code-routine",
+        "claude-code",
         "ai-automation"
       ]
     }
