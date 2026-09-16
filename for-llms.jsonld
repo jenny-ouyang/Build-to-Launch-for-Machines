@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-09-15",
+  "dateModified": "2026-09-16",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-09-15",
+      "dateModified": "2026-09-16",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -8961,6 +8961,34 @@
         "claude-code-routine",
         "claude-code",
         "ai-automation"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-code-routine-connect-gmail-slack-apify#article",
+      "headline": "Supercharge Your Claude Routine With Connectors (and Make It Actually Use Them)",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-routine-connect-gmail-slack-apify",
+      "datePublished": "2026-09-16",
+      "description": "Three connections, four sources, and the six-minute check that told the truth.",
+      "keywords": [
+        "claude",
+        "ai-scheduled-tasks",
+        "claude-code-routine",
+        "mcp-connectors",
+        "claude-code",
+        "ai-workflow",
+        "scheduled-tasks",
+        "mcp-servers"
       ],
       "articleSection": "AI Agent Systems",
       "author": {

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-15",
+  "generated": "2026-09-16",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 258,
+  "total_articles": 259,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3422,6 +3422,22 @@
         "claude-code-routine",
         "claude-code",
         "ai-automation"
+      ]
+    },
+    {
+      "title": "Supercharge Your Claude Routine With Connectors (and Make It Actually Use Them)",
+      "url": "https://buildtolaunch.substack.com/p/claude-code-routine-connect-gmail-slack-apify",
+      "description": "Three connections, four sources, and the six-minute check that told the truth.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude",
+        "ai-scheduled-tasks",
+        "claude-code-routine",
+        "mcp-connectors",
+        "claude-code",
+        "ai-workflow",
+        "scheduled-tasks",
+        "mcp-servers"
       ]
     }
   ]
