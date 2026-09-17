@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-16",
+  "generated": "2026-09-17",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 259,
+  "total_articles": 260,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3438,6 +3438,24 @@
         "ai-workflow",
         "scheduled-tasks",
         "mcp-servers"
+      ]
+    },
+    {
+      "title": "How to Move a Claude Automation From Local to Cloud (Without Breaking the Job)",
+      "url": "https://buildtolaunch.substack.com/p/run-claude-code-routine-cloud-github-slack-guide",
+      "description": "The private GitHub home, Slack handoff, failed first remote run, Tavily repair, and passing receipt from",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "claude",
+        "claude-code-routine",
+        "practical-ai-builder-program",
+        "mcp-connectors",
+        "claude-code",
+        "github",
+        "github-action",
+        "ai-workflow",
+        "ai-automation",
+        "slack"
       ]
     }
   ]
