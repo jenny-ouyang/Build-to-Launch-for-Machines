@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-09-17",
+  "dateModified": "2026-09-18",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-09-17",
+      "dateModified": "2026-09-18",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9021,6 +9021,36 @@
         "slack"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop#article",
+      "headline": "How to Build a Content Automation System with Human-in-the-Loop",
+      "url": "https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop",
+      "datePublished": "2026-09-18",
+      "description": "One complete content automation cycle inside Claude, where a person steps in, and the seven-step map for building the same structure around your own work.",
+      "keywords": [
+        "claude",
+        "content-automation",
+        "ai-agents",
+        "claude-code-routine",
+        "human-in-the-loop",
+        "practical-ai-builder-program",
+        "claude-code",
+        "ai",
+        "content-engineering",
+        "ai-automation"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

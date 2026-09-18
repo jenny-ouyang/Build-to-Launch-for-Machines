@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 260,
+  "total_articles": 261,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3456,6 +3456,24 @@
         "ai-workflow",
         "ai-automation",
         "slack"
+      ]
+    },
+    {
+      "title": "How to Build a Content Automation System with Human-in-the-Loop",
+      "url": "https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop",
+      "description": "One complete content automation cycle inside Claude, where a person steps in, and the seven-step map for building the same structure around your own work.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude",
+        "content-automation",
+        "ai-agents",
+        "claude-code-routine",
+        "human-in-the-loop",
+        "practical-ai-builder-program",
+        "claude-code",
+        "ai",
+        "content-engineering",
+        "ai-automation"
       ]
     }
   ]

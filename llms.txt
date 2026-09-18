@@ -144,6 +144,7 @@ Master vibe coding from first prompt to production.
 - [The 2-Rule Prompting Technique I Use With Every AI Tool](https://buildtolaunch.ai/p/two-rule-prompting-technique): Use two simple rules to write better AI prompts: choose the shortest accurate term, then make one single-purpose, self-contained request.
 - [CLAUDE.md Token Optimization: Why Claude Ignores Your Rules and Where They Should Live](https://buildtolaunch.substack.com/p/claude-md-token-optimization-guide): A five-layer setup for keeping the right project instructions in context, moving the rest, and checking what Claude loads.
 - [What GitHub Actually Gives You, If You Never Write Code](https://buildtolaunch.substack.com/p/github-for-non-programmers): You do not need to code to use GitHub. It remembers every version, gives each job its own thread, and runs your instructions while your laptop is closed.
+- [How to Build a Content Automation System with Human-in-the-Loop](https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop): One complete content automation cycle inside Claude, where a person steps in, and the seven-step map for building the same structure around your own work.
 ---
 
 ### Track 2: Hands-on AI Technology
