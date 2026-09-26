@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-09-18",
+  "dateModified": "2026-09-26",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-09-18",
+      "dateModified": "2026-09-26",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9051,6 +9051,32 @@
         "ai-automation"
       ],
       "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/choose-where-claude-automation-runs#article",
+      "headline": "How to Choose Where Your Claude Automation Should Run",
+      "url": "https://buildtolaunch.substack.com/p/choose-where-claude-automation-runs",
+      "datePublished": "2026-09-26",
+      "description": "Choose the right Claude automation runtime with a five-part system, four run lanes, proof checks, stop controls, and 15 starting prompts.",
+      "keywords": [
+        "ai-scheduled-tasks",
+        "practical-ai-builder-program",
+        "claude-automation",
+        "ai-workflow",
+        "ai-automation",
+        "scheduled-tasks"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-18",
+  "generated": "2026-09-26",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 261,
+  "total_articles": 262,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3474,6 +3474,20 @@
         "ai",
         "content-engineering",
         "ai-automation"
+      ]
+    },
+    {
+      "title": "How to Choose Where Your Claude Automation Should Run",
+      "url": "https://buildtolaunch.substack.com/p/choose-where-claude-automation-runs",
+      "description": "Choose the right Claude automation runtime with a five-part system, four run lanes, proof checks, stop controls, and 15 starting prompts.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "ai-scheduled-tasks",
+        "practical-ai-builder-program",
+        "claude-automation",
+        "ai-workflow",
+        "ai-automation",
+        "scheduled-tasks"
       ]
     }
   ]

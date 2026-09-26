@@ -229,6 +229,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [How to Build a Claude Code Routine That Repeats Your Work](https://buildtolaunch.substack.com/p/claude-code-routines-beginner-guide): The five-part automation map, a live Public Signal Brief, a visible AUTOMATION.md file, and the failed run that made receipts matter
 - [Supercharge Your Claude Routine With Connectors (and Make It Actually Use Them)](https://buildtolaunch.substack.com/p/claude-code-routine-connect-gmail-slack-apify): Three connections, four sources, and the six-minute check that told the truth.
 - [How to Move a Claude Automation From Local to Cloud (Without Breaking the Job)](https://buildtolaunch.substack.com/p/run-claude-code-routine-cloud-github-slack-guide): The private GitHub home, Slack handoff, failed first remote run, Tavily repair, and passing receipt from
+- [How to Choose Where Your Claude Automation Should Run](https://buildtolaunch.substack.com/p/choose-where-claude-automation-runs): Choose the right Claude automation runtime with a five-part system, four run lanes, proof checks, stop controls, and 15 starting prompts.
 
 ---
 
