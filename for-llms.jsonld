@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-09-26",
+  "dateModified": "2026-10-02",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-09-26",
+      "dateModified": "2026-10-02",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9077,6 +9077,34 @@
         "scheduled-tasks"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-adoption-plan-in-one-day#article",
+      "headline": "How To Reset Yourself In One Day (So AI Can’t Replace You)",
+      "url": "https://buildtolaunch.substack.com/p/ai-adoption-plan-in-one-day",
+      "datePublished": "2026-10-01",
+      "description": "One day of planning, doing and reviewing your work with AI, and what changes after.",
+      "keywords": [
+        "claude",
+        "chatgpt",
+        "ai-for-everyone",
+        "ai",
+        "ai-workflow",
+        "ai-automation",
+        "ai-adoption",
+        "ai-accessibility"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
