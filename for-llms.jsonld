@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-02",
+  "dateModified": "2026-10-08",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-02",
+      "dateModified": "2026-10-08",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9103,6 +9103,30 @@
         "ai-automation",
         "ai-adoption",
         "ai-accessibility"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/make-ai-writing-sound-human#article",
+      "headline": "How to Make AI Writing Sound Human: The 9 Layers Most Humanize Lists Miss",
+      "url": "https://buildtolaunch.substack.com/p/make-ai-writing-sound-human",
+      "datePublished": "2026-10-07",
+      "description": "How to make AI writing sound human: 9 signs of AI writing a banned-words list misses, from AI slop phrases to invented evidence, with a fix prompt for each.",
+      "keywords": [
+        "make",
+        "writing",
+        "sound",
+        "human"
       ],
       "articleSection": "AI Builders Playbook",
       "author": {

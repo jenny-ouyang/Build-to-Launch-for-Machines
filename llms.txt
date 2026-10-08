@@ -146,6 +146,7 @@ Master vibe coding from first prompt to production.
 - [What GitHub Actually Gives You, If You Never Write Code](https://buildtolaunch.substack.com/p/github-for-non-programmers): You do not need to code to use GitHub. It remembers every version, gives each job its own thread, and runs your instructions while your laptop is closed.
 - [How to Build a Content Automation System with Human-in-the-Loop](https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop): One complete content automation cycle inside Claude, where a person steps in, and the seven-step map for building the same structure around your own work.
 - [How To Reset Yourself In One Day (So AI Can’t Replace You)](https://buildtolaunch.substack.com/p/ai-adoption-plan-in-one-day): One day of planning, doing and reviewing your work with AI, and what changes after.
+- [How to Make AI Writing Sound Human: The 9 Layers Most Humanize Lists Miss](https://buildtolaunch.substack.com/p/make-ai-writing-sound-human): How to make AI writing sound human: 9 signs of AI writing a banned-words list misses, from AI slop phrases to invented evidence, with a fix prompt for each.
 ---
 
 ### Track 2: Hands-on AI Technology
