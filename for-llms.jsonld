@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-08",
+  "dateModified": "2026-10-13",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-08",
+      "dateModified": "2026-10-13",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9129,6 +9129,32 @@
         "human"
       ],
       "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach#article",
+      "headline": "How to Use AI for Cold Outreach Without Sounding Like Spam",
+      "url": "https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach",
+      "datePublished": "2026-10-12",
+      "description": "How to use AI for cold outreach: research the field and the person, give value before you ask, and send each message yourself. Four member questions.",
+      "keywords": [
+        "cold-outreach",
+        "ai-revenue-strategies",
+        "ai-cold-outreach",
+        "ai-cold-email",
+        "ai-monetization",
+        "ai-research-agents"
+      ],
+      "articleSection": "Products Built and Shipped",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

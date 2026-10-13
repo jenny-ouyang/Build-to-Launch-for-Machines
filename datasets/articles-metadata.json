@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-13",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 264,
+  "total_articles": 265,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3516,6 +3516,20 @@
         "writing",
         "sound",
         "human"
+      ]
+    },
+    {
+      "title": "How to Use AI for Cold Outreach Without Sounding Like Spam",
+      "url": "https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach",
+      "description": "How to use AI for cold outreach: research the field and the person, give value before you ask, and send each message yourself. Four member questions.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "cold-outreach",
+        "ai-revenue-strategies",
+        "ai-cold-outreach",
+        "ai-cold-email",
+        "ai-monetization",
+        "ai-research-agents"
       ]
     }
   ]

@@ -286,6 +286,7 @@ Proof these frameworks work.
 - [7 Things Nobody Warns You About Launching Your First Vibe Coding App](https://buildtolaunch.substack.com/p/vibe-coding-app-launch-7-lessons-cursor-claude-code): Seven lessons from launching a first vibe-coded app, an image-finding tool — from cheap shared hosting failing an ML app to packaging a desktop app — with a 2026 update on what the author would build differently.
 - [How I Built a Revenue Dashboard From Years of Messy Stripe Payments](https://buildtolaunch.substack.com/p/claude-code-project-stripe-revenue-dashboard): 2,147 Stripe payments mapped to products, plus the step-by-step prompts and sync workflows behind the private revenue view.
 - [How I Built a Local Business Finder for Any City and Niche](https://buildtolaunch.substack.com/p/built-a-local-business-finder-claude-code-project): Build an AI local business finder that automate scans, ranks visible web gaps, audits listed sites, and turns one scan into service opportunities.
+- [How to Use AI for Cold Outreach Without Sounding Like Spam](https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach): How to use AI for cold outreach: research the field and the person, give value before you ask, and send each message yourself. Four member questions.
 
 ---
 
