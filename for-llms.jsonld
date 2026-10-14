@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-13",
+  "dateModified": "2026-10-14",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-13",
+      "dateModified": "2026-10-14",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9155,6 +9155,31 @@
         "ai-research-agents"
       ],
       "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/chatgpt-dot-vs-grok-bot-vs-meta-muse-use-cases#article",
+      "headline": "ChatGPT dot vs Grok Bot vs Meta Muse: Who’s Your Best Personal Agent?",
+      "url": "https://buildtolaunch.substack.com/p/chatgpt-dot-vs-grok-bot-vs-meta-muse-use-cases",
+      "datePublished": "2026-10-14",
+      "description": "ChatGPT dots, Grok Bot and Meta Muse are personal AI agents: they work in the background on your own accounts and check back with you when they need you.",
+      "keywords": [
+        "ai-agents",
+        "chatgpt-dot",
+        "grok-bot",
+        "personal-agent",
+        "meta-muse"
+      ],
+      "articleSection": "AI Agent Systems",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

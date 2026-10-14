@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-14",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 265,
+  "total_articles": 266,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3530,6 +3530,19 @@
         "ai-cold-email",
         "ai-monetization",
         "ai-research-agents"
+      ]
+    },
+    {
+      "title": "ChatGPT dot vs Grok Bot vs Meta Muse: Who’s Your Best Personal Agent?",
+      "url": "https://buildtolaunch.substack.com/p/chatgpt-dot-vs-grok-bot-vs-meta-muse-use-cases",
+      "description": "ChatGPT dots, Grok Bot and Meta Muse are personal AI agents: they work in the background on your own accounts and check back with you when they need you.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "ai-agents",
+        "chatgpt-dot",
+        "grok-bot",
+        "personal-agent",
+        "meta-muse"
       ]
     }
   ]
