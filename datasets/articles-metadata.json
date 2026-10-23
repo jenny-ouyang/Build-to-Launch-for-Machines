@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-23",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 266,
+  "total_articles": 267,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3543,6 +3543,23 @@
         "grok-bot",
         "personal-agent",
         "meta-muse"
+      ]
+    },
+    {
+      "title": "I Read 1,512 AI Workflows and Found 7 Shapes. You Already Use at Least One.",
+      "url": "https://buildtolaunch.substack.com/p/graph-engineering-ai-workflow-shapes-deep-dive",
+      "description": "I tested 1,512 published SKILL.md files for the seven shapes of graph engineering. Six are ordinary, one appears in 3.4 per cent, and you can read your own.",
+      "articleSection": "AI Agent Systems",
+      "keywords": [
+        "graph-engineering",
+        "graph-engineering-vs-loop-engineering",
+        "graph-shapes-for-agent-workflows",
+        "skill-md",
+        "agentic-workflow-patterns",
+        "ai-agent-design-patterns",
+        "n8n-workflow-patterns",
+        "claude-skills",
+        "human-in-the-loop"
       ]
     }
   ]

@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-14",
+  "dateModified": "2026-10-23",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-14",
+      "dateModified": "2026-10-23",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9178,6 +9178,35 @@
         "grok-bot",
         "personal-agent",
         "meta-muse"
+      ],
+      "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/graph-engineering-ai-workflow-shapes-deep-dive#article",
+      "headline": "I Read 1,512 AI Workflows and Found 7 Shapes. You Already Use at Least One.",
+      "url": "https://buildtolaunch.substack.com/p/graph-engineering-ai-workflow-shapes-deep-dive",
+      "datePublished": "2026-10-21",
+      "description": "I tested 1,512 published SKILL.md files for the seven shapes of graph engineering. Six are ordinary, one appears in 3.4 per cent, and you can read your own.",
+      "keywords": [
+        "graph-engineering",
+        "graph-engineering-vs-loop-engineering",
+        "graph-shapes-for-agent-workflows",
+        "skill-md",
+        "agentic-workflow-patterns",
+        "ai-agent-design-patterns",
+        "n8n-workflow-patterns",
+        "claude-skills",
+        "human-in-the-loop"
       ],
       "articleSection": "AI Agent Systems",
       "author": {

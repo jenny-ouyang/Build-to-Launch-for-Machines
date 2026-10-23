@@ -233,6 +233,7 @@ Build autonomous agents that research, analyze, and execute independently.
 - [How to Move a Claude Automation From Local to Cloud (Without Breaking the Job)](https://buildtolaunch.substack.com/p/run-claude-code-routine-cloud-github-slack-guide): The private GitHub home, Slack handoff, failed first remote run, Tavily repair, and passing receipt from
 - [How to Choose Where Your Claude Automation Should Run](https://buildtolaunch.substack.com/p/choose-where-claude-automation-runs): Choose the right Claude automation runtime with a five-part system, four run lanes, proof checks, stop controls, and 15 starting prompts.
 - [ChatGPT dot vs Grok Bot vs Meta Muse: Who’s Your Best Personal Agent?](https://buildtolaunch.substack.com/p/chatgpt-dot-vs-grok-bot-vs-meta-muse-use-cases): ChatGPT dots, Grok Bot and Meta Muse are personal AI agents: they work in the background on your own accounts and check back with you when they need you.
+- [I Read 1,512 AI Workflows and Found 7 Shapes. You Already Use at Least One.](https://buildtolaunch.substack.com/p/graph-engineering-ai-workflow-shapes-deep-dive): I tested 1,512 published SKILL.md files for the seven shapes of graph engineering. Six are ordinary, one appears in 3.4 per cent, and you can read your own.
 
 ---
 
