@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-23",
+  "dateModified": "2026-10-30",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-23",
+      "dateModified": "2026-10-30",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9209,6 +9209,33 @@
         "human-in-the-loop"
       ],
       "articleSection": "AI Agent Systems",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/fix-ai-slop-website-design#article",
+      "headline": "How to Stop Your Website From Looking Like AI Slop",
+      "url": "https://buildtolaunch.substack.com/p/fix-ai-slop-website-design",
+      "datePublished": "2026-10-28",
+      "description": "Why your AI-generated website looks like AI slop: the 10 signs from 120 vibe coded websites, and an 8-step fix with copy-paste prompts.",
+      "keywords": [
+        "ai-generated-website",
+        "build-to-launch-mcp",
+        "ui-design",
+        "claude-code",
+        "ai-slop-design",
+        "vibe-coding",
+        "ai-design"
+      ],
+      "articleSection": "Products Built and Shipped",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

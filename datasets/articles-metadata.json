@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-30",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 267,
+  "total_articles": 268,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3560,6 +3560,21 @@
         "n8n-workflow-patterns",
         "claude-skills",
         "human-in-the-loop"
+      ]
+    },
+    {
+      "title": "How to Stop Your Website From Looking Like AI Slop",
+      "url": "https://buildtolaunch.substack.com/p/fix-ai-slop-website-design",
+      "description": "Why your AI-generated website looks like AI slop: the 10 signs from 120 vibe coded websites, and an 8-step fix with copy-paste prompts.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "ai-generated-website",
+        "build-to-launch-mcp",
+        "ui-design",
+        "claude-code",
+        "ai-slop-design",
+        "vibe-coding",
+        "ai-design"
       ]
     }
   ]

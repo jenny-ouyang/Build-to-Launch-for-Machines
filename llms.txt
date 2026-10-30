@@ -289,6 +289,7 @@ Proof these frameworks work.
 - [How I Built a Revenue Dashboard From Years of Messy Stripe Payments](https://buildtolaunch.substack.com/p/claude-code-project-stripe-revenue-dashboard): 2,147 Stripe payments mapped to products, plus the step-by-step prompts and sync workflows behind the private revenue view.
 - [How I Built a Local Business Finder for Any City and Niche](https://buildtolaunch.substack.com/p/built-a-local-business-finder-claude-code-project): Build an AI local business finder that automate scans, ranks visible web gaps, audits listed sites, and turns one scan into service opportunities.
 - [How to Use AI for Cold Outreach Without Sounding Like Spam](https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach): How to use AI for cold outreach: research the field and the person, give value before you ask, and send each message yourself. Four member questions.
+- [How to Stop Your Website From Looking Like AI Slop](https://buildtolaunch.substack.com/p/fix-ai-slop-website-design): Why your AI-generated website looks like AI slop: the 10 signs from 120 vibe coded websites, and an 8-step fix with copy-paste prompts.
 
 ---
 
