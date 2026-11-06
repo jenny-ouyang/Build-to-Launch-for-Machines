@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-10-30",
+  "dateModified": "2026-11-06",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-10-30",
+      "dateModified": "2026-11-06",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9236,6 +9236,31 @@
         "ai-design"
       ],
       "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/best-claude-code-mods-guide#article",
+      "headline": "Claude Code Mods: What They Are and How to Build Your Own",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-mods-guide",
+      "datePublished": "2026-11-04",
+      "description": "Claude Code mods change what Claude shows and how it works. See real examples, build your own in five steps, avoid four catches, and pick from 69 mods.",
+      "keywords": [
+        "claude-code",
+        "ai-skills",
+        "claude-plugin",
+        "claude-code-mods",
+        "ai-tools"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

@@ -147,6 +147,7 @@ Master vibe coding from first prompt to production.
 - [How to Build a Content Automation System with Human-in-the-Loop](https://buildtolaunch.substack.com/p/content-automation-claude-code-human-in-the-loop): One complete content automation cycle inside Claude, where a person steps in, and the seven-step map for building the same structure around your own work.
 - [How To Reset Yourself In One Day (So AI Can’t Replace You)](https://buildtolaunch.substack.com/p/ai-adoption-plan-in-one-day): One day of planning, doing and reviewing your work with AI, and what changes after.
 - [How to Make AI Writing Sound Human: The 9 Layers Most Humanize Lists Miss](https://buildtolaunch.substack.com/p/make-ai-writing-sound-human): How to make AI writing sound human: 9 signs of AI writing a banned-words list misses, from AI slop phrases to invented evidence, with a fix prompt for each.
+- [Claude Code Mods: What They Are and How to Build Your Own](https://buildtolaunch.substack.com/p/best-claude-code-mods-guide): Claude Code mods change what Claude shows and how it works. See real examples, build your own in five steps, avoid four catches, and pick from 69 mods.
 ---
 
 ### Track 2: Hands-on AI Technology

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-30",
+  "generated": "2026-11-06",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 268,
+  "total_articles": 269,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3575,6 +3575,19 @@
         "ai-slop-design",
         "vibe-coding",
         "ai-design"
+      ]
+    },
+    {
+      "title": "Claude Code Mods: What They Are and How to Build Your Own",
+      "url": "https://buildtolaunch.substack.com/p/best-claude-code-mods-guide",
+      "description": "Claude Code mods change what Claude shows and how it works. See real examples, build your own in five steps, avoid four catches, and pick from 69 mods.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "claude-code",
+        "ai-skills",
+        "claude-plugin",
+        "claude-code-mods",
+        "ai-tools"
       ]
     }
   ]
