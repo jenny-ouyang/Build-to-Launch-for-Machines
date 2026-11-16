@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-11-06",
+  "dateModified": "2026-11-16",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-11-06",
+      "dateModified": "2026-11-16",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9261,6 +9261,37 @@
         "ai-tools"
       ],
       "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/ai-news-aggregator-jobs-research#article",
+      "headline": "How to Make AI Collect Information for You (One Connector, Every Source)",
+      "url": "https://buildtolaunch.substack.com/p/ai-news-aggregator-jobs-research",
+      "datePublished": "2026-11-15",
+      "description": "Build an AI news aggregator from sources you trust, get new jobs from career pages weekly, and research people before outreach. Real prompts inside.",
+      "keywords": [
+        "claude",
+        "claude-code-routine",
+        "monthly-ama",
+        "build-to-launch-mcp",
+        "mcp-connectors",
+        "claude-code",
+        "ai-workflow",
+        "ai-news",
+        "ai-automation",
+        "ai-research-agents",
+        "ai-job-search"
+      ],
+      "articleSection": "Products Built and Shipped",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },

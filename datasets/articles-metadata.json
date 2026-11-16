@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-16",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 269,
+  "total_articles": 270,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3588,6 +3588,25 @@
         "claude-plugin",
         "claude-code-mods",
         "ai-tools"
+      ]
+    },
+    {
+      "title": "How to Make AI Collect Information for You (One Connector, Every Source)",
+      "url": "https://buildtolaunch.substack.com/p/ai-news-aggregator-jobs-research",
+      "description": "Build an AI news aggregator from sources you trust, get new jobs from career pages weekly, and research people before outreach. Real prompts inside.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "claude",
+        "claude-code-routine",
+        "monthly-ama",
+        "build-to-launch-mcp",
+        "mcp-connectors",
+        "claude-code",
+        "ai-workflow",
+        "ai-news",
+        "ai-automation",
+        "ai-research-agents",
+        "ai-job-search"
       ]
     }
   ]
