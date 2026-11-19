@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-11-16",
+  "dateModified": "2026-11-19",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-11-16",
+      "dateModified": "2026-11-19",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9290,6 +9290,39 @@
         "ai-automation",
         "ai-research-agents",
         "ai-job-search"
+      ],
+      "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/claude-mcp-build-to-launch#article",
+      "headline": "Make Your AI the Partner You Build With (Introducing the new Build to Launch MCP)",
+      "url": "https://buildtolaunch.substack.com/p/claude-mcp-build-to-launch",
+      "datePublished": "2026-11-18",
+      "description": "A Claude MCP that also works in ChatGPT, Codex and Cursor: 475 guides, 143 buddies, 7 example jobs and three ways to connect.",
+      "keywords": [
+        "claude",
+        "chatgpt",
+        "build-to-launch-mcp",
+        "mcp-connectors",
+        "product-market-fit",
+        "competitor-research",
+        "claude-plugin",
+        "ai-automation",
+        "ai-design",
+        "seo-for-ai",
+        "production-ready",
+        "ai-flavor",
+        "mcp-servers"
       ],
       "articleSection": "Products Built and Shipped",
       "author": {

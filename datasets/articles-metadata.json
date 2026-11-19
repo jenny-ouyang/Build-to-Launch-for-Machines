@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-19",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 270,
+  "total_articles": 271,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3607,6 +3607,27 @@
         "ai-automation",
         "ai-research-agents",
         "ai-job-search"
+      ]
+    },
+    {
+      "title": "Make Your AI the Partner You Build With (Introducing the new Build to Launch MCP)",
+      "url": "https://buildtolaunch.substack.com/p/claude-mcp-build-to-launch",
+      "description": "A Claude MCP that also works in ChatGPT, Codex and Cursor: 475 guides, 143 buddies, 7 example jobs and three ways to connect.",
+      "articleSection": "Products Built and Shipped",
+      "keywords": [
+        "claude",
+        "chatgpt",
+        "build-to-launch-mcp",
+        "mcp-connectors",
+        "product-market-fit",
+        "competitor-research",
+        "claude-plugin",
+        "ai-automation",
+        "ai-design",
+        "seo-for-ai",
+        "production-ready",
+        "ai-flavor",
+        "mcp-servers"
       ]
     }
   ]

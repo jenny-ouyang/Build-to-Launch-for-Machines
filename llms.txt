@@ -292,6 +292,7 @@ Proof these frameworks work.
 - [How to Use AI for Cold Outreach Without Sounding Like Spam](https://buildtolaunch.substack.com/p/how-to-use-ai-for-cold-outreach): How to use AI for cold outreach: research the field and the person, give value before you ask, and send each message yourself. Four member questions.
 - [How to Stop Your Website From Looking Like AI Slop](https://buildtolaunch.substack.com/p/fix-ai-slop-website-design): Why your AI-generated website looks like AI slop: the 10 signs from 120 vibe coded websites, and an 8-step fix with copy-paste prompts.
 - [How to Make AI Collect Information for You (One Connector, Every Source)](https://buildtolaunch.substack.com/p/ai-news-aggregator-jobs-research): Build an AI news aggregator from sources you trust, get new jobs from career pages weekly, and research people before outreach. Real prompts inside.
+- [Make Your AI the Partner You Build With (Introducing the new Build to Launch MCP)](https://buildtolaunch.substack.com/p/claude-mcp-build-to-launch): A Claude MCP that also works in ChatGPT, Codex and Cursor: 475 guides, 143 buddies, 7 example jobs and three ways to connect.
 
 ---
 
