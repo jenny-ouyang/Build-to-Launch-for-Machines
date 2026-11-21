@@ -148,6 +148,8 @@ Master vibe coding from first prompt to production.
 - [How To Reset Yourself In One Day (So AI Can’t Replace You)](https://buildtolaunch.substack.com/p/ai-adoption-plan-in-one-day): One day of planning, doing and reviewing your work with AI, and what changes after.
 - [How to Make AI Writing Sound Human: The 9 Layers Most Humanize Lists Miss](https://buildtolaunch.substack.com/p/make-ai-writing-sound-human): How to make AI writing sound human: 9 signs of AI writing a banned-words list misses, from AI slop phrases to invented evidence, with a fix prompt for each.
 - [Claude Code Mods: What They Are and How to Build Your Own](https://buildtolaunch.substack.com/p/best-claude-code-mods-guide): Claude Code mods change what Claude shows and how it works. See real examples, build your own in five steps, avoid four catches, and pick from 69 mods.
+- [Work with me](https://buildtolaunch.substack.com/p/work-with-me): You use AI most days.
+- [Anthropic IPO: The 7 Most Important Questions, Answered](https://buildtolaunch.substack.com/p/anthropic-ipo-claude-users): Anthropic IPO, from the filing: a $104B loss that is mostly paper, $6.6B of cash in, a $900.9B compute bill, the $83 price, and what changes for Claude.
 ---
 
 ### Track 2: Hands-on AI Technology

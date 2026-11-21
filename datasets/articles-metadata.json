@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-21",
   "source": "buildtolaunch_knowledge_graph.jsonld",
   "canonical": "https://buildtolaunch.substack.com/",
   "author": "Jenny Ouyang",
-  "total_articles": 271,
+  "total_articles": 273,
   "articles": [
     {
       "title": "Claude Dispatch: The 80% the Demos Don't Show",
@@ -3628,6 +3628,32 @@
         "production-ready",
         "ai-flavor",
         "mcp-servers"
+      ]
+    },
+    {
+      "title": "Work with me",
+      "url": "https://buildtolaunch.substack.com/p/work-with-me",
+      "description": "You use AI most days.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "work",
+        "with"
+      ]
+    },
+    {
+      "title": "Anthropic IPO: The 7 Most Important Questions, Answered",
+      "url": "https://buildtolaunch.substack.com/p/anthropic-ipo-claude-users",
+      "description": "Anthropic IPO, from the filing: a $104B loss that is mostly paper, $6.6B of cash in, a $900.9B compute bill, the $83 price, and what changes for Claude.",
+      "articleSection": "AI Builders Playbook",
+      "keywords": [
+        "cost",
+        "claude",
+        "openai",
+        "anthropic",
+        "ai-bubble",
+        "claude-pricing",
+        "ai-news",
+        "anthropic-ipo"
       ]
     }
   ]

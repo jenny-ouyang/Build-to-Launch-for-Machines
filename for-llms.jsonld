@@ -8,7 +8,7 @@
   ],
   "@id": "https://jennyouyang.ai/for-llms",
   "name": "Build to Launch — AI Builder Knowledge Graph",
-  "dateModified": "2026-11-19",
+  "dateModified": "2026-11-21",
   "@graph": [
     {
       "@type": "DataCatalog",
@@ -18,7 +18,7 @@
       "inLanguage": "en",
       "identifier": "btl-catalog-v1",
       "version": "1.0.0",
-      "dateModified": "2026-11-19",
+      "dateModified": "2026-11-21",
       "provider": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
@@ -9325,6 +9325,56 @@
         "mcp-servers"
       ],
       "articleSection": "Products Built and Shipped",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/work-with-me#article",
+      "headline": "Work with me",
+      "url": "https://buildtolaunch.substack.com/p/work-with-me",
+      "datePublished": "2026-11-19",
+      "description": "You use AI most days.",
+      "keywords": [
+        "work",
+        "with"
+      ],
+      "articleSection": "AI Builders Playbook",
+      "author": {
+        "@id": "https://buildtolaunch.ai/#jenny"
+      },
+      "publisher": {
+        "@id": "https://buildtolaunch.ai/#org"
+      },
+      "isPartOf": {
+        "@id": "https://buildtolaunch.ai/#for-machines-dataset"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://buildtolaunch.substack.com/p/anthropic-ipo-claude-users#article",
+      "headline": "Anthropic IPO: The 7 Most Important Questions, Answered",
+      "url": "https://buildtolaunch.substack.com/p/anthropic-ipo-claude-users",
+      "datePublished": "2026-11-20",
+      "description": "Anthropic IPO, from the filing: a $104B loss that is mostly paper, $6.6B of cash in, a $900.9B compute bill, the $83 price, and what changes for Claude.",
+      "keywords": [
+        "cost",
+        "claude",
+        "openai",
+        "anthropic",
+        "ai-bubble",
+        "claude-pricing",
+        "ai-news",
+        "anthropic-ipo"
+      ],
+      "articleSection": "AI Builders Playbook",
       "author": {
         "@id": "https://buildtolaunch.ai/#jenny"
       },
